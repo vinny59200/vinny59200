@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi, I'm Vincent VAUBAN and I am a Full Stack Web Developer 👨‍💻
 
-<!--
-**vinny59200/vinny59200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on an insurance company website
+- 🌱 I’m currently learning Angular
+- 👯 I’m looking to collaborate on creating new trivial Angular coding cases
+- 🤔 I’m looking for help with RxJs, Jasmine, Jest, Redux
+- 💬 Ask me about Angular, and Java
+- 📫 How to reach me: [website]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: A TV series I’ve watched all the way through more than once is 'The Unit'. Where there is unity, there is victory.
 
-Here are some ideas to get you started:
+## Find me around the web 🌎:
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+👔 [linkedin][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[website]: https://vvauban.com
+[twitter]: https://twitter.com/vvauban
+[youtube]: https://www.youtube.com/channel/UCYLjkxJuSkJsgBmDoh9dMoA
+[linkedin]: https://linkedin.com/in/vvauban
