@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vincent VAUBAN </h1>
+<h1 align="center">Hi 👋, I'm Vincent VAUBAN</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 
 - 🔭 I’m currently working on [insurance company website](https://entreprise.malakoffhumanis.com)
@@ -35,6 +35,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinny59200&show_icons=true&locale=en&layout=compact" alt="vinny59200" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinny59200&show_icons=true&locale=en" alt="vinny59200" /></p>
+
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
