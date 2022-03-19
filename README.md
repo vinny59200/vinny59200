@@ -19,10 +19,6 @@
 
 - 📄 Know about my experiences [https://uploads.strikinglycdn.com/files/9c4dde3e-3934-4e70-8cdc-ce6c326dc689/cv-1p-vvauban.pdf?id=3770882](https://uploads.strikinglycdn.com/files/9c4dde3e-3934-4e70-8cdc-ce6c326dc689/cv-1p-vvauban.pdf?id=3770882)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vvauban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vvauban" height="30" width="40" /></a>
@@ -31,7 +27,6 @@
 <a href="https://fb.com/vvauban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vvauban" height="30" width="40" /></a>
 <a href="https://instagram.com/vinny59200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinny59200" height="30" width="40" /></a>
 <a href="https://medium.com/@vvauban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vvauban" height="30" width="40" /></a>
-<a href="/https://blog.vvauban.com/blog/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.vvauban.com/blog/feed.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
