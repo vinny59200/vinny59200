@@ -38,4 +38,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Team building is a process not an event](https://blog.vvauban.com/blog/team-building-is-a-process-not-an-event-2ef68537-0b1f-487b-85eb-c63f40b1d621)
+- [JAVA CERTIFICATION QUESTION: Bitwise boolean operators in Java](https://blog.vvauban.com/blog/java-certification-question-bitwise-boolean-operators-in-java)
+- [ANGULAR TIP: Input decorator](https://blog.vvauban.com/blog/angular-tip-input-decorator)
+- [Why are you &lpar;still!&rpar; using Java? 👇👇👇](https://blog.vvauban.com/blog/why-are-you-still-using-java)
+- [INTELLIJ SHORCUTS: Alt + Enter 👉 Show intention actions and quick-fixes](https://blog.vvauban.com/blog/intellij-shorcuts-alt-enter-show-intention-actions-and-quick-fixes)
 <!-- BLOG-POST-LIST:END -->
