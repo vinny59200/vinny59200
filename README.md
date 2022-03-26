@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Team building is a process not an event](https://blog.vvauban.com/blog/team-building-is-a-process-not-an-event-2ef68537-0b1f-487b-85eb-c63f40b1d621)
-- [JAVA CERTIFICATION QUESTION: Bitwise boolean operators in Java](https://blog.vvauban.com/blog/java-certification-question-bitwise-boolean-operators-in-java)
-- [ANGULAR TIP: Input decorator](https://blog.vvauban.com/blog/angular-tip-input-decorator)
-- [Why are you &lpar;still!&rpar; using Java? 👇👇👇](https://blog.vvauban.com/blog/why-are-you-still-using-java)
-- [INTELLIJ SHORCUTS: Alt + Enter 👉 Show intention actions and quick-fixes](https://blog.vvauban.com/blog/intellij-shorcuts-alt-enter-show-intention-actions-and-quick-fixes)
+- [SELF-PROMO: 100Km run in March 🏃](https://blog.vvauban.com/blog/self-promo-100km-run-in-march)
+- [JAVA: a green programming language](https://blog.vvauban.com/blog/java-a-green-programming-language)
+- [TESTING: What is smoke testing? 🚬](https://blog.vvauban.com/blog/testing-what-is-smoke-testing)
+- [JAVASCRIPT TIP: console.table 👉 log an objects list in a table way](https://blog.vvauban.com/blog/javascript-tip-console-table-log-an-objects-list-in-a-table-way)
+- [ANGULAR TIP: For Angular Documentation 👉 Use Compodoc](https://blog.vvauban.com/blog/angular-tip-for-angular-documentation-use-compodoc)
 <!-- BLOG-POST-LIST:END -->
