@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Java 18 for developers &lpar;pattern matching&rpar;](https://blog.vvauban.com/blog/java-18-for-developers-pattern-matching)
+- [javascript array api](https://blog.vvauban.com/blog/javascript-array-api)
+- [My completion ✅ of the java roadmap 2022](https://blog.vvauban.com/blog/my-completion-of-the-java-roadmap-2022)
 - [ANGULAR TIP: For Angular Translation 👉 Use ngx-translate](https://blog.vvauban.com/blog/angular-tip-for-angular-translation-use-ngx-translate)
 - [JAVA CERTIFICATION QUESTION: Java text blocks and escape sequences](https://blog.vvauban.com/blog/java-certification-question-java-text-blocks-and-escape-sequences)
-- [FREE DEVOPS BOOK: &quot;DevOps Adoption Strategies: Principles, Processes, Tools, and Trends &lpar;$34.99 Value&rpar; FREE for a Limited Time&quot;](https://blog.vvauban.com/blog/free-devops-book-devops-adoption-strategies-principles-processes-tools)
-- [&quot;Create a simple and meaningful structure for your project. Avoid creating loads of objects.&quot;](https://blog.vvauban.com/blog/create-a-simple-and-meaningful-structure-for-your-project-avoid-creating)
-- [SELF-PROMO: 100Km run in March 🏃](https://blog.vvauban.com/blog/self-promo-100km-run-in-march)
 <!-- BLOG-POST-LIST:END -->
