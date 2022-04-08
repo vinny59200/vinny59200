@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java 18 for developers &lpar;pattern matching&rpar;](https://blog.vvauban.com/blog/java-18-for-developers-pattern-matching)
-- [javascript array api](https://blog.vvauban.com/blog/javascript-array-api)
-- [My completion ✅ of the java roadmap 2022](https://blog.vvauban.com/blog/my-completion-of-the-java-roadmap-2022)
-- [ANGULAR TIP: For Angular Translation 👉 Use ngx-translate](https://blog.vvauban.com/blog/angular-tip-for-angular-translation-use-ngx-translate)
-- [JAVA CERTIFICATION QUESTION: Java text blocks and escape sequences](https://blog.vvauban.com/blog/java-certification-question-java-text-blocks-and-escape-sequences)
+- [#fr Partagez ce qui fait d&#39;une entreprise un endroit idéal pour bâtir une carrière#MyWorkValues](https://blog.vvauban.com/blog/fr-partagez-ce-qui-fait-d-une-entreprise-un-endroit-ideal-pour-batir-une)
+- [CODING TEAM THEORY: How do you deal with another developer’s bad code?](https://blog.vvauban.com/blog/coding-team-theory-how-do-you-deal-with-another-developer-s-bad-code)
+- [&quot;Define a process to learn any new technology. Consistency and practice will be the key to mastery.&quot;](https://blog.vvauban.com/blog/define-a-process-to-learn-any-new-technology-consistency-and-practice-will)
+- [JAVA CERTIFICATION QUESTION: Functional interfaces and lambdas expressions](https://blog.vvauban.com/blog/java-certification-question-functional-interfaces-and-lambdas-expressions)
+- [🆓👩‍🏫 Free Java training courses on Test Automation University](https://blog.vvauban.com/blog/free-java-training-courses-on-test-automation-university)
 <!-- BLOG-POST-LIST:END -->
