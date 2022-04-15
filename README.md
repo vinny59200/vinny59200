@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [#fr Partagez ce qui fait d&#39;une entreprise un endroit idéal pour bâtir une carrière#MyWorkValues](https://blog.vvauban.com/blog/fr-partagez-ce-qui-fait-d-une-entreprise-un-endroit-ideal-pour-batir-une)
-- [CODING TEAM THEORY: How do you deal with another developer’s bad code?](https://blog.vvauban.com/blog/coding-team-theory-how-do-you-deal-with-another-developer-s-bad-code)
-- [&quot;Define a process to learn any new technology. Consistency and practice will be the key to mastery.&quot;](https://blog.vvauban.com/blog/define-a-process-to-learn-any-new-technology-consistency-and-practice-will)
-- [JAVA CERTIFICATION QUESTION: Functional interfaces and lambdas expressions](https://blog.vvauban.com/blog/java-certification-question-functional-interfaces-and-lambdas-expressions)
-- [🆓👩‍🏫 Free Java training courses on Test Automation University](https://blog.vvauban.com/blog/free-java-training-courses-on-test-automation-university)
+- [SOLID PRINCIPLES: Interface Segregation 🪓](https://blog.vvauban.com/blog/solid-principles-interface-segregation)
+- [Comment évaluer un dev? 👨‍💻👨‍⚖️⚖️](https://blog.vvauban.com/blog/comment-evaluer-un-dev)
+- [INTELLIJ PLUGIN: XCode Theme](https://blog.vvauban.com/blog/intellij-plugin-xcode-theme)
+- [JAVA CERTIFICATION QUESTION: Using the arrow in Java’s switch expressions](https://blog.vvauban.com/blog/java-certification-question-using-the-arrow-in-java-s-switch-expressions)
+- [If you had an option, Which of the following backend programming language would you take to battle with you?](https://blog.vvauban.com/blog/if-you-had-an-option-which-of-the-following-backend-programming-language)
 <!-- BLOG-POST-LIST:END -->
