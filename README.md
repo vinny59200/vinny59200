@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SOLID PRINCIPLES: Interface Segregation 🪓](https://blog.vvauban.com/blog/solid-principles-interface-segregation)
-- [Comment évaluer un dev? 👨‍💻👨‍⚖️⚖️](https://blog.vvauban.com/blog/comment-evaluer-un-dev)
-- [INTELLIJ PLUGIN: XCode Theme](https://blog.vvauban.com/blog/intellij-plugin-xcode-theme)
-- [JAVA CERTIFICATION QUESTION: Using the arrow in Java’s switch expressions](https://blog.vvauban.com/blog/java-certification-question-using-the-arrow-in-java-s-switch-expressions)
-- [If you had an option, Which of the following backend programming language would you take to battle with you?](https://blog.vvauban.com/blog/if-you-had-an-option-which-of-the-following-backend-programming-language)
+- [ANGULAR TIP: Output Decorator](https://blog.vvauban.com/blog/angular-tip-output-decorator)
+- [JAVA CERTIFICATION QUESTION: Java’s scope of variables and instanceof for pattern matching](https://blog.vvauban.com/blog/java-certification-question-java-s-scope-of-variables-and-instanceof-for)
+- [SELF-PROMO: Cybersecurity badge](https://blog.vvauban.com/blog/self-promo-cybersecurity-badge)
+- [Good, Fast, Cheap: Pick any two &lpar;you can’t have all three&rpar;. — Ross Callon](https://blog.vvauban.com/blog/good-fast-cheap-pick-any-two-you-can-t-have-all-three-ross-callon)
+- [Who defines the sprint goal?](https://blog.vvauban.com/blog/who-defines-the-sprint-goal)
 <!-- BLOG-POST-LIST:END -->
