@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Who is in charge of defining the Architecture of the Product?](https://blog.vvauban.com/blog/who-is-in-charge-of-defining-the-architecture-of-the-product)
+- [Java Librairies Best Practices](https://blog.vvauban.com/blog/java-librairies-best-practices)
 - [ANGULAR TIP: Output Decorator](https://blog.vvauban.com/blog/angular-tip-output-decorator)
 - [JAVA CERTIFICATION QUESTION: Java’s scope of variables and instanceof for pattern matching](https://blog.vvauban.com/blog/java-certification-question-java-s-scope-of-variables-and-instanceof-for)
 - [SELF-PROMO: Cybersecurity badge](https://blog.vvauban.com/blog/self-promo-cybersecurity-badge)
-- [Good, Fast, Cheap: Pick any two &lpar;you can’t have all three&rpar;. — Ross Callon](https://blog.vvauban.com/blog/good-fast-cheap-pick-any-two-you-can-t-have-all-three-ross-callon)
-- [Who defines the sprint goal?](https://blog.vvauban.com/blog/who-defines-the-sprint-goal)
 <!-- BLOG-POST-LIST:END -->
