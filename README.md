@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The scrum team has only ONE product goal?TRUE/FALSE &lpar;answer in one week&rpar;](https://blog.vvauban.com/blog/the-scrum-team-has-only-one-product-goal-true-false-answer-in-one-week)
-- [ANGULAR TIP: Immutability on object](https://blog.vvauban.com/blog/angular-tip-immutability-on-object)
-- [&quot;When doing anything, always do your best. That&#39;s the most effective way to grow your skills at the most.&quot;](https://blog.vvauban.com/blog/when-doing-anything-always-do-your-best-that-s-the-most-effective-way-to)
-- [JAVA CERTIFICATION QUESTION: Java’s text blocks and variable-length argument lists](https://blog.vvauban.com/blog/java-certification-question-java-s-text-blocks-and-variable-length-argument)
-- [FREE BOOK: Resilience for Dummies 💪🧠](https://blog.vvauban.com/blog/free-book-resilience-for-dummies)
+- [IntelliJ Java Stream debugging 🪲](https://blog.vvauban.com/blog/intellij-java-stream-debugging)
+- [100KM running in May 🏃👟](https://blog.vvauban.com/blog/100km-running-in-may)
+- [Who is responsible for tracking🔎 the total work remaining in the 𝐒𝐏𝐑𝐈𝐍𝐓 Backlog? CHOOSE ONE &lpar;Answer in one week&rpar;](https://blog.vvauban.com/blog/who-is-responsible-for-tracking-the-total-work-remaining-in-the)
+- [JAVA CERTIFICATION QUESTION: Java records as instance inner classes](https://blog.vvauban.com/blog/java-certification-question-java-records-as-instance-inner-classes)
+- [GREEN IT Certificate 🌳🎓](https://blog.vvauban.com/blog/green-it-certificate)
 <!-- BLOG-POST-LIST:END -->
