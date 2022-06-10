@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [IntelliJ Java Stream debugging 🪲](https://blog.vvauban.com/blog/intellij-java-stream-debugging)
-- [100KM running in May 🏃👟](https://blog.vvauban.com/blog/100km-running-in-may)
-- [Who is responsible for tracking🔎 the total work remaining in the 𝐒𝐏𝐑𝐈𝐍𝐓 Backlog? CHOOSE ONE &lpar;Answer in one week&rpar;](https://blog.vvauban.com/blog/who-is-responsible-for-tracking-the-total-work-remaining-in-the)
-- [JAVA CERTIFICATION QUESTION: Java records as instance inner classes](https://blog.vvauban.com/blog/java-certification-question-java-records-as-instance-inner-classes)
-- [GREEN IT Certificate 🌳🎓](https://blog.vvauban.com/blog/green-it-certificate)
+- [JAVA CERTIFICATION QUESTION: Declaring and accessing Java modules](https://blog.vvauban.com/blog/java-certification-question-declaring-and-accessing-java-modules)
+- [FREE DEVOPS BOOK 🆓⚙️📘](https://blog.vvauban.com/blog/free-devops-book)
+- [I PASSED the Scrum PSD1! 🍾🎉🎊](https://blog.vvauban.com/blog/i-passed-the-scrum-psd1)
+- [Who change the Defnition of Done? ✅](https://blog.vvauban.com/blog/who-change-the-defnition-of-done)
+- [INTELLIJ PLUGIN: Mario Progress Bar](https://blog.vvauban.com/blog/intellij-plugin-mario-progress-bar)
 <!-- BLOG-POST-LIST:END -->
