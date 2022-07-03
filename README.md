@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JAVA CERTIFICATION QUESTION: Declaring and accessing Java modules](https://blog.vvauban.com/blog/java-certification-question-declaring-and-accessing-java-modules)
-- [FREE DEVOPS BOOK 🆓⚙️📘](https://blog.vvauban.com/blog/free-devops-book)
-- [I PASSED the Scrum PSD1! 🍾🎉🎊](https://blog.vvauban.com/blog/i-passed-the-scrum-psd1)
-- [Who change the Defnition of Done? ✅](https://blog.vvauban.com/blog/who-change-the-defnition-of-done)
-- [INTELLIJ PLUGIN: Mario Progress Bar](https://blog.vvauban.com/blog/intellij-plugin-mario-progress-bar)
+- [GITHUB: Spring Batch trivial example](https://blog.vvauban.com/blog/github-spring-batch-trivial-example)
+- [JAKARTA EE: Bean to/from JSON with JSONB](https://blog.vvauban.com/blog/jakarta-ee-bean-to-from-json-with-jsonb)
+- [ANGULAR: The Config Files ⚙️](https://blog.vvauban.com/blog/angular-the-config-files)
+- [#fr Célébration de mon anniversaire de travail. Je suis reconnaissant pour ce quatrième Altecanniversaire. 🥂🍾](https://blog.vvauban.com/blog/fr-celebration-de-mon-anniversaire-de-travail-je-suis-reconnaissant-pour-ce)
+- [[☕𝐉𝐀𝐕𝐀 𝐄𝐄 vs 🍃𝐒𝐏𝐑𝐈𝐍𝐆]: Which technology do you use on your Java applications ?](https://blog.vvauban.com/blog/vs-which-technology-do-you-use-on-your-java-applications)
 <!-- BLOG-POST-LIST:END -->
