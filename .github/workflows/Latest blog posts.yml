@@ -1,7 +1,7 @@
 name: Latest blog post profile workflow manual
 on:
   schedule:
-    - cron: '*/1 * * * *'
+    - cron: '*/5 * * * *'
 jobs: 
     update-readme-with-blog: 
         name: Update this repo's README with latest blog posts
