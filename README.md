@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GITHUB: Spring Batch trivial example](https://blog.vvauban.com/blog/github-spring-batch-trivial-example)
-- [JAKARTA EE: Bean to/from JSON with JSONB](https://blog.vvauban.com/blog/jakarta-ee-bean-to-from-json-with-jsonb)
-- [ANGULAR: The Config Files ⚙️](https://blog.vvauban.com/blog/angular-the-config-files)
-- [#fr Célébration de mon anniversaire de travail. Je suis reconnaissant pour ce quatrième Altecanniversaire. 🥂🍾](https://blog.vvauban.com/blog/fr-celebration-de-mon-anniversaire-de-travail-je-suis-reconnaissant-pour-ce)
-- [[☕𝐉𝐀𝐕𝐀 𝐄𝐄 vs 🍃𝐒𝐏𝐑𝐈𝐍𝐆]: Which technology do you use on your Java applications ?](https://blog.vvauban.com/blog/vs-which-technology-do-you-use-on-your-java-applications)
+- [My work setup 👇](https://blog.vvauban.com/blog/my-work-setup)
+- [React LinkedIn certificate](https://blog.vvauban.com/blog/react-linkedin-certificate)
+- [🎓 REACT &amp; SPRING Course Certificate](https://blog.vvauban.com/blog/react-spring-course-certificate)
+- [ANGULAR: Data Binding 💾📎](https://blog.vvauban.com/blog/angular-data-binding)
+- [JAVA CERTIFICATION QUESTION: Manipulating Java lists—and views of lists](https://blog.vvauban.com/blog/java-certification-question-manipulating-java-lists-and-views-of-lists)
 <!-- BLOG-POST-LIST:END -->
