@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [My work setup 👇](https://blog.vvauban.com/blog/my-work-setup)
-- [React LinkedIn certificate](https://blog.vvauban.com/blog/react-linkedin-certificate)
-- [🎓 REACT &amp; SPRING Course Certificate](https://blog.vvauban.com/blog/react-spring-course-certificate)
-- [ANGULAR: Data Binding 💾📎](https://blog.vvauban.com/blog/angular-data-binding)
-- [JAVA CERTIFICATION QUESTION: Manipulating Java lists—and views of lists](https://blog.vvauban.com/blog/java-certification-question-manipulating-java-lists-and-views-of-lists)
+- [🆓📄 FREE PROGRAMMER CV TEMPLATE](https://blog.vvauban.com/blog/free-programmer-cv-template)
+- [ANGULAR: How does an Angular application get started? 🚀](https://blog.vvauban.com/blog/angular-how-does-an-angular-application-get-started)
+- [Frond-End vs Back-End: Which technology do you feel creates the most value?](https://blog.vvauban.com/blog/frond-end-vs-back-end-which-technology-do-you-feel-creates-the-most-value)
+- [Java advantages 🤩](https://blog.vvauban.com/blog/java-advantages)
+- [JAVA CERTIFICATION QUESTION: Controlling the number of instances of a class](https://blog.vvauban.com/blog/java-certification-question-controlling-the-number-of-instances-of-a-class)
 <!-- BLOG-POST-LIST:END -->
