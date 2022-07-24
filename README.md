@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🆓📄 FREE PROGRAMMER CV TEMPLATE](https://blog.vvauban.com/blog/free-programmer-cv-template)
-- [ANGULAR: How does an Angular application get started? 🚀](https://blog.vvauban.com/blog/angular-how-does-an-angular-application-get-started)
-- [Frond-End vs Back-End: Which technology do you feel creates the most value?](https://blog.vvauban.com/blog/frond-end-vs-back-end-which-technology-do-you-feel-creates-the-most-value)
-- [Java advantages 🤩](https://blog.vvauban.com/blog/java-advantages)
-- [JAVA CERTIFICATION QUESTION: Controlling the number of instances of a class](https://blog.vvauban.com/blog/java-certification-question-controlling-the-number-of-instances-of-a-class)
+- [Angular: Creating a project fron scratch with command lines](https://blog.vvauban.com/blog/angular-creating-a-project-fron-scratch-with-command-lines)
+- [GIT FLOW RELEASE: the commands behind the command](https://blog.vvauban.com/blog/git-flow-release-the-commands-behind-the-command)
+- [&quot;Indeed, the ration of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code. ,,, [Therefore,] making it easy to read makes it easy to write.&quot; -- Robert C. Martin AKA Uncle Bob](https://blog.vvauban.com/blog/indeed-the-ration-of-time-spent-reading-versus-writing-is-well-over-10-to)
+- [Writing a good README.md](https://blog.vvauban.com/blog/writing-a-good-readme-md)
+- [JAVA CERTIFICATION QUESTION: Sealed class true-or-false question](https://blog.vvauban.com/blog/java-certification-question-sealed-class-true-or-false-question)
 <!-- BLOG-POST-LIST:END -->
