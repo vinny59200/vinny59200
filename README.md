@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Angular: Creating a project fron scratch with command lines](https://blog.vvauban.com/blog/angular-creating-a-project-fron-scratch-with-command-lines)
-- [GIT FLOW RELEASE: the commands behind the command](https://blog.vvauban.com/blog/git-flow-release-the-commands-behind-the-command)
-- [&quot;Indeed, the ration of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code. ,,, [Therefore,] making it easy to read makes it easy to write.&quot; -- Robert C. Martin AKA Uncle Bob](https://blog.vvauban.com/blog/indeed-the-ration-of-time-spent-reading-versus-writing-is-well-over-10-to)
-- [Writing a good README.md](https://blog.vvauban.com/blog/writing-a-good-readme-md)
-- [JAVA CERTIFICATION QUESTION: Sealed class true-or-false question](https://blog.vvauban.com/blog/java-certification-question-sealed-class-true-or-false-question)
+- [NO MORE SORRY: positive communication at work 🙂](https://blog.vvauban.com/blog/no-more-sorry-positive-communication-at-work)
+- [Test soft-skills: CREATIF 🎨 &amp; EMPATHIQUE 🤗](https://blog.vvauban.com/blog/test-soft-skills-creatif-empathique)
+- [100Km running in July 👟](https://blog.vvauban.com/blog/100km-running-in-july)
+- [SPRINGBOOT ADMIN: How to monitor your applications](https://blog.vvauban.com/blog/springboot-admin-how-to-monitor-your-applications)
+- [𝑯𝒂𝒓𝒅 𝒔𝒌𝒊𝒍𝒍𝒔 𝒈𝒆𝒕 𝒚𝒐𝒖 𝒉𝒊𝒓𝒆𝒅 🤝, 𝑺𝒐𝒇𝒕 𝒔𝒌𝒊𝒍𝒍𝒔 𝒈𝒆𝒕 𝒚𝒐𝒖 𝒑𝒓𝒐𝒎𝒐𝒕𝒆𝒅 📈!](https://blog.vvauban.com/blog/22f9ccadaa3)
 <!-- BLOG-POST-LIST:END -->
