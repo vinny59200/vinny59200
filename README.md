@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [NO MORE SORRY: positive communication at work 🙂](https://blog.vvauban.com/blog/no-more-sorry-positive-communication-at-work)
-- [Test soft-skills: CREATIF 🎨 &amp; EMPATHIQUE 🤗](https://blog.vvauban.com/blog/test-soft-skills-creatif-empathique)
-- [100Km running in July 👟](https://blog.vvauban.com/blog/100km-running-in-july)
-- [SPRINGBOOT ADMIN: How to monitor your applications](https://blog.vvauban.com/blog/springboot-admin-how-to-monitor-your-applications)
-- [𝑯𝒂𝒓𝒅 𝒔𝒌𝒊𝒍𝒍𝒔 𝒈𝒆𝒕 𝒚𝒐𝒖 𝒉𝒊𝒓𝒆𝒅 🤝, 𝑺𝒐𝒇𝒕 𝒔𝒌𝒊𝒍𝒍𝒔 𝒈𝒆𝒕 𝒚𝒐𝒖 𝒑𝒓𝒐𝒎𝒐𝒕𝒆𝒅 📈!](https://blog.vvauban.com/blog/22f9ccadaa3)
+- [Spring CRON vs Linux CRON: NOT THE SAME ⚡⚡⚡](https://blog.vvauban.com/blog/spring-cron-vs-linux-cron-not-the-same)
+- [ANGULAR TIP: How to deal with Promise LATE treatment completion](https://blog.vvauban.com/blog/angular-tip-how-to-deal-with-promise-late-treatment-completion)
+- [JAVA CERTIFICATION QUESTION: Stream data filter](https://blog.vvauban.com/blog/java-certification-question-stream-data-filter)
+- [Dysfunctional teams: The 5 characteristics](https://blog.vvauban.com/blog/dysfunctional-teams-the-5-characteristics)
+- [🍃☕Top 20 Spring Boot Interview Questions with Answers for Java Developers](https://blog.vvauban.com/blog/top-20-spring-boot-interview-questions-with-answers-for-java-developers)
 <!-- BLOG-POST-LIST:END -->
