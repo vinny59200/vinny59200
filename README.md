@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [&quot;Lack of skills may cause serious problems with bugs because code that should be simple get very complex because of reinventing the wheel.&quot;](https://blog.vvauban.com/blog/lack-of-skills-may-cause-serious-problems-with-bugs-because-code-that-should)
 - [Spring CRON vs Linux CRON: NOT THE SAME ⚡⚡⚡](https://blog.vvauban.com/blog/spring-cron-vs-linux-cron-not-the-same)
 - [ANGULAR TIP: How to deal with Promise LATE treatment completion](https://blog.vvauban.com/blog/angular-tip-how-to-deal-with-promise-late-treatment-completion)
 - [JAVA CERTIFICATION QUESTION: Stream data filter](https://blog.vvauban.com/blog/java-certification-question-stream-data-filter)
 - [Dysfunctional teams: The 5 characteristics](https://blog.vvauban.com/blog/dysfunctional-teams-the-5-characteristics)
-- [🍃☕Top 20 Spring Boot Interview Questions with Answers for Java Developers](https://blog.vvauban.com/blog/top-20-spring-boot-interview-questions-with-answers-for-java-developers)
 <!-- BLOG-POST-LIST:END -->
