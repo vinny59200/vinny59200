@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Lack of skills may cause serious problems with bugs because code that should be simple get very complex because of reinventing the wheel.&quot;](https://blog.vvauban.com/blog/lack-of-skills-may-cause-serious-problems-with-bugs-because-code-that-should)
-- [Spring CRON vs Linux CRON: NOT THE SAME ⚡⚡⚡](https://blog.vvauban.com/blog/spring-cron-vs-linux-cron-not-the-same)
-- [ANGULAR TIP: How to deal with Promise LATE treatment completion](https://blog.vvauban.com/blog/angular-tip-how-to-deal-with-promise-late-treatment-completion)
-- [JAVA CERTIFICATION QUESTION: Stream data filter](https://blog.vvauban.com/blog/java-certification-question-stream-data-filter)
-- [Dysfunctional teams: The 5 characteristics](https://blog.vvauban.com/blog/dysfunctional-teams-the-5-characteristics)
+- [&quot;If SOLID principles are applied, the code will naturally be easy to maintain. Encapsulation + cohesion + low coupling are key to achieve it.&quot;](https://blog.vvauban.com/blog/if-solid-principles-are-applied-the-code-will-naturally-be-easy-to)
+- [Don’t call it a comeback: Why Java is still champ 🏆](https://blog.vvauban.com/blog/don-t-call-it-a-comeback-why-java-is-still-champ)
+- [JS TIP: R.isNil&lpar;&rpar; checks null AND undefined](https://blog.vvauban.com/blog/js-tip-r-isnil-checks-null-and-undefined)
+- [INTELLIJ PLUGIN: Nyan Cat Progress Bar](https://blog.vvauban.com/blog/intellij-plugin-nyan-cat-progress-bar)
+- [JAVA CERTIFICATION QUESTION: Localization](https://blog.vvauban.com/blog/java-certification-question-localization)
 <!-- BLOG-POST-LIST:END -->
