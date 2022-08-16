@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [INTELLIJ PLUGIN: Code screenshot 📸](https://blog.vvauban.com/blog/intellij-plugin-code-screenshot)
+- [HackerRank certificate: Angular](https://blog.vvauban.com/blog/hackerrank-certificate-angular)
+- [SOFT-SKILL: Be Aware of your Self-talking 🗣️🤳](https://blog.vvauban.com/blog/soft-skill-be-aware-of-your-self-talking)
+- [REACT Popin --on my github](https://blog.vvauban.com/blog/react-popin-on-my-github)
 - [&quot;If SOLID principles are applied, the code will naturally be easy to maintain. Encapsulation + cohesion + low coupling are key to achieve it.&quot;](https://blog.vvauban.com/blog/if-solid-principles-are-applied-the-code-will-naturally-be-easy-to)
-- [Don’t call it a comeback: Why Java is still champ 🏆](https://blog.vvauban.com/blog/don-t-call-it-a-comeback-why-java-is-still-champ)
-- [JS TIP: R.isNil&lpar;&rpar; checks null AND undefined](https://blog.vvauban.com/blog/js-tip-r-isnil-checks-null-and-undefined)
-- [INTELLIJ PLUGIN: Nyan Cat Progress Bar](https://blog.vvauban.com/blog/intellij-plugin-nyan-cat-progress-bar)
-- [JAVA CERTIFICATION QUESTION: Localization](https://blog.vvauban.com/blog/java-certification-question-localization)
 <!-- BLOG-POST-LIST:END -->
