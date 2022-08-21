@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [INTELLIJ PLUGIN: Code screenshot 📸](https://blog.vvauban.com/blog/intellij-plugin-code-screenshot)
-- [HackerRank certificate: Angular](https://blog.vvauban.com/blog/hackerrank-certificate-angular)
-- [SOFT-SKILL: Be Aware of your Self-talking 🗣️🤳](https://blog.vvauban.com/blog/soft-skill-be-aware-of-your-self-talking)
-- [REACT Popin --on my github](https://blog.vvauban.com/blog/react-popin-on-my-github)
-- [&quot;If SOLID principles are applied, the code will naturally be easy to maintain. Encapsulation + cohesion + low coupling are key to achieve it.&quot;](https://blog.vvauban.com/blog/if-solid-principles-are-applied-the-code-will-naturally-be-easy-to)
+- [Green IT: introduction 🌍](https://blog.vvauban.com/blog/green-it-introduction)
+- [#metaverse, what is your opinion?](https://blog.vvauban.com/blog/metaverse-what-is-your-opinion)
+- [&quot;It is not enough for code to work.&quot; -- Robert C. Martin](https://blog.vvauban.com/blog/it-is-not-enough-for-code-to-work-robert-c-martin)
+- [Java Champion Book 📕: Jakarta EE cookbook by Elder Moraes](https://blog.vvauban.com/blog/java-champion-book-jakarta-ee-cookbook-by-elder-moraes)
+- [Je viens de rejoindre Time for the Planet comme associé.](https://blog.vvauban.com/blog/je-viens-de-rejoindre-time-for-the-planet-comme-associe)
 <!-- BLOG-POST-LIST:END -->
