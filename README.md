@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [#fr Comment obtenir une augmentation ? 💵🤝](https://blog.vvauban.com/blog/fr-comment-obtenir-une-augmentation)
+- [SOFT-SKILL: Remember easily with the RECALL 📞📞 method](https://blog.vvauban.com/blog/soft-skill-remember-easily-with-the-recall-method)
 - [Green IT: introduction 🌍](https://blog.vvauban.com/blog/green-it-introduction)
 - [#metaverse, what is your opinion?](https://blog.vvauban.com/blog/metaverse-what-is-your-opinion)
 - [&quot;It is not enough for code to work.&quot; -- Robert C. Martin](https://blog.vvauban.com/blog/it-is-not-enough-for-code-to-work-robert-c-martin)
-- [Java Champion Book 📕: Jakarta EE cookbook by Elder Moraes](https://blog.vvauban.com/blog/java-champion-book-jakarta-ee-cookbook-by-elder-moraes)
-- [Je viens de rejoindre Time for the Planet comme associé.](https://blog.vvauban.com/blog/je-viens-de-rejoindre-time-for-the-planet-comme-associe)
 <!-- BLOG-POST-LIST:END -->
