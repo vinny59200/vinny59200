@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [#fr Comment obtenir une augmentation ? 💵🤝](https://blog.vvauban.com/blog/fr-comment-obtenir-une-augmentation)
-- [SOFT-SKILL: Remember easily with the RECALL 📞📞 method](https://blog.vvauban.com/blog/soft-skill-remember-easily-with-the-recall-method)
-- [Green IT: introduction 🌍](https://blog.vvauban.com/blog/green-it-introduction)
-- [#metaverse, what is your opinion?](https://blog.vvauban.com/blog/metaverse-what-is-your-opinion)
-- [&quot;It is not enough for code to work.&quot; -- Robert C. Martin](https://blog.vvauban.com/blog/it-is-not-enough-for-code-to-work-robert-c-martin)
+- [REACT: Bump effect](https://blog.vvauban.com/blog/react-bump-effect)
+- [JS: Spread operator](https://blog.vvauban.com/blog/js-spread-operator)
+- [&quot;Don&#39;t consume any content you see. Instead, filter them carefully otherwise you will be wasting your valuable time.&quot;](https://blog.vvauban.com/blog/don-t-consume-any-content-you-see-instead-filter-them-carefully-otherwise)
+- [INTELLIJ PLUGIN: Rainbow Brackets](https://blog.vvauban.com/blog/intellij-plugin-rainbow-brackets)
+- [GREEN IT: Why does IT pollute?](https://blog.vvauban.com/blog/green-it-why-does-it-pollute)
 <!-- BLOG-POST-LIST:END -->
