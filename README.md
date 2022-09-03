@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [REACT: Bump effect](https://blog.vvauban.com/blog/react-bump-effect)
-- [JS: Spread operator](https://blog.vvauban.com/blog/js-spread-operator)
-- [&quot;Don&#39;t consume any content you see. Instead, filter them carefully otherwise you will be wasting your valuable time.&quot;](https://blog.vvauban.com/blog/don-t-consume-any-content-you-see-instead-filter-them-carefully-otherwise)
-- [INTELLIJ PLUGIN: Rainbow Brackets](https://blog.vvauban.com/blog/intellij-plugin-rainbow-brackets)
-- [GREEN IT: Why does IT pollute?](https://blog.vvauban.com/blog/green-it-why-does-it-pollute)
+- [Silent firing 💼❌](https://blog.vvauban.com/blog/silent-firing)
+- [QUIET QUITTING: Are you concerned?](https://blog.vvauban.com/blog/quiet-quitting-are-you-concerned)
+- [SOFT SKILL: Get focused 🎯 thanks to SMART goals](https://blog.vvauban.com/blog/soft-skill-get-focused-thanks-to-smart-goals)
+- [100Km run in August 👟](https://blog.vvauban.com/blog/100km-run-in-august)
+- [JAVA CERTIFICATION QUESTION: Generics and type parameter naming](https://blog.vvauban.com/blog/java-certification-question-generics-and-type-parameter-naming)
 <!-- BLOG-POST-LIST:END -->
