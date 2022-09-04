@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SCRUM Developer: Daily Scrum](https://blog.vvauban.com/blog/scrum-developer-daily-scrum)
+- [🌍 💚 GREEN IT Developer: Avoid expensive JavaScript/CSS animations](https://blog.vvauban.com/blog/green-it-developer-avoid-expensive-javascript-css-animations)
 - [Silent firing 💼❌](https://blog.vvauban.com/blog/silent-firing)
 - [QUIET QUITTING: Are you concerned?](https://blog.vvauban.com/blog/quiet-quitting-are-you-concerned)
 - [SOFT SKILL: Get focused 🎯 thanks to SMART goals](https://blog.vvauban.com/blog/soft-skill-get-focused-thanks-to-smart-goals)
-- [100Km run in August 👟](https://blog.vvauban.com/blog/100km-run-in-august)
-- [JAVA CERTIFICATION QUESTION: Generics and type parameter naming](https://blog.vvauban.com/blog/java-certification-question-generics-and-type-parameter-naming)
 <!-- BLOG-POST-LIST:END -->
