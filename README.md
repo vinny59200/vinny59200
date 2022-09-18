@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SCRUM Developer: Daily Scrum](https://blog.vvauban.com/blog/scrum-developer-daily-scrum)
-- [🌍 💚 GREEN IT Developer: Avoid expensive JavaScript/CSS animations](https://blog.vvauban.com/blog/green-it-developer-avoid-expensive-javascript-css-animations)
-- [Silent firing 💼❌](https://blog.vvauban.com/blog/silent-firing)
-- [QUIET QUITTING: Are you concerned?](https://blog.vvauban.com/blog/quiet-quitting-are-you-concerned)
-- [SOFT SKILL: Get focused 🎯 thanks to SMART goals](https://blog.vvauban.com/blog/soft-skill-get-focused-thanks-to-smart-goals)
+- [SCRUM: Sprint Retrospective 🪞🔙](https://blog.vvauban.com/blog/scrum-sprint-retrospective)
+- [🌍💚Green IT Developer: Choose a suitable data format](https://blog.vvauban.com/blog/green-it-developer-choose-a-suitable-data-format)
+- [10$/month for GitHub Copilot: is it a DEAL for you?YES/NO](https://blog.vvauban.com/blog/10-month-for-github-copilot-is-it-a-deal-for-you-yes-no)
+- [INTELLIJ PLUGIN: Monaco font](https://blog.vvauban.com/blog/intellij-plugin-monaco-font)
+- [🧑‍💻👨‍💻👩‍💻✊ HAPPY DEVELOPER DAY to all developers, programmers, and coders...](https://blog.vvauban.com/blog/happy-developer-day-to-all-developers-programmers-and-coders)
 <!-- BLOG-POST-LIST:END -->
