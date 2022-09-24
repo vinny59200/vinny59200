@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JAVA CERTIFICATION QUESTION: Abstract classes](https://blog.vvauban.com/blog/java-certification-question-abstract-classes)
+- [2022 State of the Java by New Relic](https://blog.vvauban.com/blog/2022-state-of-the-java-by-new-relic)
+- [&quot;Persistence is one of the most important qualities for programming and your life. If you never give up, you won&#39;t fail.&quot;](https://blog.vvauban.com/blog/persistence-is-one-of-the-most-important-qualities-for-programming-and-your)
 - [SCRUM: Sprint Retrospective 🪞🔙](https://blog.vvauban.com/blog/scrum-sprint-retrospective)
 - [🌍💚Green IT Developer: Choose a suitable data format](https://blog.vvauban.com/blog/green-it-developer-choose-a-suitable-data-format)
-- [10$/month for GitHub Copilot: is it a DEAL for you?YES/NO](https://blog.vvauban.com/blog/10-month-for-github-copilot-is-it-a-deal-for-you-yes-no)
-- [INTELLIJ PLUGIN: Monaco font](https://blog.vvauban.com/blog/intellij-plugin-monaco-font)
-- [🧑‍💻👨‍💻👩‍💻✊ HAPPY DEVELOPER DAY to all developers, programmers, and coders...](https://blog.vvauban.com/blog/happy-developer-day-to-all-developers-programmers-and-coders)
 <!-- BLOG-POST-LIST:END -->
