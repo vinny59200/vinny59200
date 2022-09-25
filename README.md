@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JAVA CERTIFICATION QUESTION: Abstract classes](https://blog.vvauban.com/blog/java-certification-question-abstract-classes)
-- [2022 State of the Java by New Relic](https://blog.vvauban.com/blog/2022-state-of-the-java-by-new-relic)
-- [&quot;Persistence is one of the most important qualities for programming and your life. If you never give up, you won&#39;t fail.&quot;](https://blog.vvauban.com/blog/persistence-is-one-of-the-most-important-qualities-for-programming-and-your)
-- [SCRUM: Sprint Retrospective 🪞🔙](https://blog.vvauban.com/blog/scrum-sprint-retrospective)
-- [🌍💚Green IT Developer: Choose a suitable data format](https://blog.vvauban.com/blog/green-it-developer-choose-a-suitable-data-format)
+- [GitHub Copilot : ce que pensent les pros de l&#39;IA de développement logiciel](https://blog.vvauban.com/blog/github-copilot-ce-que-pensent-les-pros-de-l-ia-de-developpement-logiciel)
+- [SCRUM: Scrum Master 🤹‍](https://blog.vvauban.com/blog/scrum-scrum-master)
+- [FREE BOOK: Office 365 🆓📕](https://blog.vvauban.com/blog/free-book-office-365)
+- [Moving Java Forward with Java 19 🚀](https://blog.vvauban.com/blog/moving-java-forward-with-java-19)
+- [It&#39;s Java 19 release day! 💃🎉🎈🎊🥳👯‍♂️](https://blog.vvauban.com/blog/it-s-java-19-release-day)
 <!-- BLOG-POST-LIST:END -->
