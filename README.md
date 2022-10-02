@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Copilot : ce que pensent les pros de l&#39;IA de développement logiciel](https://blog.vvauban.com/blog/github-copilot-ce-que-pensent-les-pros-de-l-ia-de-developpement-logiciel)
-- [SCRUM: Scrum Master 🤹‍](https://blog.vvauban.com/blog/scrum-scrum-master)
-- [FREE BOOK: Office 365 🆓📕](https://blog.vvauban.com/blog/free-book-office-365)
-- [Moving Java Forward with Java 19 🚀](https://blog.vvauban.com/blog/moving-java-forward-with-java-19)
-- [It&#39;s Java 19 release day! 💃🎉🎈🎊🥳👯‍♂️](https://blog.vvauban.com/blog/it-s-java-19-release-day)
+- [⌨️ Typing skill: how good you are?](https://blog.vvauban.com/blog/typing-skill-how-good-you-are)
+- [SPRING CERTIFICATION QUESTION: What is the difference between &#39;@Controller&#39; and &#39;@RestController&#39;?](https://blog.vvauban.com/blog/spring-certification-question-what-is-the-difference-between-controller)
+- [JAVA CERTIFICATION QUESTION: Java Stream API](https://blog.vvauban.com/blog/java-certification-question-java-stream-api)
+- [GREEN IT Developer 🌍💚: Stored procedures](https://blog.vvauban.com/blog/green-it-developer-stored-procedures)
+- [100Km running in September](https://blog.vvauban.com/blog/100km-running-in-september)
 <!-- BLOG-POST-LIST:END -->
