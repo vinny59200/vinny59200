@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⌨️ Typing skill: how good you are?](https://blog.vvauban.com/blog/typing-skill-how-good-you-are)
-- [SPRING CERTIFICATION QUESTION: What is the difference between &#39;@Controller&#39; and &#39;@RestController&#39;?](https://blog.vvauban.com/blog/spring-certification-question-what-is-the-difference-between-controller)
-- [JAVA CERTIFICATION QUESTION: Java Stream API](https://blog.vvauban.com/blog/java-certification-question-java-stream-api)
-- [GREEN IT Developer 🌍💚: Stored procedures](https://blog.vvauban.com/blog/green-it-developer-stored-procedures)
-- [100Km running in September](https://blog.vvauban.com/blog/100km-running-in-september)
+- [POLL ➕ FREE Emotional Intelligence TEST: 40 questions](https://blog.vvauban.com/blog/poll-free-emotional-intelligence-test-40-questions)
+- [PCI DSS Introduction course completion 🏦🔐🎓](https://blog.vvauban.com/blog/pci-dss-introduction-course-completion)
+- [🍃🎓 SPRING CERTIFICATION QUESTION: What are the advantages of the RestTemplate?](https://blog.vvauban.com/blog/spring-certification-question-what-are-the-advantages-of-the-resttemplate)
+- [JAVA CERTIFICATION QUESTION: Generics and collections](https://blog.vvauban.com/blog/java-certification-question-generics-and-collections)
+- [What are the books that have most impacted your career in code?](https://blog.vvauban.com/blog/what-are-the-books-that-have-most-impacted-your-career-in-code)
 <!-- BLOG-POST-LIST:END -->
