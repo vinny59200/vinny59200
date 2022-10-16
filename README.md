@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [POLL ➕ FREE Emotional Intelligence TEST: 40 questions](https://blog.vvauban.com/blog/poll-free-emotional-intelligence-test-40-questions)
-- [PCI DSS Introduction course completion 🏦🔐🎓](https://blog.vvauban.com/blog/pci-dss-introduction-course-completion)
-- [🍃🎓 SPRING CERTIFICATION QUESTION: What are the advantages of the RestTemplate?](https://blog.vvauban.com/blog/spring-certification-question-what-are-the-advantages-of-the-resttemplate)
-- [JAVA CERTIFICATION QUESTION: Generics and collections](https://blog.vvauban.com/blog/java-certification-question-generics-and-collections)
-- [What are the books that have most impacted your career in code?](https://blog.vvauban.com/blog/what-are-the-books-that-have-most-impacted-your-career-in-code)
+- [Cucumber BDD course completion certificate🎓✅](https://blog.vvauban.com/blog/cucumber-bdd-course-completion-certificate)
+- [Do you do TDD on a POC? YES/NO/It depends...](https://blog.vvauban.com/blog/do-you-do-tdd-on-a-poc-yes-no-it-depends)
+- [🍃🎓 SPRING CERTIFICATION QUESTION: What is the concept of AOP?](https://blog.vvauban.com/blog/spring-certification-question-what-is-the-concept-of-aop)
+- [JAVA CERTIFICATION QUESTION: Enum and abstract member](https://blog.vvauban.com/blog/java-certification-question-enum-and-abstract-member)
+- [FREE Cyber-security BOOK 🔐📗](https://blog.vvauban.com/blog/free-cyber-security-book)
 <!-- BLOG-POST-LIST:END -->
