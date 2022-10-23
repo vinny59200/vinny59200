@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Cucumber BDD course completion certificate🎓✅](https://blog.vvauban.com/blog/cucumber-bdd-course-completion-certificate)
-- [Do you do TDD on a POC? YES/NO/It depends...](https://blog.vvauban.com/blog/do-you-do-tdd-on-a-poc-yes-no-it-depends)
-- [🍃🎓 SPRING CERTIFICATION QUESTION: What is the concept of AOP?](https://blog.vvauban.com/blog/spring-certification-question-what-is-the-concept-of-aop)
-- [JAVA CERTIFICATION QUESTION: Enum and abstract member](https://blog.vvauban.com/blog/java-certification-question-enum-and-abstract-member)
-- [FREE Cyber-security BOOK 🔐📗](https://blog.vvauban.com/blog/free-cyber-security-book)
+- [DBA moving](https://blog.vvauban.com/blog/dba-moving)
+- [Linux Norway people](https://blog.vvauban.com/blog/linux-norway-people)
+- [SCRUM: about the developers in the scrum team](https://blog.vvauban.com/blog/scrum-about-the-developers-in-the-scrum-team)
+- [Java developer with glasses](https://blog.vvauban.com/blog/java-developer-with-glasses)
+- [Java island](https://blog.vvauban.com/blog/java-island)
 <!-- BLOG-POST-LIST:END -->
