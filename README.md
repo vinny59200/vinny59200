@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [DBA moving](https://blog.vvauban.com/blog/dba-moving)
-- [Linux Norway people](https://blog.vvauban.com/blog/linux-norway-people)
-- [SCRUM: about the developers in the scrum team](https://blog.vvauban.com/blog/scrum-about-the-developers-in-the-scrum-team)
-- [Java developer with glasses](https://blog.vvauban.com/blog/java-developer-with-glasses)
-- [Java island](https://blog.vvauban.com/blog/java-island)
+- [TECH LEAD: How Good Are Your Leadership Skills?](https://blog.vvauban.com/blog/tech-lead-how-good-are-your-leadership-skills)
+- [People learning JavaScript be like...](https://blog.vvauban.com/blog/people-learning-javascript-be-like)
+- [Survey: Which developer tools have you done extensive development work in over the past year?](https://blog.vvauban.com/blog/survey-which-developer-tools-have-you-done-extensive-development-work-in)
+- [Soft-skill: SARA - Natural response to feedback](https://blog.vvauban.com/blog/soft-skill-sara-natural-response-to-feedback)
+- [SCRUM: Sprint Backlog 📝](https://blog.vvauban.com/blog/scrum-sprint-backlog)
 <!-- BLOG-POST-LIST:END -->
