@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [TECH LEAD: How Good Are Your Leadership Skills?](https://blog.vvauban.com/blog/tech-lead-how-good-are-your-leadership-skills)
-- [People learning JavaScript be like...](https://blog.vvauban.com/blog/people-learning-javascript-be-like)
-- [Survey: Which developer tools have you done extensive development work in over the past year?](https://blog.vvauban.com/blog/survey-which-developer-tools-have-you-done-extensive-development-work-in)
-- [Soft-skill: SARA - Natural response to feedback](https://blog.vvauban.com/blog/soft-skill-sara-natural-response-to-feedback)
-- [SCRUM: Sprint Backlog 📝](https://blog.vvauban.com/blog/scrum-sprint-backlog)
+- [Be ready to refactor. Don&#39;t allow code to rot and stress you.](https://blog.vvauban.com/blog/be-ready-to-refactor-don-t-allow-code-to-rot-and-stress-you-7459c7a2-f8fc-42cd-b4bf-8be663845ba7)
+- [Dear developers, do you answer to recruiters reaching you on LinkedIn? Yes/No/Maybe](https://blog.vvauban.com/blog/dear-developers-do-you-answer-to-recruiters-reaching-you-on-linkedin)
+- [NETWORK Admin JOKE](https://blog.vvauban.com/blog/network-admin-joke)
+- [SURVEY: Daily time spent searching for answers/solutions](https://blog.vvauban.com/blog/survey-daily-time-spent-searching-for-answers-solutions)
+- [SOFT-SKILL: Feedforward System RISE 📈](https://blog.vvauban.com/blog/soft-skill-feedforward-system-rise)
 <!-- BLOG-POST-LIST:END -->
