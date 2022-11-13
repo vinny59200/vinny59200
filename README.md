@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Be ready to refactor. Don&#39;t allow code to rot and stress you.](https://blog.vvauban.com/blog/be-ready-to-refactor-don-t-allow-code-to-rot-and-stress-you-7459c7a2-f8fc-42cd-b4bf-8be663845ba7)
-- [Dear developers, do you answer to recruiters reaching you on LinkedIn? Yes/No/Maybe](https://blog.vvauban.com/blog/dear-developers-do-you-answer-to-recruiters-reaching-you-on-linkedin)
-- [NETWORK Admin JOKE](https://blog.vvauban.com/blog/network-admin-joke)
-- [SURVEY: Daily time spent searching for answers/solutions](https://blog.vvauban.com/blog/survey-daily-time-spent-searching-for-answers-solutions)
-- [SOFT-SKILL: Feedforward System RISE 📈](https://blog.vvauban.com/blog/soft-skill-feedforward-system-rise)
+- [&quot;The future of coding is to eliminate repetition and make developers only concerned about solving business problems.&quot;](https://blog.vvauban.com/blog/the-future-of-coding-is-to-eliminate-repetition-and-make-developers-only)
+- [FREE TESTING API: https://httpbin.org/  🆓](https://blog.vvauban.com/blog/free-testing-api-https-httpbin-org)
+- [DBA PUN](https://blog.vvauban.com/blog/dba-pun)
+- [SURVEY: What is your current total compensation &lpar;salary, bonuses, and perks, before taxes and deductions&rpar;?](https://blog.vvauban.com/blog/survey-what-is-your-current-total-compensation-salary-bonuses-and-perks)
+- [GREEN IT Developer 🌍💚: Use primitive operations](https://blog.vvauban.com/blog/green-it-developer-use-primitive-operations)
 <!-- BLOG-POST-LIST:END -->
