@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [&quot;The future of coding is to eliminate repetition and make developers only concerned about solving business problems.&quot;](https://blog.vvauban.com/blog/the-future-of-coding-is-to-eliminate-repetition-and-make-developers-only)
-- [FREE TESTING API: https://httpbin.org/  🆓](https://blog.vvauban.com/blog/free-testing-api-https-httpbin-org)
-- [DBA PUN](https://blog.vvauban.com/blog/dba-pun)
-- [SURVEY: What is your current total compensation &lpar;salary, bonuses, and perks, before taxes and deductions&rpar;?](https://blog.vvauban.com/blog/survey-what-is-your-current-total-compensation-salary-bonuses-and-perks)
-- [GREEN IT Developer 🌍💚: Use primitive operations](https://blog.vvauban.com/blog/green-it-developer-use-primitive-operations)
+- [GREEN IT Developer 🌍💚: Free up the memory of variables that are no longer needed](https://blog.vvauban.com/blog/green-it-developer-free-up-the-memory-of-variables-that-are-no-longer-needed)
+- [🍃🎓 SPRING CERTIFICATION QUESTION: What is the Template design 📏📐 pattern and what is the JDBC template?](https://blog.vvauban.com/blog/spring-certification-question-what-is-the-template-design-pattern-and)
+- [JAVA CERTIFICATION QUESTION: Secure coding and serialization](https://blog.vvauban.com/blog/java-certification-question-secure-coding-and-serialization)
+- [REACT: Routing 🛣️](https://blog.vvauban.com/blog/react-routing)
+- [Scrum Pillar: Adaptation 🔄️](https://blog.vvauban.com/blog/scrum-pillar-adaptation)
 <!-- BLOG-POST-LIST:END -->
