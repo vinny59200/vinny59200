@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [GREEN IT Developer 🌍💚: Free up the memory of variables that are no longer needed](https://blog.vvauban.com/blog/green-it-developer-free-up-the-memory-of-variables-that-are-no-longer-needed)
-- [🍃🎓 SPRING CERTIFICATION QUESTION: What is the Template design 📏📐 pattern and what is the JDBC template?](https://blog.vvauban.com/blog/spring-certification-question-what-is-the-template-design-pattern-and)
-- [JAVA CERTIFICATION QUESTION: Secure coding and serialization](https://blog.vvauban.com/blog/java-certification-question-secure-coding-and-serialization)
-- [REACT: Routing 🛣️](https://blog.vvauban.com/blog/react-routing)
-- [Scrum Pillar: Adaptation 🔄️](https://blog.vvauban.com/blog/scrum-pillar-adaptation)
+- [🆓 📕FREE BOOK: &quot;Data Science For Dummies, 3rd Edition &lpar;$21.00 Value&rpar; FREE for a Limited Time&quot;](https://blog.vvauban.com/blog/free-book-data-science-for-dummies-3rd-edition-21-00-value-free-for)
+- [BDD with Cucumber &lpar;Java&rpar;](https://blog.vvauban.com/blog/bdd-with-cucumber-java)
+- [Do you feel bad ☹️ if your teammate does free extra hours?](https://blog.vvauban.com/blog/do-you-feel-bad-if-your-teammate-does-free-extra-hours)
+- [What is needed for a good relationship? Primary keys](https://blog.vvauban.com/blog/what-is-needed-for-a-good-relationship-primary-keys)
+- [SURVEY: Perception of the time to onboard ✈️](https://blog.vvauban.com/blog/survey-perception-of-the-time-to-onboard)
 <!-- BLOG-POST-LIST:END -->
