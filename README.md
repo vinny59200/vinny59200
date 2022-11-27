@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🆓 📕FREE BOOK: &quot;Data Science For Dummies, 3rd Edition &lpar;$21.00 Value&rpar; FREE for a Limited Time&quot;](https://blog.vvauban.com/blog/free-book-data-science-for-dummies-3rd-edition-21-00-value-free-for)
-- [BDD with Cucumber &lpar;Java&rpar;](https://blog.vvauban.com/blog/bdd-with-cucumber-java)
-- [Do you feel bad ☹️ if your teammate does free extra hours?](https://blog.vvauban.com/blog/do-you-feel-bad-if-your-teammate-does-free-extra-hours)
-- [What is needed for a good relationship? Primary keys](https://blog.vvauban.com/blog/what-is-needed-for-a-good-relationship-primary-keys)
-- [SURVEY: Perception of the time to onboard ✈️](https://blog.vvauban.com/blog/survey-perception-of-the-time-to-onboard)
+- [Agile Dev&#39;s Mom Texting Gag 😹](https://blog.vvauban.com/blog/agile-dev-s-mom-texting-gag)
+- [SURVEY: Which development environments did you use regularly over the past year, and which do you want to work with over the next year? Please check all that apply.](https://blog.vvauban.com/blog/survey-which-development-environments-did-you-use-regularly-over-the-past)
+- [SOFT-SKILL: Engage your team ✊](https://blog.vvauban.com/blog/soft-skill-engage-your-team)
+- [SCRUM: The Increment 📦](https://blog.vvauban.com/blog/scrum-the-increment)
+- [CODE SMELL: Feature Envy 😋](https://blog.vvauban.com/blog/code-smell-feature-envy)
 <!-- BLOG-POST-LIST:END -->
