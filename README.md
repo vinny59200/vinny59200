@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Always do your best in whatever task you are performing. That&#39;s the only way to improve your skills the most you can.&quot;](https://blog.vvauban.com/blog/always-do-your-best-in-whatever-task-you-are-performing-that-s-the-only-way)
-- [TEAM: conflicts in the team are okay, it&#39;s part of the team lifecycle](https://blog.vvauban.com/blog/team-conflicts-in-the-team-are-okay-it-s-part-of-the-team-lifecycle)
-- [Java bug joke 😆](https://blog.vvauban.com/blog/java-bug-joke)
-- [Survey: Online course platforms to learn 👩🏫 how to code](https://blog.vvauban.com/blog/survey-online-course-platforms-to-learn-how-to-code)
-- [Good and bad error messages](https://blog.vvauban.com/blog/good-and-bad-error-messages)
+- [BREAKING NEWS: ☕ Java Usage Keeps Climbing 📈, According to New Survey](https://blog.vvauban.com/blog/breaking-news-java-usage-keeps-climbing-according-to-new-survey)
+- [fr: FREE MOOC sur la cybersécurité](https://blog.vvauban.com/blog/fr-free-mooc-sur-la-cybersecurite)
+- [NEW Practice Tests course: Fullstack developer REAL-WORLD recruitment test](https://blog.vvauban.com/blog/new-practice-tests-course-fullstack-developer-real-world-recruitment-test)
+- [JOKE: Fullstack explained with animals](https://blog.vvauban.com/blog/joke-fullstack-explained-with-animals)
+- [SURVEY: Salary by developer type](https://blog.vvauban.com/blog/survey-salary-by-developer-type)
 <!-- BLOG-POST-LIST:END -->
