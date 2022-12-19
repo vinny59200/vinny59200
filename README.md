@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🍃🎓 SPRING CERTIFICATION QUESTION: How can you control logging with Spring Boot?](https://blog.vvauban.com/blog/spring-certification-question-how-can-you-control-logging-with-spring-boot)
+- [JAVA CERTIFICATION QUESTION: Modules and JARs](https://blog.vvauban.com/blog/java-certification-question-modules-and-jars)
+- [FREE BOOK: 🤖🧠 &quot;Mastering Cyber Intelligence &lpar;$19.99 Value&rpar; FREE for a Limited Time&quot;](https://blog.vvauban.com/blog/free-book-mastering-cyber-intelligence-19-99-value-free-for-a-limited)
 - [BREAKING NEWS: ☕ Java Usage Keeps Climbing 📈, According to New Survey](https://blog.vvauban.com/blog/breaking-news-java-usage-keeps-climbing-according-to-new-survey)
 - [fr: FREE MOOC sur la cybersécurité](https://blog.vvauban.com/blog/fr-free-mooc-sur-la-cybersecurite)
-- [NEW Practice Tests course: Fullstack developer REAL-WORLD recruitment test](https://blog.vvauban.com/blog/new-practice-tests-course-fullstack-developer-real-world-recruitment-test)
-- [JOKE: Fullstack explained with animals](https://blog.vvauban.com/blog/joke-fullstack-explained-with-animals)
-- [SURVEY: Salary by developer type](https://blog.vvauban.com/blog/survey-salary-by-developer-type)
 <!-- BLOG-POST-LIST:END -->
