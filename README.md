@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🍃🎓 SPRING CERTIFICATION QUESTION: How can you control logging with Spring Boot?](https://blog.vvauban.com/blog/spring-certification-question-how-can-you-control-logging-with-spring-boot)
-- [JAVA CERTIFICATION QUESTION: Modules and JARs](https://blog.vvauban.com/blog/java-certification-question-modules-and-jars)
-- [FREE BOOK: 🤖🧠 &quot;Mastering Cyber Intelligence &lpar;$19.99 Value&rpar; FREE for a Limited Time&quot;](https://blog.vvauban.com/blog/free-book-mastering-cyber-intelligence-19-99-value-free-for-a-limited)
-- [BREAKING NEWS: ☕ Java Usage Keeps Climbing 📈, According to New Survey](https://blog.vvauban.com/blog/breaking-news-java-usage-keeps-climbing-according-to-new-survey)
-- [fr: FREE MOOC sur la cybersécurité](https://blog.vvauban.com/blog/fr-free-mooc-sur-la-cybersecurite)
+- [🆓📘 FREE BOOK: &quot;Go For DevOps &lpar;$5.00 Value&rpar; FREE for a Limited Time&quot;](https://blog.vvauban.com/blog/free-book-go-for-devops-5-00-value-free-for-a-limited-time)
+- [&quot;Learning by only reading books or watching classes is far than enough to make you proficient. Practice and gain experience about what you learned.&quot;](https://blog.vvauban.com/blog/learning-by-only-reading-books-or-watching-classes-is-far-than-enough-to)
+- [IntelliJ PLUGIN: Snyk for secure coding](https://blog.vvauban.com/blog/intellij-plugin-snyk-for-secure-coding)
+- [Patton: &quot;A good plan violently executed now is better than a perfect plan executed next week.&quot; Do you agree? Yes/No/It-depends](https://blog.vvauban.com/blog/patton-a-good-plan-violently-executed-now-is-better-than-a-perfect-plan)
+- [Scrum Definition 👩‍🏫](https://blog.vvauban.com/blog/scrum-definition)
 <!-- BLOG-POST-LIST:END -->
