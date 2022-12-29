@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🆓📘 FREE BOOK: &quot;Go For DevOps &lpar;$5.00 Value&rpar; FREE for a Limited Time&quot;](https://blog.vvauban.com/blog/free-book-go-for-devops-5-00-value-free-for-a-limited-time)
-- [&quot;Learning by only reading books or watching classes is far than enough to make you proficient. Practice and gain experience about what you learned.&quot;](https://blog.vvauban.com/blog/learning-by-only-reading-books-or-watching-classes-is-far-than-enough-to)
-- [IntelliJ PLUGIN: Snyk for secure coding](https://blog.vvauban.com/blog/intellij-plugin-snyk-for-secure-coding)
-- [Patton: &quot;A good plan violently executed now is better than a perfect plan executed next week.&quot; Do you agree? Yes/No/It-depends](https://blog.vvauban.com/blog/patton-a-good-plan-violently-executed-now-is-better-than-a-perfect-plan)
-- [Scrum Definition 👩‍🏫](https://blog.vvauban.com/blog/scrum-definition)
+- [🍃🎓 SPRING CERTIFICATION QUESTION: What are safe/idempotent REST operations?](https://blog.vvauban.com/blog/spring-certification-question-what-are-safe-idempotent-rest-operations)
+- [JAVA CERTIFICATION QUESTION: stream and limit](https://blog.vvauban.com/blog/java-certification-question-stream-and-limit-abde7fec-bda6-4930-8c58-eb69d1583e38)
+- [🆓📕 FREE GitOps BOOK: GitOps Cookbook: Kubernetes Automation in Practice](https://blog.vvauban.com/blog/free-gitops-book-gitops-cookbook-kubernetes-automation-in-practice)
+- [REACT Slot 🧩](https://blog.vvauban.com/blog/react-slot)
+- [Printer JOKE 🤣](https://blog.vvauban.com/blog/printer-joke)
 <!-- BLOG-POST-LIST:END -->
