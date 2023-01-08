@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🍃🎓 SPRING CERTIFICATION QUESTION: What are safe/idempotent REST operations?](https://blog.vvauban.com/blog/spring-certification-question-what-are-safe-idempotent-rest-operations)
-- [JAVA CERTIFICATION QUESTION: stream and limit](https://blog.vvauban.com/blog/java-certification-question-stream-and-limit-abde7fec-bda6-4930-8c58-eb69d1583e38)
-- [🆓📕 FREE GitOps BOOK: GitOps Cookbook: Kubernetes Automation in Practice](https://blog.vvauban.com/blog/free-gitops-book-gitops-cookbook-kubernetes-automation-in-practice)
-- [REACT Slot 🧩](https://blog.vvauban.com/blog/react-slot)
-- [Printer JOKE 🤣](https://blog.vvauban.com/blog/printer-joke)
+- [JOKE: Semicolon 😁](https://blog.vvauban.com/blog/joke-semicolon)
+- [SURVEY: What Processes, tools ⚙️, and programs does your organization has?](https://blog.vvauban.com/blog/survey-what-processes-tools-and-programs-does-your-organization-has)
+- [SOFT SKILL: Kindness 🤗, benevolence, and compassion💖 benefits](https://blog.vvauban.com/blog/soft-skill-kindness-benevolence-and-compassion-benefits)
+- [CODE SMELL: Middle man 👤👨👤](https://blog.vvauban.com/blog/code-smell-middle-man)
+- [SCRUM DEVELOPER CONCEPT: Black Box Testing ⬛🧪](https://blog.vvauban.com/blog/scrum-developer-concept-black-box-testing)
 <!-- BLOG-POST-LIST:END -->
