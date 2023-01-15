@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JOKE: Semicolon 😁](https://blog.vvauban.com/blog/joke-semicolon)
-- [SURVEY: What Processes, tools ⚙️, and programs does your organization has?](https://blog.vvauban.com/blog/survey-what-processes-tools-and-programs-does-your-organization-has)
-- [SOFT SKILL: Kindness 🤗, benevolence, and compassion💖 benefits](https://blog.vvauban.com/blog/soft-skill-kindness-benevolence-and-compassion-benefits)
-- [CODE SMELL: Middle man 👤👨👤](https://blog.vvauban.com/blog/code-smell-middle-man)
-- [SCRUM DEVELOPER CONCEPT: Black Box Testing ⬛🧪](https://blog.vvauban.com/blog/scrum-developer-concept-black-box-testing)
+- [Lombok: FOR or AGAINST ?](https://blog.vvauban.com/blog/lombok-for-or-against)
+- [JOKE: React penguinphant 🐘🐧](https://blog.vvauban.com/blog/joke-react-penguinphant)
+- [SURVEY: Do you code outside of Work? 👷♂️](https://blog.vvauban.com/blog/survey-do-you-code-outside-of-work)
+- [SOFT SKILL: Active Listening 💓👂](https://blog.vvauban.com/blog/soft-skill-active-listening)
+- [ChatGPT: Using ChatGPT to clean JS code style 🤖🧹](https://blog.vvauban.com/blog/chatgpt-using-chatgpt-to-clean-js-code-style)
 <!-- BLOG-POST-LIST:END -->
