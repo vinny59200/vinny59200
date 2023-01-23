@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Lombok: FOR or AGAINST ?](https://blog.vvauban.com/blog/lombok-for-or-against)
-- [JOKE: React penguinphant 🐘🐧](https://blog.vvauban.com/blog/joke-react-penguinphant)
-- [SURVEY: Do you code outside of Work? 👷♂️](https://blog.vvauban.com/blog/survey-do-you-code-outside-of-work)
-- [SOFT SKILL: Active Listening 💓👂](https://blog.vvauban.com/blog/soft-skill-active-listening)
-- [ChatGPT: Using ChatGPT to clean JS code style 🤖🧹](https://blog.vvauban.com/blog/chatgpt-using-chatgpt-to-clean-js-code-style)
+- [There is no silver-bullet framework. It is best to determine which framework is best for you based on the requirements of your project.](https://blog.vvauban.com/blog/there-is-no-silver-bullet-framework-it-is-best-to-determine-which-framework)
+- [🤠🥋Chuck Norris can recite π. Backward.](https://blog.vvauban.com/blog/chuck-norris-can-recite-backward)
+- [SOFT SKILL: Asking questions💓](https://blog.vvauban.com/blog/soft-skill-asking-questions)
+- [chatGPT: Generating Unit test with chatGPT 🤖🧪](https://blog.vvauban.com/blog/chatgpt-generating-unit-test-with-chatgpt)
+- [REACT: example of routing 🛣️ in React using the React Router library would be as follows:](https://blog.vvauban.com/blog/react-example-of-routing-in-react-using-the-react-router-library-would-be)
 <!-- BLOG-POST-LIST:END -->
