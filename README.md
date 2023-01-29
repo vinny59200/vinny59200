@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [There is no silver-bullet framework. It is best to determine which framework is best for you based on the requirements of your project.](https://blog.vvauban.com/blog/there-is-no-silver-bullet-framework-it-is-best-to-determine-which-framework)
-- [🤠🥋Chuck Norris can recite π. Backward.](https://blog.vvauban.com/blog/chuck-norris-can-recite-backward)
-- [SOFT SKILL: Asking questions💓](https://blog.vvauban.com/blog/soft-skill-asking-questions)
-- [chatGPT: Generating Unit test with chatGPT 🤖🧪](https://blog.vvauban.com/blog/chatgpt-generating-unit-test-with-chatgpt)
-- [REACT: example of routing 🛣️ in React using the React Router library would be as follows:](https://blog.vvauban.com/blog/react-example-of-routing-in-react-using-the-react-router-library-would-be)
+- [chatGPT: Regex with chatGPT 🤖](https://blog.vvauban.com/blog/chatgpt-regex-with-chatgpt)
+- [SOFT SKILL: Engaging Conversation 💖](https://blog.vvauban.com/blog/soft-skill-engaging-conversation)
+- [🤠🥋 Chuck Norris can compile syntax errors.](https://blog.vvauban.com/blog/chuck-norris-can-compile-syntax-errors)
+- [SCRUM DEVELOPER CONCEPT: Benefits of Test-Driven Development](https://blog.vvauban.com/blog/scrum-developer-concept-benefits-of-test-driven-development)
+- [🍃🎓 SPRING CERTIFICATION QUESTION: When do you need @ResponseBody?](https://blog.vvauban.com/blog/spring-certification-question-when-do-you-need-responsebody)
 <!-- BLOG-POST-LIST:END -->
