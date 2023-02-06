@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [chatGPT: Regex with chatGPT 🤖](https://blog.vvauban.com/blog/chatgpt-regex-with-chatgpt)
-- [SOFT SKILL: Engaging Conversation 💖](https://blog.vvauban.com/blog/soft-skill-engaging-conversation)
-- [🤠🥋 Chuck Norris can compile syntax errors.](https://blog.vvauban.com/blog/chuck-norris-can-compile-syntax-errors)
-- [SCRUM DEVELOPER CONCEPT: Benefits of Test-Driven Development](https://blog.vvauban.com/blog/scrum-developer-concept-benefits-of-test-driven-development)
-- [🍃🎓 SPRING CERTIFICATION QUESTION: When do you need @ResponseBody?](https://blog.vvauban.com/blog/spring-certification-question-when-do-you-need-responsebody)
+- [🤠🥋When Chuck Norris&#39; code fails to compile the compiler apologizes.](https://blog.vvauban.com/blog/when-chuck-norris-code-fails-to-compile-the-compiler-apologizes)
+- [POLL: Do you use &#39;mvn verify&#39;, with #maven? YES/NO 🗳️](https://blog.vvauban.com/blog/poll-do-you-use-mvn-verify-with-maven-yes-no)
+- [SOFT SKILL: Law of attraction 🧲](https://blog.vvauban.com/blog/soft-skill-law-of-attraction)
+- [chatGPT: JavaDoc with chatGPT 🤖](https://blog.vvauban.com/blog/chatgpt-javadoc-with-chatgpt)
+- [SCRUM DEVELOPER CONCEPT: Advantages of pair programming 👨💻👩💻](https://blog.vvauban.com/blog/scrum-developer-concept-advantages-of-pair-programming)
 <!-- BLOG-POST-LIST:END -->
