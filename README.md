@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🤠🥋When Chuck Norris&#39; code fails to compile the compiler apologizes.](https://blog.vvauban.com/blog/when-chuck-norris-code-fails-to-compile-the-compiler-apologizes)
-- [POLL: Do you use &#39;mvn verify&#39;, with #maven? YES/NO 🗳️](https://blog.vvauban.com/blog/poll-do-you-use-mvn-verify-with-maven-yes-no)
-- [SOFT SKILL: Law of attraction 🧲](https://blog.vvauban.com/blog/soft-skill-law-of-attraction)
-- [chatGPT: JavaDoc with chatGPT 🤖](https://blog.vvauban.com/blog/chatgpt-javadoc-with-chatgpt)
-- [SCRUM DEVELOPER CONCEPT: Advantages of pair programming 👨💻👩💻](https://blog.vvauban.com/blog/scrum-developer-concept-advantages-of-pair-programming)
+- [🤠🥋The class object inherits from Chuck Norris.](https://blog.vvauban.com/blog/the-class-object-inherits-from-chuck-norris)
+- [SOFT SKILL: Healthy, Quality Relationships 🤝](https://blog.vvauban.com/blog/soft-skill-healthy-quality-relationships)
+- [chatGPT 🤖: Naming Java methods](https://blog.vvauban.com/blog/chatgpt-naming-java-methods)
+- [SCRUM 🤹♂️: Lean provides redundancy; therefore, the team can focus on the essentials with enough resources. TRUE/FALSE?](https://blog.vvauban.com/blog/scrum-lean-provides-redundancy-therefore-the-team-can-focus-on-the)
+- [ANGULAR 🔻: What is the purpose of the ViewChild decorator in this component class?](https://blog.vvauban.com/blog/angular-what-is-the-purpose-of-the-viewchild-decorator-in-this-component)
 <!-- BLOG-POST-LIST:END -->
