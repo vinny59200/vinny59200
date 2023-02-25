@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [☕🎓JAVA CERTIFICATION QUESTION:](https://blog.vvauban.com/blog/java-certification-question)
+- [AI Video Avatar 🎬🤖😂](https://blog.vvauban.com/blog/ai-video-avatar)
+- [RUST - The most loved language 💗](https://blog.vvauban.com/blog/rust-the-most-loved-language)
 - [🤖☕🎬 #chatGPT #Java refacto #video](https://blog.vvauban.com/blog/chatgpt-java-refacto-video)
 - [🤠🥋 Chuck Norris doesn’t do Burn Down charts, he does Smack Down charts](https://blog.vvauban.com/blog/chuck-norris-doesn-t-do-burn-down-charts-he-does-smack-down-charts)
-- [ANGULAR🔺: What method is used to wire up a FormControl to a native DOM input element in reactive forms?](https://blog.vvauban.com/blog/angular-what-method-is-used-to-wire-up-a-formcontrol-to-a-native-dom-input)
-- [REACT ⚛️: If a function component should always render the same way given the same props, what is a simple performance optimization available for it?](https://blog.vvauban.com/blog/react-if-a-function-component-should-always-render-the-same-way-given-the)
-- [SCRUM DEVELOPER CONCEPT: DRY Benefits](https://blog.vvauban.com/blog/scrum-developer-concept-dry-benefits)
 <!-- BLOG-POST-LIST:END -->
