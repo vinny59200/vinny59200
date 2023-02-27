@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🤠🥋 Chuck Norris rewrote the Google search engine from scratch.](https://blog.vvauban.com/blog/chuck-norris-rewrote-the-google-search-engine-from-scratch)
+- [React VS Angular](https://blog.vvauban.com/blog/react-vs-angular)
 - [🤖🎙️#chatgGPT press review 📰🗞️:  ChatGPT, a great assistant that is already seducing professionals](https://blog.vvauban.com/blog/chatggpt-press-review-chatgpt-a-great-assistant-that-is-already)
 - [SCRUM DEVELOPER CONCEPT: naming convention benefits](https://blog.vvauban.com/blog/scrum-developer-concept-naming-convention-benefits)
 - [🍃🎓 SPRING CERTIFICATION QUESTION: How can you control logging with Spring Boot?](https://blog.vvauban.com/blog/spring-certification-question-how-can-you-control-logging-with-spring-boot-9c72f3cd-e14f-4740-b01a-6c9af403c125)
-- [☕🎓JAVA CERTIFICATION QUESTION:](https://blog.vvauban.com/blog/java-certification-question)
-- [AI Video Avatar 🎬🤖😂](https://blog.vvauban.com/blog/ai-video-avatar)
 <!-- BLOG-POST-LIST:END -->
