@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java is zero-indexed](https://blog.vvauban.com/blog/java-is-zero-indexed)
-- [🤠🥋 No statement can catch the ChuckNorrisException.](https://blog.vvauban.com/blog/no-statement-can-catch-the-chucknorrisexception)
-- [SCRUM DEVELOPER CONCEPTS: Clean Code 🧼 MUST-HAVE](https://blog.vvauban.com/blog/scrum-developer-concepts-clean-code-must-have)
-- [⚛️ REACT: 3D animation with Three.JS lib](https://blog.vvauban.com/blog/react-3d-animation-with-three-js-lib)
-- [Programming languages ranking: Java exits the podium 😱](https://blog.vvauban.com/blog/programming-languages-ranking-java-exits-the-podium)
+- [Programming languages ranking: Java exits the podium 😱](https://blog.vvauban.com/blog/programming-languages-ranking-java-exits-the-podium-a4d24fbf-87a6-4de5-afa2-2fdab9440034)
+- [SCRUM DEVELOPER CONCEPT: Common coding standards](https://blog.vvauban.com/blog/scrum-developer-concept-common-coding-standards)
+- [JOKE: Dear Santa 🤣🎅](https://blog.vvauban.com/blog/joke-dear-santa)
+- [JS: Console logging API in pictures](https://blog.vvauban.com/blog/js-console-logging-api-in-pictures)
+- [☕🎓JAVA CERTIFICATION QUESTION: spot the dirty code](https://blog.vvauban.com/blog/java-certification-question-spot-the-dirty-code)
 <!-- BLOG-POST-LIST:END -->
