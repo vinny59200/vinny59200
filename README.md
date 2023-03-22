@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Programming languages ranking: Java exits the podium 😱](https://blog.vvauban.com/blog/programming-languages-ranking-java-exits-the-podium-a4d24fbf-87a6-4de5-afa2-2fdab9440034)
-- [SCRUM DEVELOPER CONCEPT: Common coding standards](https://blog.vvauban.com/blog/scrum-developer-concept-common-coding-standards)
-- [JOKE: Dear Santa 🤣🎅](https://blog.vvauban.com/blog/joke-dear-santa)
-- [JS: Console logging API in pictures](https://blog.vvauban.com/blog/js-console-logging-api-in-pictures)
-- [☕🎓JAVA CERTIFICATION QUESTION: spot the dirty code](https://blog.vvauban.com/blog/java-certification-question-spot-the-dirty-code)
+- [☕🎓JAVA CERTIFICATION QUESTION: Time API](https://blog.vvauban.com/blog/java-certification-question-time-api)
+- [SCRUM: Escaping the Predictability Trap by Kurt Bittner of Scrum.org](https://blog.vvauban.com/blog/scrum-escaping-the-predictability-trap-by-kurt-bittner-of-scrum-org)
+- [&quot;Flags in argument are bad. Avoid it completely :&rpar;&quot;](https://blog.vvauban.com/blog/flags-in-argument-are-bad-avoid-it-completely)
+- [🤠🥋  Chuck Norris can unit-test an entire application with a single assert.](https://blog.vvauban.com/blog/chuck-norris-can-unit-test-an-entire-application-with-a-single-assert)
+- [IntelliJ Navigation Shortcuts ⌨️✂️](https://blog.vvauban.com/blog/intellij-navigation-shortcuts)
 <!-- BLOG-POST-LIST:END -->
