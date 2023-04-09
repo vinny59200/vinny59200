@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [☕🎓JAVA CERTIFICATION QUESTION: Time API](https://blog.vvauban.com/blog/java-certification-question-time-api)
-- [SCRUM: Escaping the Predictability Trap by Kurt Bittner of Scrum.org](https://blog.vvauban.com/blog/scrum-escaping-the-predictability-trap-by-kurt-bittner-of-scrum-org)
-- [&quot;Flags in argument are bad. Avoid it completely :&rpar;&quot;](https://blog.vvauban.com/blog/flags-in-argument-are-bad-avoid-it-completely)
-- [🤠🥋  Chuck Norris can unit-test an entire application with a single assert.](https://blog.vvauban.com/blog/chuck-norris-can-unit-test-an-entire-application-with-a-single-assert)
-- [IntelliJ Navigation Shortcuts ⌨️✂️](https://blog.vvauban.com/blog/intellij-navigation-shortcuts)
+- [🤖🤣GPT JOKE](https://blog.vvauban.com/blog/gpt-joke)
+- [🆕 NEW COURSE: Go/Golang Professional Interview Questions](https://blog.vvauban.com/blog/new-course-go-golang-professional-interview-questions)
+- [[React] Fragment the memory efficient way](https://blog.vvauban.com/blog/react-fragment-the-memory-efficient-way)
+- [[Scrum] Empiricism is an Essential Element of Scrum by Mark Noneman, Scrum Trainer](https://blog.vvauban.com/blog/scrum-empiricism-is-an-essential-element-of-scrum-by-mark-noneman-scrum)
+- [☕🎓JAVA CERTIFICATION QUESTION: Time formatter](https://blog.vvauban.com/blog/java-certification-question-time-formatter)
 <!-- BLOG-POST-LIST:END -->
