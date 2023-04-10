@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🤖🤣GPT JOKE](https://blog.vvauban.com/blog/gpt-joke)
-- [🆕 NEW COURSE: Go/Golang Professional Interview Questions](https://blog.vvauban.com/blog/new-course-go-golang-professional-interview-questions)
-- [[React] Fragment the memory efficient way](https://blog.vvauban.com/blog/react-fragment-the-memory-efficient-way)
-- [[Scrum] Empiricism is an Essential Element of Scrum by Mark Noneman, Scrum Trainer](https://blog.vvauban.com/blog/scrum-empiricism-is-an-essential-element-of-scrum-by-mark-noneman-scrum)
-- [☕🎓JAVA CERTIFICATION QUESTION: Time formatter](https://blog.vvauban.com/blog/java-certification-question-time-formatter)
+- [JAVA ROADMAP &lpar;with my personal score&rpar;](https://blog.vvauban.com/blog/java-roadmap-with-my-personal-score)
+- [⚛️ REACT: Virtual DOM vs Real DOM](https://blog.vvauban.com/blog/react-virtual-dom-vs-real-dom)
+- [☕🎓JAVA CERTIFICATION QUESTION: this and local variable](https://blog.vvauban.com/blog/java-certification-question-this-and-local-variable)
+- [SCRUM Values Poster](https://blog.vvauban.com/blog/scrum-values-poster)
+- [As a developer, do you have a Computer Science related degree 🎓? YES/ NO-Self-Taught/ NO-BootCamp](https://blog.vvauban.com/blog/as-a-developer-do-you-have-a-computer-science-related-degree-yes)
 <!-- BLOG-POST-LIST:END -->
