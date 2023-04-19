@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JAVA ROADMAP &lpar;with my personal score&rpar;](https://blog.vvauban.com/blog/java-roadmap-with-my-personal-score)
-- [⚛️ REACT: Virtual DOM vs Real DOM](https://blog.vvauban.com/blog/react-virtual-dom-vs-real-dom)
-- [☕🎓JAVA CERTIFICATION QUESTION: this and local variable](https://blog.vvauban.com/blog/java-certification-question-this-and-local-variable)
-- [SCRUM Values Poster](https://blog.vvauban.com/blog/scrum-values-poster)
-- [As a developer, do you have a Computer Science related degree 🎓? YES/ NO-Self-Taught/ NO-BootCamp](https://blog.vvauban.com/blog/as-a-developer-do-you-have-a-computer-science-related-degree-yes)
+- [🤣 JOKE: Backend developer&#39;s greatest fear😱](https://blog.vvauban.com/blog/joke-backend-developer-s-greatest-fear)
+- [ANGULAR 🔺: Signals](https://blog.vvauban.com/blog/angular-signals)
+- [⚛️ REACT FREE &lpar;VISUALIZED&rpar; COURSE: ​react.gg](https://blog.vvauban.com/blog/react-free-visualized-course-react-gg)
+- [☕🎓JAVA CERTIFICATION QUESTION: takeWhile/doWhile](https://blog.vvauban.com/blog/java-certification-question-takewhile-dowhile)
+- [🆓☕🏆📕 FREE JAVA CHAMPION BOOK: Modernizing Enterprise Java](https://blog.vvauban.com/blog/free-java-champion-book-modernizing-enterprise-java)
 <!-- BLOG-POST-LIST:END -->
