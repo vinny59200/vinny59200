@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🤣 JOKE: Backend developer&#39;s greatest fear😱](https://blog.vvauban.com/blog/joke-backend-developer-s-greatest-fear)
-- [ANGULAR 🔺: Signals](https://blog.vvauban.com/blog/angular-signals)
-- [⚛️ REACT FREE &lpar;VISUALIZED&rpar; COURSE: ​react.gg](https://blog.vvauban.com/blog/react-free-visualized-course-react-gg)
-- [☕🎓JAVA CERTIFICATION QUESTION: takeWhile/doWhile](https://blog.vvauban.com/blog/java-certification-question-takewhile-dowhile)
-- [🆓☕🏆📕 FREE JAVA CHAMPION BOOK: Modernizing Enterprise Java](https://blog.vvauban.com/blog/free-java-champion-book-modernizing-enterprise-java)
+- [SCRUM: How Following the Scrum Values Helps Improve Morale by John Gillespie](https://blog.vvauban.com/blog/scrum-how-following-the-scrum-values-helps-improve-morale-by-john-gillespie)
+- [Team Tactics by Pip Decks 📺](https://blog.vvauban.com/blog/team-tactics-by-pip-decks)
+- [Why do computer programmers confuse Halloween 🎃 with Christmas 🎅? Because Oct 31 = Dec 25.](https://blog.vvauban.com/blog/why-do-computer-programmers-confuse-halloween-with-christmas-because-oct)
+- [Hot take: backend is easier to pickup than frontend? TRUE/FALSE](https://blog.vvauban.com/blog/hot-take-backend-is-easier-to-pickup-than-frontend-true-false)
+- [SCRUM REBOOT: THIS TIME WITH THE VALUE ➡️ Common pitfalls in Agile transformation](https://blog.vvauban.com/blog/scrum-reboot-this-time-with-the-value-common-pitfalls-in-agile)
 <!-- BLOG-POST-LIST:END -->
