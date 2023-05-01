@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SCRUM: How Following the Scrum Values Helps Improve Morale by John Gillespie](https://blog.vvauban.com/blog/scrum-how-following-the-scrum-values-helps-improve-morale-by-john-gillespie)
-- [Team Tactics by Pip Decks 📺](https://blog.vvauban.com/blog/team-tactics-by-pip-decks)
-- [Why do computer programmers confuse Halloween 🎃 with Christmas 🎅? Because Oct 31 = Dec 25.](https://blog.vvauban.com/blog/why-do-computer-programmers-confuse-halloween-with-christmas-because-oct)
-- [Hot take: backend is easier to pickup than frontend? TRUE/FALSE](https://blog.vvauban.com/blog/hot-take-backend-is-easier-to-pickup-than-frontend-true-false)
-- [SCRUM REBOOT: THIS TIME WITH THE VALUE ➡️ Common pitfalls in Agile transformation](https://blog.vvauban.com/blog/scrum-reboot-this-time-with-the-value-common-pitfalls-in-agile)
+- [POLL: BACK versus FRONT 🤜🤛](https://blog.vvauban.com/blog/poll-back-versus-front)
+- [🤣 JOKE by the JOKER 🤡](https://blog.vvauban.com/blog/joke-by-the-joker)
+- [🅰️ What’s New in Angular 16 and What To Expect](https://blog.vvauban.com/blog/what-s-new-in-angular-16-and-what-to-expect)
+- [When you&#39;re trying to choose a design or solution, go for the easiest one! Don&#39;t make it too complicated.](https://blog.vvauban.com/blog/when-you-re-trying-to-choose-a-design-or-solution-go-for-the-easiest-one)
+- [☕ JAVA: All the GOOD PRACTICES 👍](https://blog.vvauban.com/blog/java-all-the-good-practices)
 <!-- BLOG-POST-LIST:END -->
