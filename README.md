@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [POLL: BACK versus FRONT 🤜🤛](https://blog.vvauban.com/blog/poll-back-versus-front)
-- [🤣 JOKE by the JOKER 🤡](https://blog.vvauban.com/blog/joke-by-the-joker)
-- [🅰️ What’s New in Angular 16 and What To Expect](https://blog.vvauban.com/blog/what-s-new-in-angular-16-and-what-to-expect)
-- [When you&#39;re trying to choose a design or solution, go for the easiest one! Don&#39;t make it too complicated.](https://blog.vvauban.com/blog/when-you-re-trying-to-choose-a-design-or-solution-go-for-the-easiest-one)
-- [☕ JAVA: All the GOOD PRACTICES 👍](https://blog.vvauban.com/blog/java-all-the-good-practices)
+- [🤣JOKE: Amazon billing](https://blog.vvauban.com/blog/joke-amazon-billing)
+- [🗳️ Do you use 1 monitor or more than 1? 1/ 1WIDE/ 2/ 2+](https://blog.vvauban.com/blog/do-you-use-1-monitor-or-more-than-1-1-1wide-2-2)
+- [How do the 3 scrum roles👩🏫👨💼👨💻 promote self-organization?](https://blog.vvauban.com/blog/how-do-the-3-scrum-roles-promote-self-organization)
+- [🅰️ Dear followers, #coupon #udemy #angular](https://blog.vvauban.com/blog/dear-followers-coupon-udemy-angular)
+- [⚛️ The Journey of the React Component](https://blog.vvauban.com/blog/the-journey-of-the-react-component)
 <!-- BLOG-POST-LIST:END -->
