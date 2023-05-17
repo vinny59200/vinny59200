@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🤣JOKE: Amazon billing](https://blog.vvauban.com/blog/joke-amazon-billing)
-- [🗳️ Do you use 1 monitor or more than 1? 1/ 1WIDE/ 2/ 2+](https://blog.vvauban.com/blog/do-you-use-1-monitor-or-more-than-1-1-1wide-2-2)
-- [How do the 3 scrum roles👩🏫👨💼👨💻 promote self-organization?](https://blog.vvauban.com/blog/how-do-the-3-scrum-roles-promote-self-organization)
-- [🅰️ Dear followers, #coupon #udemy #angular](https://blog.vvauban.com/blog/dear-followers-coupon-udemy-angular)
-- [⚛️ The Journey of the React Component](https://blog.vvauban.com/blog/the-journey-of-the-react-component)
+- [🤣JOKE: Amazon billing](http://blog.vvauban.com/blog/joke-amazon-billing)
+- [🗳️ Do you use 1 monitor or more than 1? 1/ 1WIDE/ 2/ 2+](http://blog.vvauban.com/blog/do-you-use-1-monitor-or-more-than-1-1-1wide-2-2)
+- [How do the 3 scrum roles👩🏫👨💼👨💻 promote self-organization?](http://blog.vvauban.com/blog/how-do-the-3-scrum-roles-promote-self-organization)
+- [🅰️ Dear followers, #coupon #udemy #angular](http://blog.vvauban.com/blog/dear-followers-coupon-udemy-angular)
+- [⚛️ The Journey of the React Component](http://blog.vvauban.com/blog/the-journey-of-the-react-component)
 <!-- BLOG-POST-LIST:END -->
