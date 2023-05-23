@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🤣JOKE: Amazon billing](https://blog.vvauban.com/blog/joke-amazon-billing)
-- [🗳️ Do you use 1 monitor or more than 1? 1/ 1WIDE/ 2/ 2+](https://blog.vvauban.com/blog/do-you-use-1-monitor-or-more-than-1-1-1wide-2-2)
-- [How do the 3 scrum roles👩🏫👨💼👨💻 promote self-organization?](https://blog.vvauban.com/blog/how-do-the-3-scrum-roles-promote-self-organization)
-- [🅰️ Dear followers, #coupon #udemy #angular](https://blog.vvauban.com/blog/dear-followers-coupon-udemy-angular)
-- [⚛️ The Journey of the React Component](https://blog.vvauban.com/blog/the-journey-of-the-react-component)
+- [The Sprint Review is NOT ONLY a Demo](https://blog.vvauban.com/blog/the-sprint-review-is-not-only-a-demo)
+- [NEW COURSE: Spring Professional Certification 2023](https://blog.vvauban.com/blog/new-course-spring-professional-certification-2023)
+- [😜 Java Joke☕](https://blog.vvauban.com/blog/java-joke)
+- [⚽ SCRUM: Equality - accountabilities in Scrum](https://blog.vvauban.com/blog/scrum-equality-accountabilities-in-scrum)
+- [⚛️React with Material UI 🎨](https://blog.vvauban.com/blog/react-with-material-ui)
 <!-- BLOG-POST-LIST:END -->
