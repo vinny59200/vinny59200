@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The Sprint Review is NOT ONLY a Demo](https://blog.vvauban.com/blog/the-sprint-review-is-not-only-a-demo)
-- [NEW COURSE: Spring Professional Certification 2023](https://blog.vvauban.com/blog/new-course-spring-professional-certification-2023)
-- [😜 Java Joke☕](https://blog.vvauban.com/blog/java-joke)
-- [⚽ SCRUM: Equality - accountabilities in Scrum](https://blog.vvauban.com/blog/scrum-equality-accountabilities-in-scrum)
-- [⚛️React with Material UI 🎨](https://blog.vvauban.com/blog/react-with-material-ui)
+- [🤣 Billionaires JOKE](https://blog.vvauban.com/blog/billionaires-joke)
+- [🅰 NEW In Angular: Required for @Input](https://blog.vvauban.com/blog/new-in-angular-required-for-input)
+- [AWS tutorials by the best tutorials maker](https://blog.vvauban.com/blog/aws-tutorials-by-the-best-tutorials-maker)
+- [☕🎓JAVA CERTIFICATION QUESTION: enclosing instance reference reachable when nested class is reachable](https://blog.vvauban.com/blog/java-certification-question-enclosing-instance-reference-reachable-when)
+- [Have you ever attended a programming conference before? YES/NO](https://blog.vvauban.com/blog/have-you-ever-attended-a-programming-conference-before-yes-no)
 <!-- BLOG-POST-LIST:END -->
