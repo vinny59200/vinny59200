@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🤣 Billionaires JOKE](https://blog.vvauban.com/blog/billionaires-joke)
-- [🅰 NEW In Angular: Required for @Input](https://blog.vvauban.com/blog/new-in-angular-required-for-input)
-- [AWS tutorials by the best tutorials maker](https://blog.vvauban.com/blog/aws-tutorials-by-the-best-tutorials-maker)
-- [☕🎓JAVA CERTIFICATION QUESTION: enclosing instance reference reachable when nested class is reachable](https://blog.vvauban.com/blog/java-certification-question-enclosing-instance-reference-reachable-when)
-- [Have you ever attended a programming conference before? YES/NO](https://blog.vvauban.com/blog/have-you-ever-attended-a-programming-conference-before-yes-no)
+- [🅰️Angular 16 Signal 🚦 feature app with ChatGPT🤖](https://blog.vvauban.com/blog/angular-16-signal-feature-app-with-chatgpt)
+- [☕🎓JAVA CERTIFICATION QUESTION: private local variable type inference](https://blog.vvauban.com/blog/java-certification-question-private-local-variable-type-inference)
+- [🍃🎓 SPRING CERTIFICATION QUESTION: Which are valid ways to load external properties in Spring?](https://blog.vvauban.com/blog/spring-certification-question-which-are-valid-ways-to-load-external)
+- [⚽ SCRUM: 5 Powerful Things About the Sprint](https://blog.vvauban.com/blog/scrum-5-powerful-things-about-the-sprint)
+- [Which social media platform is considered the most valuable for gaining technical insights? RED/TWIT/IN/FB](https://blog.vvauban.com/blog/which-social-media-platform-is-considered-the-most-valuable-for-gaining)
 <!-- BLOG-POST-LIST:END -->
