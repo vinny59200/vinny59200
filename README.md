@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/vvauban" target="blank"><img src="https://img.shields.io/twitter/follow/vvauban?logo=twitter&style=for-the-badge" alt="vvauban" /></a> </p>
 
-- 🔭 I’m currently working on [insurance company website](https://entreprise.malakoffhumanis.com)
+- 🔭 I’m currently working on payment card app
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **creating new trivial Angular coding cases**
+- 👯 I’m looking to collaborate on **creating new trivial React & Angular coding cases**
 
 - 🤝 I’m looking for help with **RxJs, Jasmine, Jest, Redux**
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [blog.vvauban.com](blog.vvauban.com)
 
-- 💬 Ask me about **Angular, and Java**
+- 💬 Ask me about **React, Angular, and Java**
 
 - 📫 How to reach me **vvauban@gmx.us**
 
