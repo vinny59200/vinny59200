@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🅰️Angular 16 Signal 🚦 feature app with ChatGPT🤖](https://blog.vvauban.com/blog/angular-16-signal-feature-app-with-chatgpt)
-- [☕🎓JAVA CERTIFICATION QUESTION: private local variable type inference](https://blog.vvauban.com/blog/java-certification-question-private-local-variable-type-inference)
-- [🍃🎓 SPRING CERTIFICATION QUESTION: Which are valid ways to load external properties in Spring?](https://blog.vvauban.com/blog/spring-certification-question-which-are-valid-ways-to-load-external)
-- [⚽ SCRUM: 5 Powerful Things About the Sprint](https://blog.vvauban.com/blog/scrum-5-powerful-things-about-the-sprint)
-- [Which social media platform is considered the most valuable for gaining technical insights? RED/TWIT/IN/FB](https://blog.vvauban.com/blog/which-social-media-platform-is-considered-the-most-valuable-for-gaining)
+- [#fr Outlook afficher l&#39;icône de Télétravail](https://blog.vvauban.com/blog/fr-outlook-afficher-l-icone-de-teletravail)
+- [☕🎓JAVA CERTIFICATION QUESTION:  super and this](https://blog.vvauban.com/blog/java-certification-question-super-and-this)
+- [🍃🎓 SPRING CERTIFICATION QUESTION: Spring findBy with relationships](https://blog.vvauban.com/blog/spring-certification-question-spring-findby-with-relationships)
+- [⚽ SCRUM: Myth: In Scrum, we spend too much time in meetings](https://blog.vvauban.com/blog/scrum-myth-in-scrum-we-spend-too-much-time-in-meetings)
+- [🤖ChatGPT coding: ⚛️React banking card selection with Material UI Radio buttons](https://blog.vvauban.com/blog/chatgpt-coding-react-banking-card-selection-with-material-ui-radio-buttons)
 <!-- BLOG-POST-LIST:END -->
