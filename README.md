@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [#fr Outlook afficher l&#39;icône de Télétravail](https://blog.vvauban.com/blog/fr-outlook-afficher-l-icone-de-teletravail)
-- [☕🎓JAVA CERTIFICATION QUESTION:  super and this](https://blog.vvauban.com/blog/java-certification-question-super-and-this)
-- [🍃🎓 SPRING CERTIFICATION QUESTION: Spring findBy with relationships](https://blog.vvauban.com/blog/spring-certification-question-spring-findby-with-relationships)
-- [⚽ SCRUM: Myth: In Scrum, we spend too much time in meetings](https://blog.vvauban.com/blog/scrum-myth-in-scrum-we-spend-too-much-time-in-meetings)
-- [🤖ChatGPT coding: ⚛️React banking card selection with Material UI Radio buttons](https://blog.vvauban.com/blog/chatgpt-coding-react-banking-card-selection-with-material-ui-radio-buttons)
+- [☕🎓JAVA CERTIFICATION QUESTION: ReentrantLock](https://blog.vvauban.com/blog/java-certification-question-reentrantlock)
+- [🍃🎓 SPRING CERTIFICATION QUESTION: What is CSRF when securing an application with Spring Boot?](https://blog.vvauban.com/blog/spring-certification-question-what-is-csrf-when-securing-an-application)
+- [⚽ #Scrum : The Sprint Backlog Defined](https://blog.vvauban.com/blog/scrum-the-sprint-backlog-defined)
+- [BLOB antipattern 🍮](https://blog.vvauban.com/blog/blob-antipattern)
+- [🤣🤡Private Joke](https://blog.vvauban.com/blog/private-joke)
 <!-- BLOG-POST-LIST:END -->
