@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [☕🎓JAVA CERTIFICATION QUESTION: ReentrantLock](https://blog.vvauban.com/blog/java-certification-question-reentrantlock)
-- [🍃🎓 SPRING CERTIFICATION QUESTION: What is CSRF when securing an application with Spring Boot?](https://blog.vvauban.com/blog/spring-certification-question-what-is-csrf-when-securing-an-application)
-- [⚽ #Scrum : The Sprint Backlog Defined](https://blog.vvauban.com/blog/scrum-the-sprint-backlog-defined)
-- [BLOB antipattern 🍮](https://blog.vvauban.com/blog/blob-antipattern)
-- [🤣🤡Private Joke](https://blog.vvauban.com/blog/private-joke)
+- [😁☕😑 Java recruitment Joke](https://blog.vvauban.com/blog/java-recruitment-joke)
+- [🆓☕📕Java in a Nutshell, 8th Edition | Red Hat Developer &lpar;481pages&rpar;](https://blog.vvauban.com/blog/java-in-a-nutshell-8th-edition-red-hat-developer-481pages)
+- [🗳️ POLL: Which cloud platforms have you done extensive development work in over the past year, and which do you want to work in over the next year?](https://blog.vvauban.com/blog/poll-which-cloud-platforms-have-you-done-extensive-development-work-in)
+- [Daily too long, is that so?](https://blog.vvauban.com/blog/daily-too-long-is-that-so)
+- [☕🎓JAVA CERTIFICATION QUESTION: module-info.java and sealed classes](https://blog.vvauban.com/blog/java-certification-question-module-info-java-and-sealed-classes)
 <!-- BLOG-POST-LIST:END -->
