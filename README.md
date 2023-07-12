@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [😁☕😑 Java recruitment Joke](https://blog.vvauban.com/blog/java-recruitment-joke)
-- [🆓☕📕Java in a Nutshell, 8th Edition | Red Hat Developer &lpar;481pages&rpar;](https://blog.vvauban.com/blog/java-in-a-nutshell-8th-edition-red-hat-developer-481pages)
-- [🗳️ POLL: Which cloud platforms have you done extensive development work in over the past year, and which do you want to work in over the next year?](https://blog.vvauban.com/blog/poll-which-cloud-platforms-have-you-done-extensive-development-work-in)
-- [Daily too long, is that so?](https://blog.vvauban.com/blog/daily-too-long-is-that-so)
-- [☕🎓JAVA CERTIFICATION QUESTION: module-info.java and sealed classes](https://blog.vvauban.com/blog/java-certification-question-module-info-java-and-sealed-classes)
+- [😂🪟1️⃣2️⃣ Windows 12 Joke](https://blog.vvauban.com/blog/1-2-windows-12-joke)
+- [Software Development AntiPattern: Walking through a Minefield 💥](https://blog.vvauban.com/blog/software-development-antipattern-walking-through-a-minefield)
+- [The Sprint Backlog CAN ✊ change during the Sprint by Barry Overeem](https://blog.vvauban.com/blog/the-sprint-backlog-can-change-during-the-sprint-by-barry-overeem)
+- [☕ Java STATIC Method, why use them?](https://blog.vvauban.com/blog/java-static-method-why-use-them)
+- [Seven Reasons You Should Not Ignore Flaky Tests by Trisha Gee --Java Champion](https://blog.vvauban.com/blog/seven-reasons-you-should-not-ignore-flaky-tests-by-trisha-gee-java-champion)
 <!-- BLOG-POST-LIST:END -->
