@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [😂🪟1️⃣2️⃣ Windows 12 Joke](https://blog.vvauban.com/blog/1-2-windows-12-joke)
-- [Software Development AntiPattern: Walking through a Minefield 💥](https://blog.vvauban.com/blog/software-development-antipattern-walking-through-a-minefield)
-- [The Sprint Backlog CAN ✊ change during the Sprint by Barry Overeem](https://blog.vvauban.com/blog/the-sprint-backlog-can-change-during-the-sprint-by-barry-overeem)
-- [☕ Java STATIC Method, why use them?](https://blog.vvauban.com/blog/java-static-method-why-use-them)
-- [Seven Reasons You Should Not Ignore Flaky Tests by Trisha Gee --Java Champion](https://blog.vvauban.com/blog/seven-reasons-you-should-not-ignore-flaky-tests-by-trisha-gee-java-champion)
+- [🧞😂 Genie joke: Dear Fullstack developer, make a wish!](https://blog.vvauban.com/blog/genie-joke-dear-fullstack-developer-make-a-wish)
+- [Scrum from the Trenches - the Sprint Goal 🎯 by Jasper Alblasog Post Title](https://blog.vvauban.com/blog/scrum-from-the-trenches-the-sprint-goal-by-jasper-alblasog-post-title)
+- [Discover a thing that maybe you do that puts you down and damages your career, and learn how the Java Champion☕🏆 Oleg Šelajev deals with it.](https://blog.vvauban.com/blog/discover-a-thing-that-maybe-you-do-that-puts-you-down-and-damages-your)
+- [SpringExtension in Spring app testing: 🆆🅷🆈?](https://blog.vvauban.com/blog/springextension-in-spring-app-testing)
+- [Add a Blog Post Title](https://blog.vvauban.com/blog/add-a-blog-post-title-b6ec5c32-29e4-449d-b9cc-8ecbca134f3d)
 <!-- BLOG-POST-LIST:END -->
