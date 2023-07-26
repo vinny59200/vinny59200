@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧞😂 Genie joke: Dear Fullstack developer, make a wish!](https://blog.vvauban.com/blog/genie-joke-dear-fullstack-developer-make-a-wish)
-- [Scrum from the Trenches - the Sprint Goal 🎯 by Jasper Alblasog Post Title](https://blog.vvauban.com/blog/scrum-from-the-trenches-the-sprint-goal-by-jasper-alblasog-post-title)
-- [Discover a thing that maybe you do that puts you down and damages your career, and learn how the Java Champion☕🏆 Oleg Šelajev deals with it.](https://blog.vvauban.com/blog/discover-a-thing-that-maybe-you-do-that-puts-you-down-and-damages-your)
-- [SpringExtension in Spring app testing: 🆆🅷🆈?](https://blog.vvauban.com/blog/springextension-in-spring-app-testing)
-- [Add a Blog Post Title](https://blog.vvauban.com/blog/add-a-blog-post-title-b6ec5c32-29e4-449d-b9cc-8ecbca134f3d)
+- [😆Microsoft Office puns](https://blog.vvauban.com/blog/microsoft-office-puns)
+- [🤑 Fullstack salary survey &lpar;by country&rpar;](https://blog.vvauban.com/blog/fullstack-salary-survey-by-country)
+- [📺 New in 🍃 #spring 6.1: #RestClient &lpar;RestTemplate successor&rpar;](https://blog.vvauban.com/blog/new-in-spring-6-1-restclient-resttemplate-successor)
+- [🍃🎓 SPRING CERTIFICATION QUESTION:  @PostConstruct &amp; @PreDestroy](https://blog.vvauban.com/blog/spring-certification-question-postconstruct-predestroy)
+- [☕🎓JAVA CERTIFICATION QUESTION:  autobosing and ==](https://blog.vvauban.com/blog/java-certification-question-autobosing-and)
 <!-- BLOG-POST-LIST:END -->
