@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [😆Microsoft Office puns](https://blog.vvauban.com/blog/microsoft-office-puns)
-- [🤑 Fullstack salary survey &lpar;by country&rpar;](https://blog.vvauban.com/blog/fullstack-salary-survey-by-country)
-- [📺 New in 🍃 #spring 6.1: #RestClient &lpar;RestTemplate successor&rpar;](https://blog.vvauban.com/blog/new-in-spring-6-1-restclient-resttemplate-successor)
-- [🍃🎓 SPRING CERTIFICATION QUESTION:  @PostConstruct &amp; @PreDestroy](https://blog.vvauban.com/blog/spring-certification-question-postconstruct-predestroy)
-- [☕🎓JAVA CERTIFICATION QUESTION:  autobosing and ==](https://blog.vvauban.com/blog/java-certification-question-autobosing-and)
+- [SCRUM: Getting to Done: Creating Good Sprint Goals by Stephanie Ockerman](https://blog.vvauban.com/blog/scrum-getting-to-done-creating-good-sprint-goals-by-stephanie-ockerman)
+- [🍃🎓 SPRING CERTIFICATION QUESTION:  Which one is not a Stereotype annotation?](https://blog.vvauban.com/blog/spring-certification-question-which-one-is-not-a-stereotype-annotation)
+- [top programming language: Other languages might be cool, but sql and java put food on the table.](https://blog.vvauban.com/blog/top-programming-language-other-languages-might-be-cool-but-sql-and-java-put)
+- [☕🎓JAVA CERTIFICATION QUESTION:  null instance and static calls](https://blog.vvauban.com/blog/java-certification-question-null-instance-and-static-calls)
+- [𝙄𝙣𝙩𝙚𝙡𝙡𝙞𝙅: 𝙍𝙚𝙨𝙩𝙤𝙧𝙚 𝙙𝙚𝙡𝙚𝙩𝙚𝙙 𝙛𝙞𝙡𝙚𝙨](https://blog.vvauban.com/blog/f0560d65688)
 <!-- BLOG-POST-LIST:END -->
