@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SCRUM: Getting to Done: Creating Good Sprint Goals by Stephanie Ockerman](https://blog.vvauban.com/blog/scrum-getting-to-done-creating-good-sprint-goals-by-stephanie-ockerman)
-- [🍃🎓 SPRING CERTIFICATION QUESTION:  Which one is not a Stereotype annotation?](https://blog.vvauban.com/blog/spring-certification-question-which-one-is-not-a-stereotype-annotation)
-- [top programming language: Other languages might be cool, but sql and java put food on the table.](https://blog.vvauban.com/blog/top-programming-language-other-languages-might-be-cool-but-sql-and-java-put)
-- [☕🎓JAVA CERTIFICATION QUESTION:  null instance and static calls](https://blog.vvauban.com/blog/java-certification-question-null-instance-and-static-calls)
-- [𝙄𝙣𝙩𝙚𝙡𝙡𝙞𝙅: 𝙍𝙚𝙨𝙩𝙤𝙧𝙚 𝙙𝙚𝙡𝙚𝙩𝙚𝙙 𝙛𝙞𝙡𝙚𝙨](https://blog.vvauban.com/blog/f0560d65688)
+- [SCRUM: Why Scrum Requires Completely “Done” ✅ Software Every Sprint by Christiaan Verwijs](https://blog.vvauban.com/blog/scrum-why-scrum-requires-completely-done-software-every-sprint-by)
+- [⚛️REACT: All React components must act like _______ with respect to their props.](https://blog.vvauban.com/blog/react-all-react-components-must-act-like-_______-with-respect-to-their-props)
+- [🅰️NGULAR1️⃣6️⃣: How can you make an input property required in Angular 16 using the new syntax?](https://blog.vvauban.com/blog/ngular1-6-how-can-you-make-an-input-property-required-in-angular-16)
+- [🍃🎓 SPRING CERTIFICATION QUESTION: What problems solve Aspect Oriented Programming &lpar;AOP&rpar;?](https://blog.vvauban.com/blog/spring-certification-question-what-problems-solve-aspect-oriented)
+- [☕🎓JAVA CERTIFICATION QUESTION: super &amp; this](https://blog.vvauban.com/blog/java-certification-question-super-this)
 <!-- BLOG-POST-LIST:END -->
