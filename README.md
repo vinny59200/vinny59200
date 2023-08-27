@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SCRUM: Why Scrum Requires Completely “Done” ✅ Software Every Sprint by Christiaan Verwijs](https://blog.vvauban.com/blog/scrum-why-scrum-requires-completely-done-software-every-sprint-by)
-- [⚛️REACT: All React components must act like _______ with respect to their props.](https://blog.vvauban.com/blog/react-all-react-components-must-act-like-_______-with-respect-to-their-props)
-- [🅰️NGULAR1️⃣6️⃣: How can you make an input property required in Angular 16 using the new syntax?](https://blog.vvauban.com/blog/ngular1-6-how-can-you-make-an-input-property-required-in-angular-16)
-- [🍃🎓 SPRING CERTIFICATION QUESTION: What problems solve Aspect Oriented Programming &lpar;AOP&rpar;?](https://blog.vvauban.com/blog/spring-certification-question-what-problems-solve-aspect-oriented)
-- [☕🎓JAVA CERTIFICATION QUESTION: super &amp; this](https://blog.vvauban.com/blog/java-certification-question-super-this)
+- [😜 RTFM! Arrgh!](https://blog.vvauban.com/blog/rtfm-arrgh)
+- [Hello fellow tech enthusiasts, what would you like to be addressed as? DEVELOPER/PROGRAMMER/ENGINEER](https://blog.vvauban.com/blog/hello-fellow-tech-enthusiasts-what-would-you-like-to-be-addressed-as)
+- [SCRUM: Connecting Team Health and their Ability to Deliver by David Dame](https://blog.vvauban.com/blog/scrum-connecting-team-health-and-their-ability-to-deliver-by-david-dame)
+- [👩💼👨💼 Do you do your consulting duties?](https://blog.vvauban.com/blog/do-you-do-your-consulting-duties)
+- [⚛️ REACT Interview Question: JS Destructuring](https://blog.vvauban.com/blog/react-interview-question-js-destructuring)
 <!-- BLOG-POST-LIST:END -->
