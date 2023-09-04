@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [😜 RTFM! Arrgh!](https://blog.vvauban.com/blog/rtfm-arrgh)
-- [Hello fellow tech enthusiasts, what would you like to be addressed as? DEVELOPER/PROGRAMMER/ENGINEER](https://blog.vvauban.com/blog/hello-fellow-tech-enthusiasts-what-would-you-like-to-be-addressed-as)
-- [SCRUM: Connecting Team Health and their Ability to Deliver by David Dame](https://blog.vvauban.com/blog/scrum-connecting-team-health-and-their-ability-to-deliver-by-david-dame)
-- [👩💼👨💼 Do you do your consulting duties?](https://blog.vvauban.com/blog/do-you-do-your-consulting-duties)
-- [⚛️ REACT Interview Question: JS Destructuring](https://blog.vvauban.com/blog/react-interview-question-js-destructuring)
+- [SCRUM: What&#39;s wrong with: &quot;I don&#39;t write any tests since I am not a tester&quot;? by Peter Gfader](https://blog.vvauban.com/blog/scrum-what-s-wrong-with-i-don-t-write-any-tests-since-i-am-not-a-tester)
+- [Ask chatGPT if you are a good developer 🤖🤔](https://blog.vvauban.com/blog/ask-chatgpt-if-you-are-a-good-developer)
+- [🔝💻2️⃣0️⃣2️⃣3️⃣Top Programming Languages 2023: Java is still on the podium](https://blog.vvauban.com/blog/2-0-2-3-top-programming-languages-2023-java-is-still-on-the-podium)
+- [How to work with different types of software engineers](https://blog.vvauban.com/blog/how-to-work-with-different-types-of-software-engineers)
+- [🍃🎓 SPRING CERTIFICATION QUESTION:  Which of the following AOP expressions match this requirement:  &quot;any join point within the service package and a sub-package&quot;?](https://blog.vvauban.com/blog/spring-certification-question-which-of-the-following-aop-expressions)
 <!-- BLOG-POST-LIST:END -->
