@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SCRUM: What&#39;s wrong with: &quot;I don&#39;t write any tests since I am not a tester&quot;? by Peter Gfader](https://blog.vvauban.com/blog/scrum-what-s-wrong-with-i-don-t-write-any-tests-since-i-am-not-a-tester)
-- [Ask chatGPT if you are a good developer 🤖🤔](https://blog.vvauban.com/blog/ask-chatgpt-if-you-are-a-good-developer)
-- [🔝💻2️⃣0️⃣2️⃣3️⃣Top Programming Languages 2023: Java is still on the podium](https://blog.vvauban.com/blog/2-0-2-3-top-programming-languages-2023-java-is-still-on-the-podium)
-- [How to work with different types of software engineers](https://blog.vvauban.com/blog/how-to-work-with-different-types-of-software-engineers)
-- [🍃🎓 SPRING CERTIFICATION QUESTION:  Which of the following AOP expressions match this requirement:  &quot;any join point within the service package and a sub-package&quot;?](https://blog.vvauban.com/blog/spring-certification-question-which-of-the-following-aop-expressions)
+- [😁 👩💼 HR Joke](https://blog.vvauban.com/blog/hr-joke)
+- [SCRUM: When Done is Too Hard by Ian Mitchell](https://blog.vvauban.com/blog/scrum-when-done-is-too-hard-by-ian-mitchell)
+- [How do you handle Timezone with Java/JPA? 🌎🕐 LocalDateTime/ ZonedDateTime/ Timestamp/ Other](https://blog.vvauban.com/blog/how-do-you-handle-timezone-with-java-jpa-localdatetime-zoneddatetime)
+- [Which IDE do you use the most? INTELLIJ/ECLIPSE/VSCODE/OTHER](https://blog.vvauban.com/blog/which-ide-do-you-use-the-most-intellij-eclipse-vscode-other)
+- [TEAM: How to help with the onboarding of a new team member?](https://blog.vvauban.com/blog/team-how-to-help-with-the-onboarding-of-a-new-team-member)
 <!-- BLOG-POST-LIST:END -->
