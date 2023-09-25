@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [😁 👩💼 HR Joke](https://blog.vvauban.com/blog/hr-joke)
-- [SCRUM: When Done is Too Hard by Ian Mitchell](https://blog.vvauban.com/blog/scrum-when-done-is-too-hard-by-ian-mitchell)
-- [How do you handle Timezone with Java/JPA? 🌎🕐 LocalDateTime/ ZonedDateTime/ Timestamp/ Other](https://blog.vvauban.com/blog/how-do-you-handle-timezone-with-java-jpa-localdatetime-zoneddatetime)
-- [Which IDE do you use the most? INTELLIJ/ECLIPSE/VSCODE/OTHER](https://blog.vvauban.com/blog/which-ide-do-you-use-the-most-intellij-eclipse-vscode-other)
-- [TEAM: How to help with the onboarding of a new team member?](https://blog.vvauban.com/blog/team-how-to-help-with-the-onboarding-of-a-new-team-member)
+- [🤣JOKE: What the final user wants!](https://blog.vvauban.com/blog/joke-what-the-final-user-wants)
+- [SCRUM: Why Focus on Velocity Inhibits Agility by Ilia Pavlichenko](https://blog.vvauban.com/blog/scrum-why-focus-on-velocity-inhibits-agility-by-ilia-pavlichenko)
+- [🗳️POLL: Have you ever used Quarkus for work? YES/NO](https://blog.vvauban.com/blog/poll-have-you-ever-used-quarkus-for-work-yes-no)
+- [Deliberate practice the key to become an expert.](https://blog.vvauban.com/blog/deliberate-practice-the-key-to-become-an-expert)
+- [REACT interview question: How would you generate the boilerplate code for a new app that you are building to forecast rugby scores?](https://blog.vvauban.com/blog/react-interview-question-how-would-you-generate-the-boilerplate-code-for-a)
 <!-- BLOG-POST-LIST:END -->
