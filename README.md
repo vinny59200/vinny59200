@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🤣JOKE: What the final user wants!](https://blog.vvauban.com/blog/joke-what-the-final-user-wants)
-- [SCRUM: Why Focus on Velocity Inhibits Agility by Ilia Pavlichenko](https://blog.vvauban.com/blog/scrum-why-focus-on-velocity-inhibits-agility-by-ilia-pavlichenko)
-- [🗳️POLL: Have you ever used Quarkus for work? YES/NO](https://blog.vvauban.com/blog/poll-have-you-ever-used-quarkus-for-work-yes-no)
-- [Deliberate practice the key to become an expert.](https://blog.vvauban.com/blog/deliberate-practice-the-key-to-become-an-expert)
-- [REACT interview question: How would you generate the boilerplate code for a new app that you are building to forecast rugby scores?](https://blog.vvauban.com/blog/react-interview-question-how-would-you-generate-the-boilerplate-code-for-a)
+- [😜 JOKE: git push origin --delete master](https://blog.vvauban.com/blog/joke-git-push-origin-delete-master)
+- [⚽ SCRUM: Two Ingredients for Self-Management &lpar;No Recipe Possible Though&rpar; by Marc Kaufmann](https://blog.vvauban.com/blog/scrum-two-ingredients-for-self-management-no-recipe-possible-though-by)
+- [📐 Design Interfaces for Simplicity and Error Prevention](https://blog.vvauban.com/blog/design-interfaces-for-simplicity-and-error-prevention)
+- [Keep It Simple, and  Stupid 👌](https://blog.vvauban.com/blog/keep-it-simple-and-stupid)
+- [How to write code that survives the test of time? 🤔](https://blog.vvauban.com/blog/how-to-write-code-that-survives-the-test-of-time)
 <!-- BLOG-POST-LIST:END -->
