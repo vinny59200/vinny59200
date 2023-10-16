@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [😜 JOKE: git push origin --delete master](https://blog.vvauban.com/blog/joke-git-push-origin-delete-master)
-- [⚽ SCRUM: Two Ingredients for Self-Management &lpar;No Recipe Possible Though&rpar; by Marc Kaufmann](https://blog.vvauban.com/blog/scrum-two-ingredients-for-self-management-no-recipe-possible-though-by)
-- [📐 Design Interfaces for Simplicity and Error Prevention](https://blog.vvauban.com/blog/design-interfaces-for-simplicity-and-error-prevention)
-- [Keep It Simple, and  Stupid 👌](https://blog.vvauban.com/blog/keep-it-simple-and-stupid)
-- [How to write code that survives the test of time? 🤔](https://blog.vvauban.com/blog/how-to-write-code-that-survives-the-test-of-time)
+- [JOKE👨💻🤣 It works on my machine!🤷](https://blog.vvauban.com/blog/joke-it-works-on-my-machine)
+- [👷‍ Code Refactoring Best Practices](https://blog.vvauban.com/blog/code-refactoring-best-practices)
+- [SCRUM: Release Planning and Predictable Delivery by Martin Hinshelwood](https://blog.vvauban.com/blog/scrum-release-planning-and-predictable-delivery-by-martin-hinshelwood)
+- [🍃🎓 SPRING CERTIFICATION QUESTION: Which of the following is an authentication mechanism?](https://blog.vvauban.com/blog/spring-certification-question-which-of-the-following-is-an-authentication)
+- [CELEBRATE HACKTOBERFEST 10TH YEAR SUPPORTING OPEN SOURCE!](https://blog.vvauban.com/blog/celebrate-hacktoberfest-10th-year-supporting-open-source)
 <!-- BLOG-POST-LIST:END -->
