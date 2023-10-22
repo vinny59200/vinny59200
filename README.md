@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [JOKE👨💻🤣 It works on my machine!🤷](https://blog.vvauban.com/blog/joke-it-works-on-my-machine)
-- [👷‍ Code Refactoring Best Practices](https://blog.vvauban.com/blog/code-refactoring-best-practices)
-- [SCRUM: Release Planning and Predictable Delivery by Martin Hinshelwood](https://blog.vvauban.com/blog/scrum-release-planning-and-predictable-delivery-by-martin-hinshelwood)
-- [🍃🎓 SPRING CERTIFICATION QUESTION: Which of the following is an authentication mechanism?](https://blog.vvauban.com/blog/spring-certification-question-which-of-the-following-is-an-authentication)
-- [CELEBRATE HACKTOBERFEST 10TH YEAR SUPPORTING OPEN SOURCE!](https://blog.vvauban.com/blog/celebrate-hacktoberfest-10th-year-supporting-open-source)
+- [😜🐕 Digital biting dog](https://blog.vvauban.com/blog/digital-biting-dog)
+- [SCRUM: So Where Is The Value💎? by Steve Trapps](https://blog.vvauban.com/blog/scrum-so-where-is-the-value-by-steve-trapps)
+- [Optimizing Code Readability](https://blog.vvauban.com/blog/optimizing-code-readability)
+- [Code review: why and how?](https://blog.vvauban.com/blog/code-review-why-and-how)
+- [🍃🎓 SPRING CERTIFICATION QUESTION: Which is the recommended securityMatchers method ?](https://blog.vvauban.com/blog/spring-certification-question-which-is-the-recommended-securitymatchers)
 <!-- BLOG-POST-LIST:END -->
