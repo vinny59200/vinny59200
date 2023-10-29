@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [😜🐕 Digital biting dog](https://blog.vvauban.com/blog/digital-biting-dog)
-- [SCRUM: So Where Is The Value💎? by Steve Trapps](https://blog.vvauban.com/blog/scrum-so-where-is-the-value-by-steve-trapps)
-- [Optimizing Code Readability](https://blog.vvauban.com/blog/optimizing-code-readability)
-- [Code review: why and how?](https://blog.vvauban.com/blog/code-review-why-and-how)
-- [🍃🎓 SPRING CERTIFICATION QUESTION: Which is the recommended securityMatchers method ?](https://blog.vvauban.com/blog/spring-certification-question-which-is-the-recommended-securitymatchers)
+- [Techlead skills grid](https://blog.vvauban.com/blog/techlead-skills-grid)
+- [What should be the posture of a tech lead?](https://blog.vvauban.com/blog/what-should-be-the-posture-of-a-tech-lead)
+- [SCRUM: Escaping the Velocity Trap by Kurt Bittner](https://blog.vvauban.com/blog/scrum-escaping-the-velocity-trap-by-kurt-bittner)
+- [🍃🎓 SPRING CERTIFICATION QUESTION: Which statements about Spring Boot are true?](https://blog.vvauban.com/blog/spring-certification-question-which-statements-about-spring-boot-are-true)
+- [☕🎓JAVA CERTIFICATION QUESTION: Which of these statements about enum are nor correct?](https://blog.vvauban.com/blog/java-certification-question-which-of-these-statements-about-enum-are-nor)
 <!-- BLOG-POST-LIST:END -->
