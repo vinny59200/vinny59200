@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Joke: just a tiny refacto 😅🐲](https://blog.vvauban.com/blog/joke-just-a-tiny-refacto)
+- [🗳️ POLL: You create a React application, which language do you use?](https://blog.vvauban.com/blog/poll-you-create-a-react-application-which-language-do-you-use)
+- [🗳️ POLL: Lombok or Java Record or Java Bean with get/set](https://blog.vvauban.com/blog/poll-lombok-or-java-record-or-java-bean-with-get-set)
 - [Techlead skills grid](https://blog.vvauban.com/blog/techlead-skills-grid)
 - [What should be the posture of a tech lead?](https://blog.vvauban.com/blog/what-should-be-the-posture-of-a-tech-lead)
-- [SCRUM: Escaping the Velocity Trap by Kurt Bittner](https://blog.vvauban.com/blog/scrum-escaping-the-velocity-trap-by-kurt-bittner)
-- [🍃🎓 SPRING CERTIFICATION QUESTION: Which statements about Spring Boot are true?](https://blog.vvauban.com/blog/spring-certification-question-which-statements-about-spring-boot-are-true)
-- [☕🎓JAVA CERTIFICATION QUESTION: Which of these statements about enum are nor correct?](https://blog.vvauban.com/blog/java-certification-question-which-of-these-statements-about-enum-are-nor)
 <!-- BLOG-POST-LIST:END -->
