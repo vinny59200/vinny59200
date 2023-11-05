@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Joke: just a tiny refacto 😅🐲](https://blog.vvauban.com/blog/joke-just-a-tiny-refacto)
-- [🗳️ POLL: You create a React application, which language do you use?](https://blog.vvauban.com/blog/poll-you-create-a-react-application-which-language-do-you-use)
-- [🗳️ POLL: Lombok or Java Record or Java Bean with get/set](https://blog.vvauban.com/blog/poll-lombok-or-java-record-or-java-bean-with-get-set)
-- [Techlead skills grid](https://blog.vvauban.com/blog/techlead-skills-grid)
-- [What should be the posture of a tech lead?](https://blog.vvauban.com/blog/what-should-be-the-posture-of-a-tech-lead)
+- [🤣 JOKE: The ideal customer #irony](https://blog.vvauban.com/blog/joke-the-ideal-customer-irony)
+- [Jakob Jenkov &lpar;Java Champion&rpar; QUOTE](https://blog.vvauban.com/blog/jakob-jenkov-java-champion-quote)
+- [What should a Java tech lead consultant do when arriving on a mission?](https://blog.vvauban.com/blog/what-should-a-java-tech-lead-consultant-do-when-arriving-on-a-mission)
+- [🍃🎓 SPRING CERTIFICATION QUESTION: What is the exception throw on method security permission refusal?](https://blog.vvauban.com/blog/spring-certification-question-what-is-the-exception-throw-on-method)
+- [DRY: Don&#39;t Repeat Yourself](https://blog.vvauban.com/blog/dry-don-t-repeat-yourself)
 <!-- BLOG-POST-LIST:END -->
