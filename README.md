@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🤣 JOKE: The ideal customer #irony](https://blog.vvauban.com/blog/joke-the-ideal-customer-irony)
-- [Jakob Jenkov &lpar;Java Champion&rpar; QUOTE](https://blog.vvauban.com/blog/jakob-jenkov-java-champion-quote)
-- [What should a Java tech lead consultant do when arriving on a mission?](https://blog.vvauban.com/blog/what-should-a-java-tech-lead-consultant-do-when-arriving-on-a-mission)
-- [🍃🎓 SPRING CERTIFICATION QUESTION: What is the exception throw on method security permission refusal?](https://blog.vvauban.com/blog/spring-certification-question-what-is-the-exception-throw-on-method)
-- [DRY: Don&#39;t Repeat Yourself](https://blog.vvauban.com/blog/dry-don-t-repeat-yourself)
+- [😀📶 Bad Sonar Report](https://blog.vvauban.com/blog/bad-sonar-report)
+- [Why – How – What: From Product Vision to Task by Peter Götz](https://blog.vvauban.com/blog/why-how-what-from-product-vision-to-task-by-peter-gotz)
+- [🎇🦄🎆Discover what makes you unique!](https://blog.vvauban.com/blog/discover-what-makes-you-unique)
+- [🗳️ POLL: How often do you upgrade Java in your projects?](https://blog.vvauban.com/blog/poll-how-often-do-you-upgrade-java-in-your-projects)
+- [🅰️1️⃣7️⃣  Angular 17 is released: What’s new in Angular 17?](https://blog.vvauban.com/blog/1-7-angular-17-is-released-what-s-new-in-angular-17)
 <!-- BLOG-POST-LIST:END -->
