@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [😀📶 Bad Sonar Report](https://blog.vvauban.com/blog/bad-sonar-report)
-- [Why – How – What: From Product Vision to Task by Peter Götz](https://blog.vvauban.com/blog/why-how-what-from-product-vision-to-task-by-peter-gotz)
-- [🎇🦄🎆Discover what makes you unique!](https://blog.vvauban.com/blog/discover-what-makes-you-unique)
-- [🗳️ POLL: How often do you upgrade Java in your projects?](https://blog.vvauban.com/blog/poll-how-often-do-you-upgrade-java-in-your-projects)
-- [🅰️1️⃣7️⃣  Angular 17 is released: What’s new in Angular 17?](https://blog.vvauban.com/blog/1-7-angular-17-is-released-what-s-new-in-angular-17)
+- [☕🎓JAVA CERTIFICATION QUESTION: Enum and inheritance](https://blog.vvauban.com/blog/java-certification-question-enum-and-inheritance)
+- [The Product Backlog is NOT Maintained Exclusively by the Product Owner by Christiaan Verwijs](https://blog.vvauban.com/blog/the-product-backlog-is-not-maintained-exclusively-by-the-product-owner-by)
+- [🍃🎓 SPRING CERTIFICATION QUESTION: Actuator custom metrics: What are they?](https://blog.vvauban.com/blog/spring-certification-question-actuator-custom-metrics-what-are-they)
+- [🤣 JOKE: #fun Customer Expectations 💎 versus actual delivered project 💩](https://blog.vvauban.com/blog/joke-fun-customer-expectations-versus-actual-delivered-project)
+- [Scrum from the Trenches - Product Backlog Refinement is a Scrum Team Responsibility by Jasper Alblas](https://blog.vvauban.com/blog/scrum-from-the-trenches-product-backlog-refinement-is-a-scrum-team)
 <!-- BLOG-POST-LIST:END -->
