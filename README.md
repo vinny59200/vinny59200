@@ -48,9 +48,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Add a Blog Post Title](https://blog.vvauban.com/blog/add-a-blog-post-title-fe15a720-e93a-44e5-b110-0850838e0982)
+- [Angular 17: New control flow syntax](https://blog.vvauban.com/blog/angular-17-new-control-flow-syntax)
+- [Reasonable coder, you should be! 👽⭐🗡️](https://blog.vvauban.com/blog/reasonable-coder-you-should-be)
+- [#springboot 3.2 hashtag#release is up! .🎉🎈✨](https://blog.vvauban.com/blog/springboot-3-2-hashtag-release-is-up)
 - [☕🎓JAVA CERTIFICATION QUESTION: Enum and inheritance](https://blog.vvauban.com/blog/java-certification-question-enum-and-inheritance)
-- [The Product Backlog is NOT Maintained Exclusively by the Product Owner by Christiaan Verwijs](https://blog.vvauban.com/blog/the-product-backlog-is-not-maintained-exclusively-by-the-product-owner-by)
-- [🍃🎓 SPRING CERTIFICATION QUESTION: Actuator custom metrics: What are they?](https://blog.vvauban.com/blog/spring-certification-question-actuator-custom-metrics-what-are-they)
-- [🤣 JOKE: #fun Customer Expectations 💎 versus actual delivered project 💩](https://blog.vvauban.com/blog/joke-fun-customer-expectations-versus-actual-delivered-project)
-- [Scrum from the Trenches - Product Backlog Refinement is a Scrum Team Responsibility by Jasper Alblas](https://blog.vvauban.com/blog/scrum-from-the-trenches-product-backlog-refinement-is-a-scrum-team)
 <!-- BLOG-POST-LIST:END -->
