@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vincent VAUBAN</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
+![banner image](vv-banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinny59200&label=Profile%20views&color=0e75b6&style=flat" alt="vinny59200" /> </p>
 
