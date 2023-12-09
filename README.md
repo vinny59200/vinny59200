@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Add a Blog Post Title](https://blog.vvauban.com/blog/add-a-blog-post-title-fe15a720-e93a-44e5-b110-0850838e0982)
-- [Angular 17: New control flow syntax](https://blog.vvauban.com/blog/angular-17-new-control-flow-syntax)
-- [Reasonable coder, you should be! 👽⭐🗡️](https://blog.vvauban.com/blog/reasonable-coder-you-should-be)
-- [#springboot 3.2 hashtag#release is up! .🎉🎈✨](https://blog.vvauban.com/blog/springboot-3-2-hashtag-release-is-up)
-- [☕🎓JAVA CERTIFICATION QUESTION: Enum and inheritance](https://blog.vvauban.com/blog/java-certification-question-enum-and-inheritance)
+- [🤣 JOKE: variables naming 🏷️](https://blog.vvauban.com/blog/joke-variables-naming)
+- [Multi-Team Backlog Refinement by Cesario Ramos](https://blog.vvauban.com/blog/multi-team-backlog-refinement-by-cesario-ramos)
+- [BANKING: The numbers on your credit cards are not random! There is a logic behind all credit card numbers.](https://blog.vvauban.com/blog/banking-the-numbers-on-your-credit-cards-are-not-random-there-is-a-logic)
+- [🍃😱 How did you handle Spring Boot 2.7 end? UPGRADE/ BUY SUPPORT/ DO NOTHING/ NOT CONCERNED](https://blog.vvauban.com/blog/how-did-you-handle-spring-boot-2-7-end-upgrade-buy-support-do-nothing)
+- [Parts of URL:](https://blog.vvauban.com/blog/parts-of-url)
 <!-- BLOG-POST-LIST:END -->
