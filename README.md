@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [☕🎓JAVA CERTIFICATION QUESTION: variable access in a nested class](https://blog.vvauban.com/blog/java-certification-question-variable-access-in-a-nested-class)
+- [🆓📗 FREE BOOK 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗮𝘁 𝗚𝗼𝗼𝗴𝗹𝗲](https://blog.vvauban.com/blog/free-book-39241cc8-8160-4ac2-a9ad-182d3e81bca5)
 - [🤣 JOKE: variables naming 🏷️](https://blog.vvauban.com/blog/joke-variables-naming)
 - [Multi-Team Backlog Refinement by Cesario Ramos](https://blog.vvauban.com/blog/multi-team-backlog-refinement-by-cesario-ramos)
 - [BANKING: The numbers on your credit cards are not random! There is a logic behind all credit card numbers.](https://blog.vvauban.com/blog/banking-the-numbers-on-your-credit-cards-are-not-random-there-is-a-logic)
-- [🍃😱 How did you handle Spring Boot 2.7 end? UPGRADE/ BUY SUPPORT/ DO NOTHING/ NOT CONCERNED](https://blog.vvauban.com/blog/how-did-you-handle-spring-boot-2-7-end-upgrade-buy-support-do-nothing)
-- [Parts of URL:](https://blog.vvauban.com/blog/parts-of-url)
 <!-- BLOG-POST-LIST:END -->
