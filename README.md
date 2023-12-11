@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [☕🎓JAVA CERTIFICATION QUESTION: variable access in a nested class](https://blog.vvauban.com/blog/java-certification-question-variable-access-in-a-nested-class)
-- [🆓📗 FREE BOOK 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗮𝘁 𝗚𝗼𝗼𝗴𝗹𝗲](https://blog.vvauban.com/blog/free-book-39241cc8-8160-4ac2-a9ad-182d3e81bca5)
-- [🤣 JOKE: variables naming 🏷️](https://blog.vvauban.com/blog/joke-variables-naming)
-- [Multi-Team Backlog Refinement by Cesario Ramos](https://blog.vvauban.com/blog/multi-team-backlog-refinement-by-cesario-ramos)
-- [BANKING: The numbers on your credit cards are not random! There is a logic behind all credit card numbers.](https://blog.vvauban.com/blog/banking-the-numbers-on-your-credit-cards-are-not-random-there-is-a-logic)
+- [😁 Easy Peasy homework and computer science professor 😔](https://blog.vvauban.com/blog/easy-peasy-homework-and-computer-science-professor)
+- [3 Key Tactics for Scrum Teams to Connect With Customers! by Nagesh Sharma](https://blog.vvauban.com/blog/3-key-tactics-for-scrum-teams-to-connect-with-customers-by-nagesh-sharma)
+- [🅰️1️⃣7️⃣ What is the correct way to write a for loop with the new @-syntax in Angular 17?](https://blog.vvauban.com/blog/1-7-what-is-the-correct-way-to-write-a-for-loop-with-the-new-syntax-in)
+- [🙋‍♂️🌍 “Hello World” in Java ☕ is now simpler than ever, thanks to Java 21.](https://blog.vvauban.com/blog/hello-world-in-java-is-now-simpler-than-ever-thanks-to-java-21)
+- [🍃🤷‍♂️ When do you know you have to use &#39;prototype&#39; scope rather than &#39;singleton&#39;?](https://blog.vvauban.com/blog/when-do-you-know-you-have-to-use-prototype-scope-rather-than)
 <!-- BLOG-POST-LIST:END -->
