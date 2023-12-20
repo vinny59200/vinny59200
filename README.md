@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [😁 Easy Peasy homework and computer science professor 😔](https://blog.vvauban.com/blog/easy-peasy-homework-and-computer-science-professor)
-- [3 Key Tactics for Scrum Teams to Connect With Customers! by Nagesh Sharma](https://blog.vvauban.com/blog/3-key-tactics-for-scrum-teams-to-connect-with-customers-by-nagesh-sharma)
-- [🅰️1️⃣7️⃣ What is the correct way to write a for loop with the new @-syntax in Angular 17?](https://blog.vvauban.com/blog/1-7-what-is-the-correct-way-to-write-a-for-loop-with-the-new-syntax-in)
-- [🙋‍♂️🌍 “Hello World” in Java ☕ is now simpler than ever, thanks to Java 21.](https://blog.vvauban.com/blog/hello-world-in-java-is-now-simpler-than-ever-thanks-to-java-21)
-- [🍃🤷‍♂️ When do you know you have to use &#39;prototype&#39; scope rather than &#39;singleton&#39;?](https://blog.vvauban.com/blog/when-do-you-know-you-have-to-use-prototype-scope-rather-than)
+- [🍃🎓 SPRING CERTIFICATION QUESTION:  @EnableMethodSecurity](https://blog.vvauban.com/blog/spring-certification-question-enablemethodsecurity)
+- [SCRUM: An Agile Approach to Software Architecture by Gene Gotimer](https://blog.vvauban.com/blog/scrum-an-agile-approach-to-software-architecture-by-gene-gotimer)
+- [Which of the following statements is true about the @if new control flow syntax in Angular 17?](https://blog.vvauban.com/blog/which-of-the-following-statements-is-true-about-the-if-new-control-flow)
+- [😂 Picard&#39;s computer froze❄️🤦♂️](https://blog.vvauban.com/blog/picard-s-computer-froze)
+- [🗳️ POLL: Is laziness a positive trait for a developer? YES/ NO/IT DEPENDS](https://blog.vvauban.com/blog/poll-is-laziness-a-positive-trait-for-a-developer-yes-no-it-depends)
 <!-- BLOG-POST-LIST:END -->
