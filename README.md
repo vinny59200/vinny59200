@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🗳️POLL: Do you listen to music 🎶 while coding 🧑‍💻?](https://blog.vvauban.com/blog/poll-do-you-listen-to-music-while-coding)
+- [🗳️POLL: Do you use Spring Actuator in your Spring project? YES/NO/SOMETIMES](https://blog.vvauban.com/blog/poll-do-you-use-spring-actuator-in-your-spring-project-yes-no-sometimes)
+- [☕🎓JAVA CERTIFICATION QUESTION: Sealed class](https://blog.vvauban.com/blog/java-certification-question-sealed-class)
+- [The untold history of web development](https://blog.vvauban.com/blog/the-untold-history-of-web-development)
 - [🍃🎓 SPRING CERTIFICATION QUESTION:  @EnableMethodSecurity](https://blog.vvauban.com/blog/spring-certification-question-enablemethodsecurity)
-- [SCRUM: An Agile Approach to Software Architecture by Gene Gotimer](https://blog.vvauban.com/blog/scrum-an-agile-approach-to-software-architecture-by-gene-gotimer)
-- [Which of the following statements is true about the @if new control flow syntax in Angular 17?](https://blog.vvauban.com/blog/which-of-the-following-statements-is-true-about-the-if-new-control-flow)
-- [😂 Picard&#39;s computer froze❄️🤦♂️](https://blog.vvauban.com/blog/picard-s-computer-froze)
-- [🗳️ POLL: Is laziness a positive trait for a developer? YES/ NO/IT DEPENDS](https://blog.vvauban.com/blog/poll-is-laziness-a-positive-trait-for-a-developer-yes-no-it-depends)
 <!-- BLOG-POST-LIST:END -->
