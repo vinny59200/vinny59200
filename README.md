@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [😆 GAFA joke](https://blog.vvauban.com/blog/gafa-joke)
 - [🗳️POLL: Do you listen to music 🎶 while coding 🧑‍💻?](https://blog.vvauban.com/blog/poll-do-you-listen-to-music-while-coding)
 - [🗳️POLL: Do you use Spring Actuator in your Spring project? YES/NO/SOMETIMES](https://blog.vvauban.com/blog/poll-do-you-use-spring-actuator-in-your-spring-project-yes-no-sometimes)
 - [☕🎓JAVA CERTIFICATION QUESTION: Sealed class](https://blog.vvauban.com/blog/java-certification-question-sealed-class)
 - [The untold history of web development](https://blog.vvauban.com/blog/the-untold-history-of-web-development)
-- [🍃🎓 SPRING CERTIFICATION QUESTION:  @EnableMethodSecurity](https://blog.vvauban.com/blog/spring-certification-question-enablemethodsecurity)
 <!-- BLOG-POST-LIST:END -->
