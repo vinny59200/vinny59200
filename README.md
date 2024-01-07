@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [😆 GAFA joke](https://blog.vvauban.com/blog/gafa-joke)
-- [🗳️POLL: Do you listen to music 🎶 while coding 🧑‍💻?](https://blog.vvauban.com/blog/poll-do-you-listen-to-music-while-coding)
-- [🗳️POLL: Do you use Spring Actuator in your Spring project? YES/NO/SOMETIMES](https://blog.vvauban.com/blog/poll-do-you-use-spring-actuator-in-your-spring-project-yes-no-sometimes)
-- [☕🎓JAVA CERTIFICATION QUESTION: Sealed class](https://blog.vvauban.com/blog/java-certification-question-sealed-class)
-- [The untold history of web development](https://blog.vvauban.com/blog/the-untold-history-of-web-development)
+- [🤣 JOKE: The scroll of TRUTH 📜](https://blog.vvauban.com/blog/joke-the-scroll-of-truth)
+- [SCRUM: Using a &quot;Technical Debt Register&quot; in Scrum by Ian Mitchell](https://blog.vvauban.com/blog/scrum-using-a-technical-debt-register-in-scrum-by-ian-mitchell)
+- [🅰️1️⃣7️⃣ ngIf, ngFor, and ngSwitch deprecated?](https://blog.vvauban.com/blog/1-7-ngif-ngfor-and-ngswitch-deprecated)
+- [PROGRAMMER: Embrace changing your code without fear.](https://blog.vvauban.com/blog/programmer-embrace-changing-your-code-without-fear)
+- [DESIGN PATTERN 1](https://blog.vvauban.com/blog/design-pattern-1)
 <!-- BLOG-POST-LIST:END -->
