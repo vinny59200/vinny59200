@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🤣 JOKE: The scroll of TRUTH 📜](https://blog.vvauban.com/blog/joke-the-scroll-of-truth)
-- [SCRUM: Using a &quot;Technical Debt Register&quot; in Scrum by Ian Mitchell](https://blog.vvauban.com/blog/scrum-using-a-technical-debt-register-in-scrum-by-ian-mitchell)
-- [🅰️1️⃣7️⃣ ngIf, ngFor, and ngSwitch deprecated?](https://blog.vvauban.com/blog/1-7-ngif-ngfor-and-ngswitch-deprecated)
-- [PROGRAMMER: Embrace changing your code without fear.](https://blog.vvauban.com/blog/programmer-embrace-changing-your-code-without-fear)
-- [DESIGN PATTERN 1](https://blog.vvauban.com/blog/design-pattern-1)
+- [😉JOKE: SWE at bedtime 🛌](https://blog.vvauban.com/blog/joke-swe-at-bedtime)
+- [Just validated the Google Cloud Fundamentals: Core Infrastructure](https://blog.vvauban.com/blog/just-validated-the-google-cloud-fundamentals-core-infrastructure)
+- [30 TRAITS AND HABITS FOR EFFICIENT SOFTWARE ENGINEERING by  Lee Sheinberg](https://blog.vvauban.com/blog/30-traits-and-habits-for-efficient-software-engineering-by-lee-sheinberg)
+- [DESIGN PATTERN: Command](https://blog.vvauban.com/blog/design-pattern-command)
+- [SCRUM: Defer Constraining Commitments by Chuck Suscheck](https://blog.vvauban.com/blog/scrum-defer-constraining-commitments-by-chuck-suscheck)
 <!-- BLOG-POST-LIST:END -->
