@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [😉JOKE: SWE at bedtime 🛌](https://blog.vvauban.com/blog/joke-swe-at-bedtime)
-- [Just validated the Google Cloud Fundamentals: Core Infrastructure](https://blog.vvauban.com/blog/just-validated-the-google-cloud-fundamentals-core-infrastructure)
-- [30 TRAITS AND HABITS FOR EFFICIENT SOFTWARE ENGINEERING by  Lee Sheinberg](https://blog.vvauban.com/blog/30-traits-and-habits-for-efficient-software-engineering-by-lee-sheinberg)
-- [DESIGN PATTERN: Command](https://blog.vvauban.com/blog/design-pattern-command)
-- [SCRUM: Defer Constraining Commitments by Chuck Suscheck](https://blog.vvauban.com/blog/scrum-defer-constraining-commitments-by-chuck-suscheck)
+- [📐 DESIGN PATTERN: Interpreter](https://blog.vvauban.com/blog/design-pattern-interpreter)
+- [☕🎓JAVA CERTIFICATION QUESTION: interface modifier](https://blog.vvauban.com/blog/java-certification-question-interface-modifier)
+- [🏅 MOOC Certificate: Getting Started with Google Kubernetes Engine](https://blog.vvauban.com/blog/mooc-certificate-getting-started-with-google-kubernetes-engine)
+- [SCRUM: If You are Not Doing Test First Then You are Doing it Wrong! by Martin Hinshelwood](https://blog.vvauban.com/blog/scrum-if-you-are-not-doing-test-first-then-you-are-doing-it-wrong-by-martin)
+- [#react #quiz What is setCount?👇👇👇](https://blog.vvauban.com/blog/react-quiz-what-is-setcount)
 <!-- BLOG-POST-LIST:END -->
