@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📐 DESIGN PATTERN: Interpreter](https://blog.vvauban.com/blog/design-pattern-interpreter)
-- [☕🎓JAVA CERTIFICATION QUESTION: interface modifier](https://blog.vvauban.com/blog/java-certification-question-interface-modifier)
-- [🏅 MOOC Certificate: Getting Started with Google Kubernetes Engine](https://blog.vvauban.com/blog/mooc-certificate-getting-started-with-google-kubernetes-engine)
-- [SCRUM: If You are Not Doing Test First Then You are Doing it Wrong! by Martin Hinshelwood](https://blog.vvauban.com/blog/scrum-if-you-are-not-doing-test-first-then-you-are-doing-it-wrong-by-martin)
-- [#react #quiz What is setCount?👇👇👇](https://blog.vvauban.com/blog/react-quiz-what-is-setcount)
+- [😹 Java champion jokes](https://blog.vvauban.com/blog/java-champion-jokes)
+- [☕ Jakarta EE 10](https://blog.vvauban.com/blog/jakarta-ee-10)
+- [🤖 Gen AI](https://blog.vvauban.com/blog/gen-ai)
+- [🔭 Observability with OpenTelemetry](https://blog.vvauban.com/blog/observability-with-opentelemetry)
+- [🧼🧹 Clean code, really worth it?](https://blog.vvauban.com/blog/clean-code-really-worth-it)
 <!-- BLOG-POST-LIST:END -->
