@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [😹 Java champion jokes](https://blog.vvauban.com/blog/java-champion-jokes)
-- [☕ Jakarta EE 10](https://blog.vvauban.com/blog/jakarta-ee-10)
-- [🤖 Gen AI](https://blog.vvauban.com/blog/gen-ai)
-- [🔭 Observability with OpenTelemetry](https://blog.vvauban.com/blog/observability-with-opentelemetry)
-- [🧼🧹 Clean code, really worth it?](https://blog.vvauban.com/blog/clean-code-really-worth-it)
+- [😁 GPT Coder](https://blog.vvauban.com/blog/gpt-coder)
+- [☕🛣️ Java Roadmap](https://blog.vvauban.com/blog/java-roadmap)
+- [BEYOND Senior by Java Champion Bruno Souza](https://blog.vvauban.com/blog/beyond-senior-by-java-champion-bruno-souza)
+- [📐 DESIGN PATTERN: State Pattern](https://blog.vvauban.com/blog/design-pattern-state-pattern)
+- [🗳 POLL: Do you use RestClient?](https://blog.vvauban.com/blog/poll-do-you-use-restclient)
 <!-- BLOG-POST-LIST:END -->
