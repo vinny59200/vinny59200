@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SCRUM: If You are Not Doing Test First Then You are Doing it Wrong! by Martin Hinshelwood](https://blog.vvauban.com/blog/scrum-if-you-are-not-doing-test-first-then-you-are-doing-it-wrong-by-martin-f5fdb07b-2339-4ba7-9ea5-dedc41368667)
 - [😁 GPT Coder](https://blog.vvauban.com/blog/gpt-coder)
 - [☕🛣️ Java Roadmap](https://blog.vvauban.com/blog/java-roadmap)
 - [BEYOND Senior by Java Champion Bruno Souza](https://blog.vvauban.com/blog/beyond-senior-by-java-champion-bruno-souza)
 - [📐 DESIGN PATTERN: State Pattern](https://blog.vvauban.com/blog/design-pattern-state-pattern)
-- [🗳 POLL: Do you use RestClient?](https://blog.vvauban.com/blog/poll-do-you-use-restclient)
 <!-- BLOG-POST-LIST:END -->
