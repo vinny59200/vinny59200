@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SCRUM: If You are Not Doing Test First Then You are Doing it Wrong! by Martin Hinshelwood](https://blog.vvauban.com/blog/scrum-if-you-are-not-doing-test-first-then-you-are-doing-it-wrong-by-martin-f5fdb07b-2339-4ba7-9ea5-dedc41368667)
-- [😁 GPT Coder](https://blog.vvauban.com/blog/gpt-coder)
-- [☕🛣️ Java Roadmap](https://blog.vvauban.com/blog/java-roadmap)
-- [BEYOND Senior by Java Champion Bruno Souza](https://blog.vvauban.com/blog/beyond-senior-by-java-champion-bruno-souza)
-- [📐 DESIGN PATTERN: State Pattern](https://blog.vvauban.com/blog/design-pattern-state-pattern)
+- [📐 DESIGN PATTERN: Flyweight](https://blog.vvauban.com/blog/design-pattern-flyweight)
+- [💰🌥🍃 #SaveMoney on #CloudCosts by upgrading #springboot from 2.6 to 3.2 by Michael Coté #finops](https://blog.vvauban.com/blog/savemoney-on-cloudcosts-by-upgrading-springboot-from-2-6-to-3-2-by)
+- [💻 IntelliJ IDEA 2024.1 EAP 4: Sticky Lines](https://blog.vvauban.com/blog/intellij-idea-2024-1-eap-4-sticky-lines)
+- [☕🎓JAVA CERTIFICATION QUESTION: Locale object](https://blog.vvauban.com/blog/java-certification-question-locale-object)
+- [☕🏎️ Java performance quote: Vlad Mihalcea &lpar;Java Champion&rpar;](https://blog.vvauban.com/blog/java-performance-quote-vlad-mihalcea-java-champion)
 <!-- BLOG-POST-LIST:END -->
