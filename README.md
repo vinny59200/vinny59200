@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📐 DESIGN PATTERN: Flyweight](https://blog.vvauban.com/blog/design-pattern-flyweight)
-- [💰🌥🍃 #SaveMoney on #CloudCosts by upgrading #springboot from 2.6 to 3.2 by Michael Coté #finops](https://blog.vvauban.com/blog/savemoney-on-cloudcosts-by-upgrading-springboot-from-2-6-to-3-2-by)
-- [💻 IntelliJ IDEA 2024.1 EAP 4: Sticky Lines](https://blog.vvauban.com/blog/intellij-idea-2024-1-eap-4-sticky-lines)
-- [☕🎓JAVA CERTIFICATION QUESTION: Locale object](https://blog.vvauban.com/blog/java-certification-question-locale-object)
-- [☕🏎️ Java performance quote: Vlad Mihalcea &lpar;Java Champion&rpar;](https://blog.vvauban.com/blog/java-performance-quote-vlad-mihalcea-java-champion)
+- [📐 DESIGN PATTERN:  Marker](https://blog.vvauban.com/blog/design-pattern-marker)
+- [☕🎓JAVA CERTIFICATION QUESTION: synchronized sorted collection](https://blog.vvauban.com/blog/java-certification-question-synchronized-sorted-collection)
+- [SCRUM: The Increment Is Dead by Yuval Yeret](https://blog.vvauban.com/blog/scrum-the-increment-is-dead-by-yuval-yeret)
+- [REACT: loading](https://blog.vvauban.com/blog/react-loading)
+- [🎶🤖 Dancing robots](https://blog.vvauban.com/blog/dancing-robots)
 <!-- BLOG-POST-LIST:END -->
