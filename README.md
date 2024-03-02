@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📐 DESIGN PATTERN:  Marker](https://blog.vvauban.com/blog/design-pattern-marker)
-- [☕🎓JAVA CERTIFICATION QUESTION: synchronized sorted collection](https://blog.vvauban.com/blog/java-certification-question-synchronized-sorted-collection)
-- [SCRUM: The Increment Is Dead by Yuval Yeret](https://blog.vvauban.com/blog/scrum-the-increment-is-dead-by-yuval-yeret)
-- [REACT: loading](https://blog.vvauban.com/blog/react-loading)
-- [🎶🤖 Dancing robots](https://blog.vvauban.com/blog/dancing-robots)
+- [REACT: You are rendering a list with React when this warning appears in the console:](https://blog.vvauban.com/blog/react-you-are-rendering-a-list-with-react-when-this-warning-appears-in-the)
+- [🗳POLL: Which of these platforms do you use the most for version control at work? GITHUB/ GITLAB/ BITBUCKET/ OTHER](https://blog.vvauban.com/blog/poll-which-of-these-platforms-do-you-use-the-most-for-version-control-at)
+- [SCRUM: 4 Key Flow Metrics and how to use them in Scrum&#39;s events](https://blog.vvauban.com/blog/scrum-4-key-flow-metrics-and-how-to-use-them-in-scrum-s-events)
+- [Iterative ➿ VS Incremental 🧩](https://blog.vvauban.com/blog/iterative-vs-incremental)
+- [MOOC: Six tools to improve your tech leadership &amp; comunication](https://blog.vvauban.com/blog/mooc-six-tools-to-improve-your-tech-leadership-comunication)
 <!-- BLOG-POST-LIST:END -->
