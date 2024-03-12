@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Persistent effort is key in programming and life. With perseverance, failure is unlikely.](https://blog.vvauban.com/blog/persistent-effort-is-key-in-programming-and-life-with-perseverance-failure)
-- [🤣 The world&#39;s strongest man💪](https://blog.vvauban.com/blog/the-world-s-strongest-man)
-- [REACT 19 is here](https://blog.vvauban.com/blog/react-19-is-here)
-- [⚛ REACT OPTIMIZER LIB: Million.js](https://blog.vvauban.com/blog/react-optimizer-lib-million-js)
-- [What is the use of Gitpod?](https://blog.vvauban.com/blog/what-is-the-use-of-gitpod)
+- [😆 JOKE: Self-inflicted bug 🪲](https://blog.vvauban.com/blog/joke-self-inflicted-bug)
+- [DESIGN PATTERN: Strategy](https://blog.vvauban.com/blog/design-pattern-strategy)
+- [Extra effort in writing code matters because developers spend 10 times as much time reading it as they do writing it.](https://blog.vvauban.com/blog/extra-effort-in-writing-code-matters-because-developers-spend-10-times-as)
+- [☕🎓JAVA CERTIFICATION QUESTION: Locale](https://blog.vvauban.com/blog/java-certification-question-locale)
+- [🆓 👩‍🏫 FREE MOOC: Apache Kafka Fundamentals and Accreditation](https://blog.vvauban.com/blog/free-mooc-apache-kafka-fundamentals-and-accreditation)
 <!-- BLOG-POST-LIST:END -->
