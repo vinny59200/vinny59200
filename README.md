@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [😆 JOKE: Self-inflicted bug 🪲](https://blog.vvauban.com/blog/joke-self-inflicted-bug)
-- [DESIGN PATTERN: Strategy](https://blog.vvauban.com/blog/design-pattern-strategy)
-- [Extra effort in writing code matters because developers spend 10 times as much time reading it as they do writing it.](https://blog.vvauban.com/blog/extra-effort-in-writing-code-matters-because-developers-spend-10-times-as)
-- [☕🎓JAVA CERTIFICATION QUESTION: Locale](https://blog.vvauban.com/blog/java-certification-question-locale)
-- [🆓 👩‍🏫 FREE MOOC: Apache Kafka Fundamentals and Accreditation](https://blog.vvauban.com/blog/free-mooc-apache-kafka-fundamentals-and-accreditation)
+- [🤖🤣 DEVIN JOKE](https://blog.vvauban.com/blog/devin-joke)
+- [🗳️ POLL: What do you think about Devin?](https://blog.vvauban.com/blog/poll-what-do-you-think-about-devin)
+- [📐DESIGN PATTERN: Module pattern](https://blog.vvauban.com/blog/design-pattern-module-pattern)
+- [⚛️ REACT quiz: ternary operator](https://blog.vvauban.com/blog/react-quiz-ternary-operator)
+- [☕🎓JAVA CERTIFICATION QUESTION:  Collections and generics](https://blog.vvauban.com/blog/java-certification-question-collections-and-generics)
 <!-- BLOG-POST-LIST:END -->
