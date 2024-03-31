@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🤖🤣 DEVIN JOKE](https://blog.vvauban.com/blog/devin-joke)
-- [🗳️ POLL: What do you think about Devin?](https://blog.vvauban.com/blog/poll-what-do-you-think-about-devin)
-- [📐DESIGN PATTERN: Module pattern](https://blog.vvauban.com/blog/design-pattern-module-pattern)
-- [⚛️ REACT quiz: ternary operator](https://blog.vvauban.com/blog/react-quiz-ternary-operator)
-- [☕🎓JAVA CERTIFICATION QUESTION:  Collections and generics](https://blog.vvauban.com/blog/java-certification-question-collections-and-generics)
+- [🍃☕SpringBoot JPA One to Many video](https://blog.vvauban.com/blog/springboot-jpa-one-to-many-video)
+- [Kafka Streams](https://blog.vvauban.com/blog/kafka-streams)
+- [☕🎓JAVA CERTIFICATION QUESTION:  Prepared statements](https://blog.vvauban.com/blog/java-certification-question-prepared-statements)
+- [DESIGN PATTERN: Proxy pattern](https://blog.vvauban.com/blog/design-pattern-proxy-pattern)
+- [#HTMX with #SpringBoot: #mini app](https://blog.vvauban.com/blog/htmx-with-springboot-mini-app)
 <!-- BLOG-POST-LIST:END -->
