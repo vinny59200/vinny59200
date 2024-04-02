@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🍃SpringBoot with 👨‍💻⚙️GitHub Actions](https://blog.vvauban.com/blog/springboot-with-github-actions)
+- [🤣 JOKE: Dora the debugger](https://blog.vvauban.com/blog/joke-dora-the-debugger)
+- [Mastering fundamental Java concepts enables you to write simpler code.](https://blog.vvauban.com/blog/mastering-fundamental-java-concepts-enables-you-to-write-simpler-code)
 - [🍃☕SpringBoot JPA One to Many video](https://blog.vvauban.com/blog/springboot-jpa-one-to-many-video)
 - [Kafka Streams](https://blog.vvauban.com/blog/kafka-streams)
-- [☕🎓JAVA CERTIFICATION QUESTION:  Prepared statements](https://blog.vvauban.com/blog/java-certification-question-prepared-statements)
-- [DESIGN PATTERN: Proxy pattern](https://blog.vvauban.com/blog/design-pattern-proxy-pattern)
-- [#HTMX with #SpringBoot: #mini app](https://blog.vvauban.com/blog/htmx-with-springboot-mini-app)
 <!-- BLOG-POST-LIST:END -->
