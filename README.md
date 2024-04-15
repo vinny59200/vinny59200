@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🍃SpringBoot with 👨‍💻⚙️GitHub Actions](https://blog.vvauban.com/blog/springboot-with-github-actions)
-- [🤣 JOKE: Dora the debugger](https://blog.vvauban.com/blog/joke-dora-the-debugger)
-- [Mastering fundamental Java concepts enables you to write simpler code.](https://blog.vvauban.com/blog/mastering-fundamental-java-concepts-enables-you-to-write-simpler-code)
-- [🍃☕SpringBoot JPA One to Many video](https://blog.vvauban.com/blog/springboot-jpa-one-to-many-video)
-- [Kafka Streams](https://blog.vvauban.com/blog/kafka-streams)
+- [😜🐶♟️Shiba Inu interviewing a developer](https://blog.vvauban.com/blog/shiba-inu-interviewing-a-developer)
+- [The devil&#39;s in the details when it comes to code. Seize every opportunity for small improvements.](https://blog.vvauban.com/blog/the-devil-s-in-the-details-when-it-comes-to-code-seize-every-opportunity-for)
+- [🗳️ RDBMS or NoSQL? What do you use in your app?](https://blog.vvauban.com/blog/rdbms-or-nosql-what-do-you-use-in-your-app)
+- [there will be no string template feature in JDK 23.](https://blog.vvauban.com/blog/there-will-be-no-string-template-feature-in-jdk-23)
+- [☕🎓JAVA CERTIFICATION QUESTION:  Exception](https://blog.vvauban.com/blog/java-certification-question-exception)
 <!-- BLOG-POST-LIST:END -->
