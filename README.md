@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [😜🐶♟️Shiba Inu interviewing a developer](https://blog.vvauban.com/blog/shiba-inu-interviewing-a-developer)
-- [The devil&#39;s in the details when it comes to code. Seize every opportunity for small improvements.](https://blog.vvauban.com/blog/the-devil-s-in-the-details-when-it-comes-to-code-seize-every-opportunity-for)
-- [🗳️ RDBMS or NoSQL? What do you use in your app?](https://blog.vvauban.com/blog/rdbms-or-nosql-what-do-you-use-in-your-app)
-- [there will be no string template feature in JDK 23.](https://blog.vvauban.com/blog/there-will-be-no-string-template-feature-in-jdk-23)
-- [☕🎓JAVA CERTIFICATION QUESTION:  Exception](https://blog.vvauban.com/blog/java-certification-question-exception)
+- [😹 JOKE: Is Go fun?](https://blog.vvauban.com/blog/joke-is-go-fun)
+- [Coding&#39;s future: cut repetition, and let devs focus on business problem-solving.](https://blog.vvauban.com/blog/coding-s-future-cut-repetition-and-let-devs-focus-on-business-problem-solving)
+- [☕👑🎙️Interview with James Gosling &lpar;Creator of Java&rpar;](https://blog.vvauban.com/blog/interview-with-james-gosling-creator-of-java)
+- [Kafka replication](https://blog.vvauban.com/blog/kafka-replication)
+- [📐DESIGN PATTERN: Null Object](https://blog.vvauban.com/blog/design-pattern-null-object)
 <!-- BLOG-POST-LIST:END -->
