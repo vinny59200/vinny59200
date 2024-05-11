@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [😹 JOKE: Is Go fun?](https://blog.vvauban.com/blog/joke-is-go-fun)
-- [Coding&#39;s future: cut repetition, and let devs focus on business problem-solving.](https://blog.vvauban.com/blog/coding-s-future-cut-repetition-and-let-devs-focus-on-business-problem-solving)
-- [☕👑🎙️Interview with James Gosling &lpar;Creator of Java&rpar;](https://blog.vvauban.com/blog/interview-with-james-gosling-creator-of-java)
-- [Kafka replication](https://blog.vvauban.com/blog/kafka-replication)
-- [📐DESIGN PATTERN: Null Object](https://blog.vvauban.com/blog/design-pattern-null-object)
+- [🤣🏯🧑💻 Samurai PR joke](https://blog.vvauban.com/blog/samurai-pr-joke)
+- [☕🗳️ POLL: Do you use varargs? YES/NO](https://blog.vvauban.com/blog/poll-do-you-use-varargs-yes-no)
+- [Understanding Kafka’s Cleanup Policies: Delete, Compact, and Combination 🧹🔄](https://blog.vvauban.com/blog/understanding-kafka-s-cleanup-policies-delete-compact-and-combination)
+- [📐 DESIGN PATTERN: Pipeline](https://blog.vvauban.com/blog/design-pattern-pipeline)
+- [#devcontainer : All you need for coding IN a container](https://blog.vvauban.com/blog/devcontainer-all-you-need-for-coding-in-a-container)
 <!-- BLOG-POST-LIST:END -->
