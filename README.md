@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [😜 Temporary solution](https://blog.vvauban.com/blog/temporary-solution)
+- [#DEVOXX 2024 #PLAYLIST is now available on #YouTube](https://blog.vvauban.com/blog/devoxx-2024-playlist-is-now-available-on-youtube)
+- [Harnessing the Power of Kafka for Real-Time Data Integration: A Dive into Change Data Capture &lpar;CDC&rpar; 🔄](https://blog.vvauban.com/blog/harnessing-the-power-of-kafka-for-real-time-data-integration-a-dive-into)
 - [🤣🏯🧑💻 Samurai PR joke](https://blog.vvauban.com/blog/samurai-pr-joke)
 - [☕🗳️ POLL: Do you use varargs? YES/NO](https://blog.vvauban.com/blog/poll-do-you-use-varargs-yes-no)
-- [Understanding Kafka’s Cleanup Policies: Delete, Compact, and Combination 🧹🔄](https://blog.vvauban.com/blog/understanding-kafka-s-cleanup-policies-delete-compact-and-combination)
-- [📐 DESIGN PATTERN: Pipeline](https://blog.vvauban.com/blog/design-pattern-pipeline)
-- [#devcontainer : All you need for coding IN a container](https://blog.vvauban.com/blog/devcontainer-all-you-need-for-coding-in-a-container)
 <!-- BLOG-POST-LIST:END -->
