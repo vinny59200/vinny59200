@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [😜 Temporary solution](https://blog.vvauban.com/blog/temporary-solution)
-- [#DEVOXX 2024 #PLAYLIST is now available on #YouTube](https://blog.vvauban.com/blog/devoxx-2024-playlist-is-now-available-on-youtube)
-- [Harnessing the Power of Kafka for Real-Time Data Integration: A Dive into Change Data Capture &lpar;CDC&rpar; 🔄](https://blog.vvauban.com/blog/harnessing-the-power-of-kafka-for-real-time-data-integration-a-dive-into)
-- [🤣🏯🧑💻 Samurai PR joke](https://blog.vvauban.com/blog/samurai-pr-joke)
-- [☕🗳️ POLL: Do you use varargs? YES/NO](https://blog.vvauban.com/blog/poll-do-you-use-varargs-yes-no)
+- [Quicktype.io](https://blog.vvauban.com/blog/quicktype-io)
+- [Understanding Kafka Quotas: Ensuring Fair Resource Allocation in Your Data Pipeline](https://blog.vvauban.com/blog/understanding-kafka-quotas-ensuring-fair-resource-allocation-in-your-data)
+- [😜chair.exe has stopped working 🪑❌](https://blog.vvauban.com/blog/chair-exe-has-stopped-working)
+- [☕2️⃣2️⃣ Java 22 features for developers](https://blog.vvauban.com/blog/2-2-java-22-features-for-developers)
+- [☕🎓JAVA CERTIFICATION QUESTION:  Between](https://blog.vvauban.com/blog/java-certification-question-between)
 <!-- BLOG-POST-LIST:END -->
