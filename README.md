@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Quicktype.io](https://blog.vvauban.com/blog/quicktype-io)
-- [Understanding Kafka Quotas: Ensuring Fair Resource Allocation in Your Data Pipeline](https://blog.vvauban.com/blog/understanding-kafka-quotas-ensuring-fair-resource-allocation-in-your-data)
-- [😜chair.exe has stopped working 🪑❌](https://blog.vvauban.com/blog/chair-exe-has-stopped-working)
-- [☕2️⃣2️⃣ Java 22 features for developers](https://blog.vvauban.com/blog/2-2-java-22-features-for-developers)
-- [☕🎓JAVA CERTIFICATION QUESTION:  Between](https://blog.vvauban.com/blog/java-certification-question-between)
+- [Reading or watching isn&#39;t enough. Practice what you learn.](https://blog.vvauban.com/blog/reading-or-watching-isn-t-enough-practice-what-you-learn)
+- [😁4️⃣2️⃣☕🍵 Uber Eat joke](https://blog.vvauban.com/blog/4-2-uber-eat-joke)
+- [Understanding Kafka Quotas: Ensuring Fair Resource Allocation in Your Data Pipeline](https://blog.vvauban.com/blog/understanding-kafka-quotas-ensuring-fair-resource-allocation-in-your-data-b63feb33-3333-4188-92b8-4044958aa580)
+- [Unveiling Kafka MirrorMaker: The Backbone of Data Replication 🔄](https://blog.vvauban.com/blog/unveiling-kafka-mirrormaker-the-backbone-of-data-replication)
+- [🗳️ POLL: Do you work with Kafka? YES/ NO](https://blog.vvauban.com/blog/poll-do-you-work-with-kafka-yes-no)
 <!-- BLOG-POST-LIST:END -->
