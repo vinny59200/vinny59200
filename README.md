@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Reading or watching isn&#39;t enough. Practice what you learn.](https://blog.vvauban.com/blog/reading-or-watching-isn-t-enough-practice-what-you-learn)
-- [😁4️⃣2️⃣☕🍵 Uber Eat joke](https://blog.vvauban.com/blog/4-2-uber-eat-joke)
-- [Understanding Kafka Quotas: Ensuring Fair Resource Allocation in Your Data Pipeline](https://blog.vvauban.com/blog/understanding-kafka-quotas-ensuring-fair-resource-allocation-in-your-data-b63feb33-3333-4188-92b8-4044958aa580)
-- [Unveiling Kafka MirrorMaker: The Backbone of Data Replication 🔄](https://blog.vvauban.com/blog/unveiling-kafka-mirrormaker-the-backbone-of-data-replication)
-- [🗳️ POLL: Do you work with Kafka? YES/ NO](https://blog.vvauban.com/blog/poll-do-you-work-with-kafka-yes-no)
+- [😜👩💼When recruiters want a junior developer with 10 years of experience.](https://blog.vvauban.com/blog/when-recruiters-want-a-junior-developer-with-10-years-of-experience)
+- [Discipline greatly helps you learn new technologies and programming techniques.](https://blog.vvauban.com/blog/discipline-greatly-helps-you-learn-new-technologies-and-programming-techniques)
+- [☕2️⃣3️⃣ Java 23 shorter println](https://blog.vvauban.com/blog/2-3-java-23-shorter-println)
+- [💡 How to Fix a Squeaky Desk Chair 🪑🔊](https://blog.vvauban.com/blog/how-to-fix-a-squeaky-desk-chair)
+- [Are you attending a conference soon? Here are some valuable tips to make the most out of your experience:](https://blog.vvauban.com/blog/are-you-attending-a-conference-soon-here-are-some-valuable-tips-to-make-the)
 <!-- BLOG-POST-LIST:END -->
