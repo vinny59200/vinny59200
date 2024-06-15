@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [😜👩💼When recruiters want a junior developer with 10 years of experience.](https://blog.vvauban.com/blog/when-recruiters-want-a-junior-developer-with-10-years-of-experience)
-- [Discipline greatly helps you learn new technologies and programming techniques.](https://blog.vvauban.com/blog/discipline-greatly-helps-you-learn-new-technologies-and-programming-techniques)
-- [☕2️⃣3️⃣ Java 23 shorter println](https://blog.vvauban.com/blog/2-3-java-23-shorter-println)
-- [💡 How to Fix a Squeaky Desk Chair 🪑🔊](https://blog.vvauban.com/blog/how-to-fix-a-squeaky-desk-chair)
-- [Are you attending a conference soon? Here are some valuable tips to make the most out of your experience:](https://blog.vvauban.com/blog/are-you-attending-a-conference-soon-here-are-some-valuable-tips-to-make-the)
+- [🤣 MacBook Antitheft Trick](https://blog.vvauban.com/blog/macbook-antitheft-trick)
+- [📐 DESIGN PATTERN: Balking](https://blog.vvauban.com/blog/design-pattern-balking)
+- [Be the developer you always wanted to have on your team.--Vlad Mihalcea, Java Champion](https://blog.vvauban.com/blog/be-the-developer-you-always-wanted-to-have-on-your-team-vlad-mihalcea-java)
+- [☕2️⃣3️⃣ Java 23 Import module: All In One Import](https://blog.vvauban.com/blog/2-3-java-23-import-module-all-in-one-import)
+- [👨💻 Crafting an app in less than 5min: do you accept the mission? 😱](https://blog.vvauban.com/blog/crafting-an-app-in-less-than-5min-do-you-accept-the-mission)
 <!-- BLOG-POST-LIST:END -->
