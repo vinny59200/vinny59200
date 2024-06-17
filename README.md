@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🤣 MacBook Antitheft Trick](https://blog.vvauban.com/blog/macbook-antitheft-trick)
-- [📐 DESIGN PATTERN: Balking](https://blog.vvauban.com/blog/design-pattern-balking)
-- [Be the developer you always wanted to have on your team.--Vlad Mihalcea, Java Champion](https://blog.vvauban.com/blog/be-the-developer-you-always-wanted-to-have-on-your-team-vlad-mihalcea-java)
-- [☕2️⃣3️⃣ Java 23 Import module: All In One Import](https://blog.vvauban.com/blog/2-3-java-23-import-module-all-in-one-import)
-- [👨💻 Crafting an app in less than 5min: do you accept the mission? 😱](https://blog.vvauban.com/blog/crafting-an-app-in-less-than-5min-do-you-accept-the-mission)
+- [🔐✍️🤣 password form maze joke](https://blog.vvauban.com/blog/password-form-maze-joke)
+- [🥑 Are you a developer advocate? more Twitter/X or GitHub?](https://blog.vvauban.com/blog/are-you-a-developer-advocate-more-twitter-x-or-github)
+- [Did you know you can style the console log output using CSS?](https://blog.vvauban.com/blog/did-you-know-you-can-style-the-console-log-output-using-css)
+- [Choosing the Right Avro Compatibility Mode for Your Data Schema 🔄](https://blog.vvauban.com/blog/choosing-the-right-avro-compatibility-mode-for-your-data-schema)
+- [🗳️ POLL:👨💻 What’s your preferred title? DEVELOPER/ ENGINEER/ PROGRAMMER/ TECH](https://blog.vvauban.com/blog/poll-what-s-your-preferred-title-developer-engineer-programmer-tech)
 <!-- BLOG-POST-LIST:END -->
