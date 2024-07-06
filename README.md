@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔐✍️🤣 password form maze joke](https://blog.vvauban.com/blog/password-form-maze-joke)
-- [🥑 Are you a developer advocate? more Twitter/X or GitHub?](https://blog.vvauban.com/blog/are-you-a-developer-advocate-more-twitter-x-or-github)
-- [Did you know you can style the console log output using CSS?](https://blog.vvauban.com/blog/did-you-know-you-can-style-the-console-log-output-using-css)
-- [Choosing the Right Avro Compatibility Mode for Your Data Schema 🔄](https://blog.vvauban.com/blog/choosing-the-right-avro-compatibility-mode-for-your-data-schema)
-- [🗳️ POLL:👨💻 What’s your preferred title? DEVELOPER/ ENGINEER/ PROGRAMMER/ TECH](https://blog.vvauban.com/blog/poll-what-s-your-preferred-title-developer-engineer-programmer-tech)
+- [Kiddo wants a switch 🎮: chill out, poppa is a network engineer 🤣](https://blog.vvauban.com/blog/kiddo-wants-a-switch-chill-out-poppa-is-a-network-engineer)
+- [To dial down the emotions, you can imagine the challenge is happening to a friend at a different company.💁‍♂️](https://blog.vvauban.com/blog/to-dial-down-the-emotions-you-can-imagine-the-challenge-is-happening-to-a)
+- [POLL: Do you comment your code? YES/ NO/ EXCEPTIONALLY](https://blog.vvauban.com/blog/poll-do-you-comment-your-code-yes-no-exceptionally)
+- [☕🎓JAVA CERTIFICATION QUESTION:  Bounded type parameters](https://blog.vvauban.com/blog/java-certification-question-bounded-type-parameters)
+- [Studies show that performing acts of kindness benefits both sides - not just those on the receiving end.](https://blog.vvauban.com/blog/studies-show-that-performing-acts-of-kindness-benefits-both-sides-not-just)
 <!-- BLOG-POST-LIST:END -->
