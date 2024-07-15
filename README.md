@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Kiddo wants a switch 🎮: chill out, poppa is a network engineer 🤣](https://blog.vvauban.com/blog/kiddo-wants-a-switch-chill-out-poppa-is-a-network-engineer)
-- [To dial down the emotions, you can imagine the challenge is happening to a friend at a different company.💁‍♂️](https://blog.vvauban.com/blog/to-dial-down-the-emotions-you-can-imagine-the-challenge-is-happening-to-a)
-- [POLL: Do you comment your code? YES/ NO/ EXCEPTIONALLY](https://blog.vvauban.com/blog/poll-do-you-comment-your-code-yes-no-exceptionally)
-- [☕🎓JAVA CERTIFICATION QUESTION:  Bounded type parameters](https://blog.vvauban.com/blog/java-certification-question-bounded-type-parameters)
-- [Studies show that performing acts of kindness benefits both sides - not just those on the receiving end.](https://blog.vvauban.com/blog/studies-show-that-performing-acts-of-kindness-benefits-both-sides-not-just)
+- [😁 JOKE: Git merge of an old branch 🔄️](https://blog.vvauban.com/blog/joke-git-merge-of-an-old-branch)
+- [Soft skills: 👀Are you good at reading the mind in the eyes? TEST YOU👇](https://blog.vvauban.com/blog/soft-skills-are-you-good-at-reading-the-mind-in-the-eyes-test-you)
+- [Understanding Kafka &lpar;I mean Confluent&rpar; Schema Registry 📚](https://blog.vvauban.com/blog/understanding-kafka-i-mean-confluent-schema-registry)
+- [To truly learn, you need to practice and gain experience beyond just reading or watching classes.](https://blog.vvauban.com/blog/to-truly-learn-you-need-to-practice-and-gain-experience-beyond-just-reading)
+- [☕🎓JAVA CERTIFICATION QUESTION: overloading](https://blog.vvauban.com/blog/java-certification-question-overloading)
 <!-- BLOG-POST-LIST:END -->
