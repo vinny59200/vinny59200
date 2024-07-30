@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [😁 JOKE: Git merge of an old branch 🔄️](https://blog.vvauban.com/blog/joke-git-merge-of-an-old-branch)
-- [Soft skills: 👀Are you good at reading the mind in the eyes? TEST YOU👇](https://blog.vvauban.com/blog/soft-skills-are-you-good-at-reading-the-mind-in-the-eyes-test-you)
-- [Understanding Kafka &lpar;I mean Confluent&rpar; Schema Registry 📚](https://blog.vvauban.com/blog/understanding-kafka-i-mean-confluent-schema-registry)
-- [To truly learn, you need to practice and gain experience beyond just reading or watching classes.](https://blog.vvauban.com/blog/to-truly-learn-you-need-to-practice-and-gain-experience-beyond-just-reading)
-- [☕🎓JAVA CERTIFICATION QUESTION: overloading](https://blog.vvauban.com/blog/java-certification-question-overloading)
+- [☕🎓JAVA CERTIFICATION QUESTION:  pre &amp; post increment](https://blog.vvauban.com/blog/java-certification-question-pre-post-increment)
+- [🚀 Unlocking the Power of Kafka Connect: A Comprehensive Guide](https://blog.vvauban.com/blog/unlocking-the-power-of-kafka-connect-a-comprehensive-guide)
+- [😜JOKE: Crowdstrike benefits the lazy sysadmin LOL](https://blog.vvauban.com/blog/joke-crowdstrike-benefits-the-lazy-sysadmin-lol)
+- [Understanding Dead Letter Queues &lpar;DLQ&rpar; in Kafka 🚀](https://blog.vvauban.com/blog/understanding-dead-letter-queues-dlq-in-kafka)
+- [📐 Design Patterns: Memento](https://blog.vvauban.com/blog/design-patterns-memento)
 <!-- BLOG-POST-LIST:END -->
