@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [☕🎓JAVA CERTIFICATION QUESTION:  pre &amp; post increment](https://blog.vvauban.com/blog/java-certification-question-pre-post-increment)
-- [🚀 Unlocking the Power of Kafka Connect: A Comprehensive Guide](https://blog.vvauban.com/blog/unlocking-the-power-of-kafka-connect-a-comprehensive-guide)
-- [😜JOKE: Crowdstrike benefits the lazy sysadmin LOL](https://blog.vvauban.com/blog/joke-crowdstrike-benefits-the-lazy-sysadmin-lol)
-- [Understanding Dead Letter Queues &lpar;DLQ&rpar; in Kafka 🚀](https://blog.vvauban.com/blog/understanding-dead-letter-queues-dlq-in-kafka)
-- [📐 Design Patterns: Memento](https://blog.vvauban.com/blog/design-patterns-memento)
+- [What is according to you the most valuable developer trait?](https://blog.vvauban.com/blog/what-is-according-to-you-the-most-valuable-developer-trait)
+- [Developer Course Completion Certificate: Step up your coding with Continuous Feedback](https://blog.vvauban.com/blog/developer-course-completion-certificate-step-up-your-coding-with-continuous)
+- [🔐 HashiCorp Vault: Secure Your Secrets](https://blog.vvauban.com/blog/hashicorp-vault-secure-your-secrets)
+- [🐶 Datadog: Your All-in-One Monitoring Solution](https://blog.vvauban.com/blog/datadog-your-all-in-one-monitoring-solution)
+- [🚀 Flux: The GitOps Family of Projects](https://blog.vvauban.com/blog/flux-the-gitops-family-of-projects)
 <!-- BLOG-POST-LIST:END -->
