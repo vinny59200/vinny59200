@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Testing Kafka with @EmbeddedKafka in Spring 🌟](https://blog.vvauban.com/blog/testing-kafka-with-embeddedkafka-in-spring)
+- [Strimzi: Simplifying Apache Kafka on Kubernetes for Developers](https://blog.vvauban.com/blog/strimzi-simplifying-apache-kafka-on-kubernetes-for-developers)
+- [Understanding Kafka Single Message Transform &lpar;SMT&rpar;](https://blog.vvauban.com/blog/understanding-kafka-single-message-transform-smt)
+- [What is your favorite search engine? BING/ GOOGLE/ DUCKDUCKGO/ OTHER](https://blog.vvauban.com/blog/what-is-your-favorite-search-engine-bing-google-duckduckgo-other)
 - [What is according to you the most valuable developer trait?](https://blog.vvauban.com/blog/what-is-according-to-you-the-most-valuable-developer-trait)
-- [Developer Course Completion Certificate: Step up your coding with Continuous Feedback](https://blog.vvauban.com/blog/developer-course-completion-certificate-step-up-your-coding-with-continuous)
-- [🔐 HashiCorp Vault: Secure Your Secrets](https://blog.vvauban.com/blog/hashicorp-vault-secure-your-secrets)
-- [🐶 Datadog: Your All-in-One Monitoring Solution](https://blog.vvauban.com/blog/datadog-your-all-in-one-monitoring-solution)
-- [🚀 Flux: The GitOps Family of Projects](https://blog.vvauban.com/blog/flux-the-gitops-family-of-projects)
 <!-- BLOG-POST-LIST:END -->
