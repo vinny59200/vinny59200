@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Testing Kafka with @EmbeddedKafka in Spring 🌟](https://blog.vvauban.com/blog/testing-kafka-with-embeddedkafka-in-spring)
-- [Strimzi: Simplifying Apache Kafka on Kubernetes for Developers](https://blog.vvauban.com/blog/strimzi-simplifying-apache-kafka-on-kubernetes-for-developers)
-- [Understanding Kafka Single Message Transform &lpar;SMT&rpar;](https://blog.vvauban.com/blog/understanding-kafka-single-message-transform-smt)
-- [What is your favorite search engine? BING/ GOOGLE/ DUCKDUCKGO/ OTHER](https://blog.vvauban.com/blog/what-is-your-favorite-search-engine-bing-google-duckduckgo-other)
-- [What is according to you the most valuable developer trait?](https://blog.vvauban.com/blog/what-is-according-to-you-the-most-valuable-developer-trait)
+- [🚀☕ 10 DAYS BEFORE Java 23 release 🥳 &lpar;17 September&rpar;](https://blog.vvauban.com/blog/10-days-before-java-23-release-17-september)
+- [How to prevent or react to a leak of sensitive data in AI?](https://blog.vvauban.com/blog/how-to-prevent-or-react-to-a-leak-of-sensitive-data-in-ai)
+- [AI saves 4500 years of developer work at Amazon. Your opinion?](https://blog.vvauban.com/blog/ai-saves-4500-years-of-developer-work-at-amazon-your-opinion)
+- [63 Billions of Active JVMs 🤩](https://blog.vvauban.com/blog/63-billions-of-active-jvms)
+- [🎓 Kubernetes introduction course completion](https://blog.vvauban.com/blog/kubernetes-introduction-course-completion)
 <!-- BLOG-POST-LIST:END -->
