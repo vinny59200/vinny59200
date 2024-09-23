@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [☕2️⃣3️⃣🚀 Java 23 in punchlines 🤜🤛 java23 release feature](https://blog.vvauban.com/blog/2-3-java-23-in-punchlines-java23-release-feature)
 - [🐧☸️🎓 KCNA course completion certificate](https://blog.vvauban.com/blog/kcna-course-completion-certificate)
 - [🍃 Using @Transactional&lpar;readOnly = true&rpar; in Spring applications is highly beneficial](https://blog.vvauban.com/blog/using-transactional-readonly-true-in-spring-applications-is-highly)
 - [⁉ Do you know Thomas Kilmann Conflict Model? 💢💥](https://blog.vvauban.com/blog/do-you-know-thomas-kilmann-conflict-model)
 - [🐶🎓 Datadog SRE course completion certificate](https://blog.vvauban.com/blog/datadog-sre-course-completion-certificate)
-- [☸️ 🎓 Kubernetes Course completion certificate](https://blog.vvauban.com/blog/kubernetes-course-completion-certificate)
 <!-- BLOG-POST-LIST:END -->
