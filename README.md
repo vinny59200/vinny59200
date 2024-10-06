@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [If you want to become a better software developer, you should study the source code of the frameworks you are using.](https://blog.vvauban.com/blog/if-you-want-to-become-a-better-software-developer-you-should-study-the)
+- [🚀 Oracle Unveils Java 23: Simplicity Meets Enterprise Power 🚀](https://blog.vvauban.com/blog/oracle-unveils-java-23-simplicity-meets-enterprise-power)
+- [Be wary of &quot;AI will steal our jobs!&quot;](https://blog.vvauban.com/blog/be-wary-of-ai-will-steal-our-jobs)
+- [Virtual threads BEST practices explained by a Java champion ☕🏆](https://blog.vvauban.com/blog/virtual-threads-best-practices-explained-by-a-java-champion)
 - [☕2️⃣3️⃣🚀 Java 23 in punchlines 🤜🤛 java23 release feature](https://blog.vvauban.com/blog/2-3-java-23-in-punchlines-java23-release-feature)
-- [🐧☸️🎓 KCNA course completion certificate](https://blog.vvauban.com/blog/kcna-course-completion-certificate)
-- [🍃 Using @Transactional&lpar;readOnly = true&rpar; in Spring applications is highly beneficial](https://blog.vvauban.com/blog/using-transactional-readonly-true-in-spring-applications-is-highly)
-- [⁉ Do you know Thomas Kilmann Conflict Model? 💢💥](https://blog.vvauban.com/blog/do-you-know-thomas-kilmann-conflict-model)
-- [🐶🎓 Datadog SRE course completion certificate](https://blog.vvauban.com/blog/datadog-sre-course-completion-certificate)
 <!-- BLOG-POST-LIST:END -->
