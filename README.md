@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [☕ Java Green IT rules 🌍💚](https://blog.vvauban.com/blog/java-green-it-rules)
+- [🦀🎓🆓 Getting Started with Rust: FREE by Linux Foundation with Credly badge](https://blog.vvauban.com/blog/getting-started-with-rust-free-by-linux-foundation-with-credly-badge)
+- [The more you learn, the easier it becomes to learn even fields that you had initially struggled with.](https://blog.vvauban.com/blog/the-more-you-learn-the-easier-it-becomes-to-learn-even-fields-that-you-had)
+- [POLL: Dear developers, 💻 Is Kubernetes easy? YES/ KINDA/ LEARNING/ NO](https://blog.vvauban.com/blog/poll-dear-developers-is-kubernetes-easy-yes-kinda-learning-no)
 - [If you want to become a better software developer, you should study the source code of the frameworks you are using.](https://blog.vvauban.com/blog/if-you-want-to-become-a-better-software-developer-you-should-study-the)
-- [🚀 Oracle Unveils Java 23: Simplicity Meets Enterprise Power 🚀](https://blog.vvauban.com/blog/oracle-unveils-java-23-simplicity-meets-enterprise-power)
-- [Be wary of &quot;AI will steal our jobs!&quot;](https://blog.vvauban.com/blog/be-wary-of-ai-will-steal-our-jobs)
-- [Virtual threads BEST practices explained by a Java champion ☕🏆](https://blog.vvauban.com/blog/virtual-threads-best-practices-explained-by-a-java-champion)
-- [☕2️⃣3️⃣🚀 Java 23 in punchlines 🤜🤛 java23 release feature](https://blog.vvauban.com/blog/2-3-java-23-in-punchlines-java23-release-feature)
 <!-- BLOG-POST-LIST:END -->
