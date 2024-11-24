@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [☕ Java Green IT rules 🌍💚](https://blog.vvauban.com/blog/java-green-it-rules)
-- [🦀🎓🆓 Getting Started with Rust: FREE by Linux Foundation with Credly badge](https://blog.vvauban.com/blog/getting-started-with-rust-free-by-linux-foundation-with-credly-badge)
-- [The more you learn, the easier it becomes to learn even fields that you had initially struggled with.](https://blog.vvauban.com/blog/the-more-you-learn-the-easier-it-becomes-to-learn-even-fields-that-you-had)
-- [POLL: Dear developers, 💻 Is Kubernetes easy? YES/ KINDA/ LEARNING/ NO](https://blog.vvauban.com/blog/poll-dear-developers-is-kubernetes-easy-yes-kinda-learning-no)
-- [If you want to become a better software developer, you should study the source code of the frameworks you are using.](https://blog.vvauban.com/blog/if-you-want-to-become-a-better-software-developer-you-should-study-the)
+- [KCNA: Kubernetes and Cloud Native Associate](https://blog.vvauban.com/blog/kcna-kubernetes-and-cloud-native-associate)
+- [🚀 Simplicity over complexity: flexible designs keep projects future-ready!](https://blog.vvauban.com/blog/simplicity-over-complexity-flexible-designs-keep-projects-future-ready)
+- [19 Principles for Better Software Engineering](https://blog.vvauban.com/blog/19-principles-for-better-software-engineering)
+- [The Wild Ride of Frontend Development: A Sarcastic Timeline](https://blog.vvauban.com/blog/the-wild-ride-of-frontend-development-a-sarcastic-timeline)
+- [Your career is a marathon—prioritize endurance over quick wins.](https://blog.vvauban.com/blog/your-career-is-a-marathon-prioritize-endurance-over-quick-wins)
 <!-- BLOG-POST-LIST:END -->
