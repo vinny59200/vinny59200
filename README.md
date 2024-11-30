@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Angular 19](https://blog.vvauban.com/blog/angular-19)
+- [Git rebase](https://blog.vvauban.com/blog/git-rebase)
+- [😱 Preventing LDAP Injection with Java](https://blog.vvauban.com/blog/preventing-ldap-injection-with-java)
+- [🚫 End the Product Owner vs. Product Manager Split](https://blog.vvauban.com/blog/end-the-product-owner-vs-product-manager-split)
 - [KCNA: Kubernetes and Cloud Native Associate](https://blog.vvauban.com/blog/kcna-kubernetes-and-cloud-native-associate)
-- [🚀 Simplicity over complexity: flexible designs keep projects future-ready!](https://blog.vvauban.com/blog/simplicity-over-complexity-flexible-designs-keep-projects-future-ready)
-- [19 Principles for Better Software Engineering](https://blog.vvauban.com/blog/19-principles-for-better-software-engineering)
-- [The Wild Ride of Frontend Development: A Sarcastic Timeline](https://blog.vvauban.com/blog/the-wild-ride-of-frontend-development-a-sarcastic-timeline)
-- [Your career is a marathon—prioritize endurance over quick wins.](https://blog.vvauban.com/blog/your-career-is-a-marathon-prioritize-endurance-over-quick-wins)
 <!-- BLOG-POST-LIST:END -->
