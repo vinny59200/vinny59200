@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Speed up your Spring Batch with Native Image and GraalVM 🚀](https://blog.vvauban.com/blog/speed-up-your-spring-batch-with-native-image-and-graalvm)
 - [Angular 19](https://blog.vvauban.com/blog/angular-19)
 - [Git rebase](https://blog.vvauban.com/blog/git-rebase)
 - [😱 Preventing LDAP Injection with Java](https://blog.vvauban.com/blog/preventing-ldap-injection-with-java)
 - [🚫 End the Product Owner vs. Product Manager Split](https://blog.vvauban.com/blog/end-the-product-owner-vs-product-manager-split)
-- [KCNA: Kubernetes and Cloud Native Associate](https://blog.vvauban.com/blog/kcna-kubernetes-and-cloud-native-associate)
 <!-- BLOG-POST-LIST:END -->
