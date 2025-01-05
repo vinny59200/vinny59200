@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[VV102] The Java 21 Newsletter](https://blog.vvauban.com/blog/vv102-the-java-21-newsletter)
 - [📈 Elevate Your Consulting Game: Tips for a Better Consultant Posture 💼](https://blog.vvauban.com/blog/elevate-your-consulting-game-tips-for-a-better-consultant-posture)
 - [🎉 Success Alert! 🎉 C1 Level  in english](https://blog.vvauban.com/blog/success-alert-c1-level-in-english)
 - [[VV101] The Java 21 Newsletter](https://blog.vvauban.com/blog/vv101-the-java-21-newsletter)
 - [Prevent LDAP injection in Java with SpringBoot &lpar;FULL&rpar;](https://blog.vvauban.com/blog/prevent-ldap-injection-in-java-with-springboot-full)
-- [🚀 Speed up your Spring Batch with Native Image and GraalVM 🚀](https://blog.vvauban.com/blog/speed-up-your-spring-batch-with-native-image-and-graalvm)
 <!-- BLOG-POST-LIST:END -->
