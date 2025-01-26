@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[VV105] The Java 21 Newsletter](https://blog.vvauban.com/blog/vv105-the-java-21-newsletter)
+- [☕🏆JCHAMPIONSCONF DAY 2️⃣](https://blog.vvauban.com/blog/jchampionsconf-day-2)
+- [☕🏆JCHAMPIONSCONF DAY 1️⃣](https://blog.vvauban.com/blog/jchampionsconf-day-1)
 - [[VV104] The Java 21 Newsletter](https://blog.vvauban.com/blog/vv104-the-java-21-newsletter)
 - [[VV103] The Java 21 Newsletter](https://blog.vvauban.com/blog/vv103-the-java-21-newsletter)
-- [[VV102] The Java 21 Newsletter](https://blog.vvauban.com/blog/vv102-the-java-21-newsletter)
-- [📈 Elevate Your Consulting Game: Tips for a Better Consultant Posture 💼](https://blog.vvauban.com/blog/elevate-your-consulting-game-tips-for-a-better-consultant-posture)
-- [🎉 Success Alert! 🎉 C1 Level  in english](https://blog.vvauban.com/blog/success-alert-c1-level-in-english)
 <!-- BLOG-POST-LIST:END -->
