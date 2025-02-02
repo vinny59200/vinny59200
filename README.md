@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[VV106] The Java 21 Newsletter](https://blog.vvauban.com/blog/vv106-the-java-21-newsletter)
 - [[VV105] The Java 21 Newsletter](https://blog.vvauban.com/blog/vv105-the-java-21-newsletter)
 - [☕🏆JCHAMPIONSCONF DAY 2️⃣](https://blog.vvauban.com/blog/jchampionsconf-day-2)
 - [☕🏆JCHAMPIONSCONF DAY 1️⃣](https://blog.vvauban.com/blog/jchampionsconf-day-1)
 - [[VV104] The Java 21 Newsletter](https://blog.vvauban.com/blog/vv104-the-java-21-newsletter)
-- [[VV103] The Java 21 Newsletter](https://blog.vvauban.com/blog/vv103-the-java-21-newsletter)
 <!-- BLOG-POST-LIST:END -->
