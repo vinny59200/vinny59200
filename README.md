@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[VV108] The Java 21 Newsletter](https://blog.vvauban.com/blog/vv108-the-java-21-newsletter)
-- [☕🏆Jchampionsconf Day 4️⃣](https://blog.vvauban.com/blog/jchampionsconf-day-4)
-- [☕🏆JCHAMPIONSCONF DAY 3️⃣](https://blog.vvauban.com/blog/jchampionsconf-day-3)
-- [[VV107] The Java 21 Newsletter](https://blog.vvauban.com/blog/vv107-the-java-21-newsletter)
-- [[VV106] The Java 21 Newsletter](https://blog.vvauban.com/blog/vv106-the-java-21-newsletter)
+- [🅰️ Sharing data between Angular components with observables](https://blog.vvauban.com/blog/sharing-data-between-angular-components-with-observables)
+- [🚀 Ronaldo’s AWS Certification Journey: From Inertia to 7x Certified!](https://blog.vvauban.com/blog/ronaldo-s-aws-certification-journey-from-inertia-to-7x-certified)
+- [🤯 Crazy #windows11 #tip : #focus #shake 💻✨](https://blog.vvauban.com/blog/crazy-windows11-tip-focus-shake)
+- [🔐 Session Management in Microservices](https://blog.vvauban.com/blog/session-management-in-microservices)
+- [[VV109] The Java 21 Newsletter](https://blog.vvauban.com/blog/vv109-the-java-21-newsletter)
 <!-- BLOG-POST-LIST:END -->
