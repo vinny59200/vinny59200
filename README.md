@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [APISEC courses: fundamentals and OWASP TOP 10](https://blog.vvauban.com/blog/apisec-courses-fundamentals-and-owasp-top-10)
+- [[VV110] The Java 21 Newsletter](https://blog.vvauban.com/blog/vv110-the-java-21-newsletter)
 - [☕2️⃣4️⃣ Java 24 features](https://blog.vvauban.com/blog/2-4-java-24-features)
 - [🚀 From 19 Hours to 4 Hours: The Power of Smart Scaling!](https://blog.vvauban.com/blog/from-19-hours-to-4-hours-the-power-of-smart-scaling)
 - [Communication Efficace #french](https://blog.vvauban.com/blog/communication-efficace-french)
-- [🅰️ Sharing data between Angular components with observables](https://blog.vvauban.com/blog/sharing-data-between-angular-components-with-observables)
-- [🚀 Ronaldo’s AWS Certification Journey: From Inertia to 7x Certified!](https://blog.vvauban.com/blog/ronaldo-s-aws-certification-journey-from-inertia-to-7x-certified)
 <!-- BLOG-POST-LIST:END -->
