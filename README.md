@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚨 Unrestricted Resource Consumption – API4:2023 🚀](https://blog.vvauban.com/blog/unrestricted-resource-consumption-api4-2023)
+- [A cinch by the inch, hard by the yard. --Josh Long, Java Champion](https://blog.vvauban.com/blog/a-cinch-by-the-inch-hard-by-the-yard-josh-long-java-champion)
+- [🔐 Broken Object Property Level Authorization – API3:2023 🚨](https://blog.vvauban.com/blog/broken-object-property-level-authorization-api3-2023)
 - [[VV111] The Java 21 Newsletter](https://blog.vvauban.com/blog/vv111-the-java-21-newsletter)
 - [🔐 Broken Authentication – API2:2023 🚨](https://blog.vvauban.com/blog/broken-authentication-api2-2023)
-- [🔐 BOLA – The #1 API Security Threat &lpar;API1:2023&rpar;](https://blog.vvauban.com/blog/bola-the-1-api-security-threat-api1-2023)
-- [APISEC courses: fundamentals and OWASP TOP 10](https://blog.vvauban.com/blog/apisec-courses-fundamentals-and-owasp-top-10)
-- [[VV110] The Java 21 Newsletter](https://blog.vvauban.com/blog/vv110-the-java-21-newsletter)
 <!-- BLOG-POST-LIST:END -->
