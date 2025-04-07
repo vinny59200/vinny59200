@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[VV115] The Java 21 Newsletter](https://blog.vvauban.com/blog/vv115-the-java-21-newsletter)
 - [#java better with every release](https://blog.vvauban.com/blog/java-better-with-every-release)
 - [🚀 Java 24 – 7 Game-Changing Features Every Developer Must Know!](https://blog.vvauban.com/blog/java-24-7-game-changing-features-every-developer-must-know)
 - [[VV114] The Java 21 Newsletter](https://blog.vvauban.com/blog/vv114-the-java-21-newsletter)
 - [🚨 Broken Function Level Authorization – API5:2023 🔓](https://blog.vvauban.com/blog/broken-function-level-authorization-api5-2023)
-- [[VV113] The Java 21 Newsletter](https://blog.vvauban.com/blog/vv113-the-java-21-newsletter)
 <!-- BLOG-POST-LIST:END -->
