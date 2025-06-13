@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Interview with the Java Champion Bruno Souza in Lille streets](https://blog.vvauban.com/blog/interview-with-the-java-champion-bruno-souza-in-lille-streets)
+- [🔹 TL;DR: What it Takes to Become a Senior Java Developer 🔹](https://blog.vvauban.com/blog/tl-dr-what-it-takes-to-become-a-senior-java-developer)
+- [[VV120] The Java 21 Newsletter](https://blog.vvauban.com/blog/vv120-the-java-21-newsletter)
 - [🚨 API Security Awareness: Unsafe Consumption of APIs &lpar;API10:2023&rpar; 🚨](https://blog.vvauban.com/blog/api-security-awareness-unsafe-consumption-of-apis-api10-2023)
 - [🔐 API Security Spotlight: API9:2023 - Improper Inventory Management](https://blog.vvauban.com/blog/api-security-spotlight-api9-2023-improper-inventory-management)
-- [🔐 OWASP API8:2023 - Security Misconfiguration: Are You Exposing Your APIs?](https://blog.vvauban.com/blog/owasp-api8-2023-security-misconfiguration-are-you-exposing-your-apis)
-- [🚨 API Security Alert: API7:2023 - Server Side Request Forgery &lpar;SSRF&rpar; 🚨](https://blog.vvauban.com/blog/api-security-alert-api7-2023-server-side-request-forgery-ssrf)
-- [🚨 API6:2023 – Unrestricted Access to Sensitive Business Flows](https://blog.vvauban.com/blog/api6-2023-unrestricted-access-to-sensitive-business-flows)
 <!-- BLOG-POST-LIST:END -->
