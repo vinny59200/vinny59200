@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Interview with the Java Champion Bruno Souza in Lille streets](https://blog.vvauban.com/blog/interview-with-the-java-champion-bruno-souza-in-lille-streets)
-- [🔹 TL;DR: What it Takes to Become a Senior Java Developer 🔹](https://blog.vvauban.com/blog/tl-dr-what-it-takes-to-become-a-senior-java-developer)
-- [[VV120] The Java 21 Newsletter](https://blog.vvauban.com/blog/vv120-the-java-21-newsletter)
-- [🚨 API Security Awareness: Unsafe Consumption of APIs &lpar;API10:2023&rpar; 🚨](https://blog.vvauban.com/blog/api-security-awareness-unsafe-consumption-of-apis-api10-2023)
-- [🔐 API Security Spotlight: API9:2023 - Improper Inventory Management](https://blog.vvauban.com/blog/api-security-spotlight-api9-2023-improper-inventory-management)
+- [🚀 Understanding Traces, Logs &amp; Metrics: The Trio Powering Observability 🛠️](https://blog.vvauban.com/blog/understanding-traces-logs-metrics-the-trio-powering-observability)
+- [🚀 New video alert! #cloudevent](https://blog.vvauban.com/blog/new-video-alert-cloudevent)
+- [🚀 New Podcast Launch: Help Your Team Help You 🎙️](https://blog.vvauban.com/blog/new-podcast-launch-help-your-team-help-you)
+- [✅ Just completed a 3-day deep dive into Stream Processing with Apache Kafka Streams and Confluent ksqlDB &lpar;Version 7.0.0-v1.0.1&rpar;!](https://blog.vvauban.com/blog/just-completed-a-3-day-deep-dive-into-stream-processing-with-apache-kafka)
+- [🚀 New Video Drop! | Kafka Streams + Spring Boot – Clean Architecture, Topology Design &amp; Testing 🎥](https://blog.vvauban.com/blog/new-video-drop-kafka-streams-spring-boot-clean-architecture)
 <!-- BLOG-POST-LIST:END -->
