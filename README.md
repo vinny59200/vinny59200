@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Generate Beautiful API Docs for Spring Boot using Redocusaurus 🦕](https://blog.vvauban.com/blog/generate-beautiful-api-docs-for-spring-boot-using-redocusaurus)
 - [🚀 Understanding Traces, Logs &amp; Metrics: The Trio Powering Observability 🛠️](https://blog.vvauban.com/blog/understanding-traces-logs-metrics-the-trio-powering-observability)
 - [🚀 New video alert! #cloudevent](https://blog.vvauban.com/blog/new-video-alert-cloudevent)
 - [🚀 New Podcast Launch: Help Your Team Help You 🎙️](https://blog.vvauban.com/blog/new-podcast-launch-help-your-team-help-you)
 - [✅ Just completed a 3-day deep dive into Stream Processing with Apache Kafka Streams and Confluent ksqlDB &lpar;Version 7.0.0-v1.0.1&rpar;!](https://blog.vvauban.com/blog/just-completed-a-3-day-deep-dive-into-stream-processing-with-apache-kafka)
-- [🚀 New Video Drop! | Kafka Streams + Spring Boot – Clean Architecture, Topology Design &amp; Testing 🎥](https://blog.vvauban.com/blog/new-video-drop-kafka-streams-spring-boot-clean-architecture)
 <!-- BLOG-POST-LIST:END -->
