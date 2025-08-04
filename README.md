@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Generate Beautiful API Docs for Spring Boot using Redocusaurus 🦕](https://blog.vvauban.com/blog/generate-beautiful-api-docs-for-spring-boot-using-redocusaurus)
-- [🚀 Understanding Traces, Logs &amp; Metrics: The Trio Powering Observability 🛠️](https://blog.vvauban.com/blog/understanding-traces-logs-metrics-the-trio-powering-observability)
-- [🚀 New video alert! #cloudevent](https://blog.vvauban.com/blog/new-video-alert-cloudevent)
-- [🚀 New Podcast Launch: Help Your Team Help You 🎙️](https://blog.vvauban.com/blog/new-podcast-launch-help-your-team-help-you)
-- [✅ Just completed a 3-day deep dive into Stream Processing with Apache Kafka Streams and Confluent ksqlDB &lpar;Version 7.0.0-v1.0.1&rpar;!](https://blog.vvauban.com/blog/just-completed-a-3-day-deep-dive-into-stream-processing-with-apache-kafka)
+- [🚨 New Java video just dropped on YouTube!](https://blog.vvauban.com/blog/new-java-video-just-dropped-on-youtube)
+- [Java roadmap](https://blog.vvauban.com/blog/java-roadmap-ec88adb9-00c7-411e-98e0-4fb9c07b2a0d)
+- [react roadmap](https://blog.vvauban.com/blog/react-roadmap)
+- [POLL: How do you dress for interviews, dear developers... SUIT/ SHIRT/ T-SHIRT/ DEPENDS](https://blog.vvauban.com/blog/poll-how-do-you-dress-for-interviews-dear-developers-suit-shirt)
+- [[VV122] The Java 21 Newsletter: 🔍 Mastering Java&#39;s Optional or/get Methods – Once and for All!](https://blog.vvauban.com/blog/vv122-the-java-21-newsletter-mastering-java-s-optional-or-get-methods)
 <!-- BLOG-POST-LIST:END -->
