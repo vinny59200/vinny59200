@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚨 New Java video just dropped on YouTube!](https://blog.vvauban.com/blog/new-java-video-just-dropped-on-youtube)
-- [Java roadmap](https://blog.vvauban.com/blog/java-roadmap-ec88adb9-00c7-411e-98e0-4fb9c07b2a0d)
-- [react roadmap](https://blog.vvauban.com/blog/react-roadmap)
-- [POLL: How do you dress for interviews, dear developers... SUIT/ SHIRT/ T-SHIRT/ DEPENDS](https://blog.vvauban.com/blog/poll-how-do-you-dress-for-interviews-dear-developers-suit-shirt)
-- [[VV122] The Java 21 Newsletter: 🔍 Mastering Java&#39;s Optional or/get Methods – Once and for All!](https://blog.vvauban.com/blog/vv122-the-java-21-newsletter-mastering-java-s-optional-or-get-methods)
+- [💶 How much do developers really earn in France? 🇫🇷](https://blog.vvauban.com/blog/how-much-do-developers-really-earn-in-france)
+- [[VV124] The Java 21 Newsletter: ☕ Java is always Pass-by-Value](https://blog.vvauban.com/blog/vv124-the-java-21-newsletter-java-is-always-pass-by-value)
+- [What’s the difference between Comparable and Comparator in Java?](https://blog.vvauban.com/blog/what-s-the-difference-between-comparable-and-comparator-in-java)
+- [Can you override a static method in Java?](https://blog.vvauban.com/blog/can-you-override-a-static-method-in-java)
+- [What is the contract between equals&lpar;&rpar; and hashCode&lpar;&rpar; in Java?](https://blog.vvauban.com/blog/what-is-the-contract-between-equals-and-hashcode-in-java)
 <!-- BLOG-POST-LIST:END -->
