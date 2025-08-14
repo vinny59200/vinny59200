@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [💶 How much do developers really earn in France? 🇫🇷](https://blog.vvauban.com/blog/how-much-do-developers-really-earn-in-france)
-- [[VV124] The Java 21 Newsletter: ☕ Java is always Pass-by-Value](https://blog.vvauban.com/blog/vv124-the-java-21-newsletter-java-is-always-pass-by-value)
-- [What’s the difference between Comparable and Comparator in Java?](https://blog.vvauban.com/blog/what-s-the-difference-between-comparable-and-comparator-in-java)
-- [Can you override a static method in Java?](https://blog.vvauban.com/blog/can-you-override-a-static-method-in-java)
-- [What is the contract between equals&lpar;&rpar; and hashCode&lpar;&rpar; in Java?](https://blog.vvauban.com/blog/what-is-the-contract-between-equals-and-hashcode-in-java)
+- [What is the Open/Closed Principle in Java?](https://blog.vvauban.com/blog/what-is-the-open-closed-principle-in-java)
+- [🎉 Thrilled to share: I’ve been named vExpert 2025! 🙌🔵](https://blog.vvauban.com/blog/thrilled-to-share-i-ve-been-named-vexpert-2025)
+- [What is the Factory pattern in Java?](https://blog.vvauban.com/blog/what-is-the-factory-pattern-in-java)
+- [[VV125] The Java 21 Newsletter: What You Must Know About enum](https://blog.vvauban.com/blog/vv125-the-java-21-newsletter-what-you-must-know-about-enum)
+- [The Dokkōdō for Developers: 10 Samurai Principles for Deep Work &amp; Durable Impact](https://blog.vvauban.com/blog/the-dokkodo-for-developers-10-samurai-principles-for-deep-work-durable-impact)
 <!-- BLOG-POST-LIST:END -->
