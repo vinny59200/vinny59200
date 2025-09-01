@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [What is the Open/Closed Principle in Java?](https://blog.vvauban.com/blog/what-is-the-open-closed-principle-in-java)
-- [🎉 Thrilled to share: I’ve been named vExpert 2025! 🙌🔵](https://blog.vvauban.com/blog/thrilled-to-share-i-ve-been-named-vexpert-2025)
-- [What is the Factory pattern in Java?](https://blog.vvauban.com/blog/what-is-the-factory-pattern-in-java)
-- [[VV125] The Java 21 Newsletter: What You Must Know About enum](https://blog.vvauban.com/blog/vv125-the-java-21-newsletter-what-you-must-know-about-enum)
-- [The Dokkōdō for Developers: 10 Samurai Principles for Deep Work &amp; Durable Impact](https://blog.vvauban.com/blog/the-dokkodo-for-developers-10-samurai-principles-for-deep-work-durable-impact)
+- [Be ready to refactor. Don&#39;t allow code to rot and stress you.](https://blog.vvauban.com/blog/be-ready-to-refactor-don-t-allow-code-to-rot-and-stress-you-a5861af1-1764-45ff-bb42-5462945f22d9)
+- [Java Virtual Threads in Java 25](https://blog.vvauban.com/blog/java-virtual-threads-in-java-25)
+- [The Samurai Guide for Modern Developers: 10 Ancient Lessons, Real-World Dev Wins ⚔️💻](https://blog.vvauban.com/blog/the-samurai-guide-for-modern-developers-10-ancient-lessons-real-world-dev)
+- [🚦 Law of Demeter &lpar;LoD&rpar;: “Don’t talk to strangers.”](https://blog.vvauban.com/blog/law-of-demeter-lod-don-t-talk-to-strangers)
+- [Specific classes are easier to find, and specific methods are inherently flexible and easy to reuse.](https://blog.vvauban.com/blog/specific-classes-are-easier-to-find-and-specific-methods-are-inherently)
 <!-- BLOG-POST-LIST:END -->
