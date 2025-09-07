@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java features face-off for 30 years of Java](https://blog.vvauban.com/blog/java-features-face-off-for-30-years-of-java)
-- [Be ready to refactor. Don&#39;t allow code to rot and stress you.](https://blog.vvauban.com/blog/be-ready-to-refactor-don-t-allow-code-to-rot-and-stress-you-a5861af1-1764-45ff-bb42-5462945f22d9)
-- [Java Virtual Threads in Java 25](https://blog.vvauban.com/blog/java-virtual-threads-in-java-25)
-- [The Samurai Guide for Modern Developers: 10 Ancient Lessons, Real-World Dev Wins ⚔️💻](https://blog.vvauban.com/blog/the-samurai-guide-for-modern-developers-10-ancient-lessons-real-world-dev)
-- [🚦 Law of Demeter &lpar;LoD&rpar;: “Don’t talk to strangers.”](https://blog.vvauban.com/blog/law-of-demeter-lod-don-t-talk-to-strangers)
+- [No tests, tough code refactoring! Mostly with unfamiliar business. Tests are crucial!](https://blog.vvauban.com/blog/no-tests-tough-code-refactoring-mostly-with-unfamiliar-business-tests-are)
+- [🚀 AI meets VMware Tanzu – my first vExpert lab!](https://blog.vvauban.com/blog/ai-meets-vmware-tanzu-my-first-vexpert-lab)
+- [DEBUGGING: Being the detective in a crime movie where you are also the murderer.](https://blog.vvauban.com/blog/debugging-being-the-detective-in-a-crime-movie-where-you-are-also-the-murderer)
+- [🔌 Feign-style clients in Java: declare, don’t implement](https://blog.vvauban.com/blog/feign-style-clients-in-java-declare-don-t-implement)
+- [[VV128] The Java Fullstack Newsletter](https://blog.vvauban.com/blog/vv128-the-java-fullstack-newsletter)
 <!-- BLOG-POST-LIST:END -->
