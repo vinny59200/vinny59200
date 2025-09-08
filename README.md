@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [No tests, tough code refactoring! Mostly with unfamiliar business. Tests are crucial!](https://blog.vvauban.com/blog/no-tests-tough-code-refactoring-mostly-with-unfamiliar-business-tests-are)
-- [🚀 AI meets VMware Tanzu – my first vExpert lab!](https://blog.vvauban.com/blog/ai-meets-vmware-tanzu-my-first-vexpert-lab)
-- [DEBUGGING: Being the detective in a crime movie where you are also the murderer.](https://blog.vvauban.com/blog/debugging-being-the-detective-in-a-crime-movie-where-you-are-also-the-murderer)
-- [🔌 Feign-style clients in Java: declare, don’t implement](https://blog.vvauban.com/blog/feign-style-clients-in-java-declare-don-t-implement)
-- [[VV128] The Java Fullstack Newsletter](https://blog.vvauban.com/blog/vv128-the-java-fullstack-newsletter)
+- [Java 25](https://blog.vvauban.com/blog/java-25)
+- [Skin in the game.](https://blog.vvauban.com/blog/skin-in-the-game)
+- [[VV129] The Java Fullstack Newsletter](https://blog.vvauban.com/blog/vv129-the-java-fullstack-newsletter)
+- [💊 Java fix: Avoiding NPE](https://blog.vvauban.com/blog/java-fix-avoiding-npe)
+- [Master SOLID principles — turn complex code into powerful, clean design](https://blog.vvauban.com/blog/master-solid-principles-turn-complex-code-into-powerful-clean-design)
 <!-- BLOG-POST-LIST:END -->
