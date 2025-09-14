@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Java 25](https://blog.vvauban.com/blog/java-25)
-- [Skin in the game.](https://blog.vvauban.com/blog/skin-in-the-game)
-- [[VV129] The Java Fullstack Newsletter](https://blog.vvauban.com/blog/vv129-the-java-fullstack-newsletter)
-- [💊 Java fix: Avoiding NPE](https://blog.vvauban.com/blog/java-fix-avoiding-npe)
-- [Master SOLID principles — turn complex code into powerful, clean design](https://blog.vvauban.com/blog/master-solid-principles-turn-complex-code-into-powerful-clean-design)
+- [🦀 Rust Fridays — starts now!](https://blog.vvauban.com/blog/rust-fridays-starts-now)
+- [💡 What are the real Top 10 programming languages today?](https://blog.vvauban.com/blog/what-are-the-real-top-10-programming-languages-today)
+- [☕ Java from 1.0 → 24: One Version per Slide—Date, Gap, Highlights](https://blog.vvauban.com/blog/java-from-1-0-24-one-version-per-slide-date-gap-highlights)
+- [Java still runs the enterprise &lpar;and your career&rpar; — even with AI](https://blog.vvauban.com/blog/java-still-runs-the-enterprise-and-your-career-even-with-ai)
+- [👃🤢 7 CODE SMELL: spot ’em fast, fix ’em faster](https://blog.vvauban.com/blog/7-code-smell-spot-em-fast-fix-em-faster)
 <!-- BLOG-POST-LIST:END -->
