@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🦀 Rust Fridays — starts now!](https://blog.vvauban.com/blog/rust-fridays-starts-now)
-- [💡 What are the real Top 10 programming languages today?](https://blog.vvauban.com/blog/what-are-the-real-top-10-programming-languages-today)
-- [☕ Java from 1.0 → 24: One Version per Slide—Date, Gap, Highlights](https://blog.vvauban.com/blog/java-from-1-0-24-one-version-per-slide-date-gap-highlights)
-- [Java still runs the enterprise &lpar;and your career&rpar; — even with AI](https://blog.vvauban.com/blog/java-still-runs-the-enterprise-and-your-career-even-with-ai)
-- [👃🤢 7 CODE SMELL: spot ’em fast, fix ’em faster](https://blog.vvauban.com/blog/7-code-smell-spot-em-fast-fix-em-faster)
+- [Make methods small and specific, so the bigger method reads like a story.](https://blog.vvauban.com/blog/make-methods-small-and-specific-so-the-bigger-method-reads-like-a-story)
+- [🚀 New Java 25 carousel is live — JEPs 470–521!](https://blog.vvauban.com/blog/new-java-25-carousel-is-live-jeps-470-521)
+- [🔍 Clarity in code comes from focus.](https://blog.vvauban.com/blog/clarity-in-code-comes-from-focus)
+- [10 timeless software design principles every developer should know.](https://blog.vvauban.com/blog/10-timeless-software-design-principles-every-developer-should-know)
+- [🚀 Want to write code faster? Start by making it readable.](https://blog.vvauban.com/blog/want-to-write-code-faster-start-by-making-it-readable)
 <!-- BLOG-POST-LIST:END -->
