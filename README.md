@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Make methods small and specific, so the bigger method reads like a story.](https://blog.vvauban.com/blog/make-methods-small-and-specific-so-the-bigger-method-reads-like-a-story)
-- [🚀 New Java 25 carousel is live — JEPs 470–521!](https://blog.vvauban.com/blog/new-java-25-carousel-is-live-jeps-470-521)
-- [🔍 Clarity in code comes from focus.](https://blog.vvauban.com/blog/clarity-in-code-comes-from-focus)
-- [10 timeless software design principles every developer should know.](https://blog.vvauban.com/blog/10-timeless-software-design-principles-every-developer-should-know)
-- [🚀 Want to write code faster? Start by making it readable.](https://blog.vvauban.com/blog/want-to-write-code-faster-start-by-making-it-readable)
+- [🪞 Git “mirror” like a pro: duplicate a repo with everything &lpar;branches, tags, refs&rpar; — safely](https://blog.vvauban.com/blog/git-mirror-like-a-pro-duplicate-a-repo-with-everything-branches-tags)
+- [[VV131] The Java Fullstack Newsletter](https://blog.vvauban.com/blog/vv131-the-java-fullstack-newsletter)
+- [🦀 Rust Fridays — Episode 2/10 is live!](https://blog.vvauban.com/blog/rust-fridays-episode-2-10-is-live)
+- [🗳️ [POLL] What is your typing skill? 〈40WPM/ 60WPM/ 80WPM/ 〉80WPM](https://blog.vvauban.com/blog/poll-what-is-your-typing-skill-40wpm-60wpm-80wpm-80wpm)
+- [What is ADT? Algebraic Data Types in Java, Explained 🔎](https://blog.vvauban.com/blog/what-is-adt-algebraic-data-types-in-java-explained)
 <!-- BLOG-POST-LIST:END -->
