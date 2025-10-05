@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Rust Quiz 3](https://blog.vvauban.com/blog/rust-quiz-3)
-- [🔸 FIELDS, ATTRIBUTES, ARGUMENTS, PARAMETERS, COMPONENTS — WHAT’S THE DIFFERENCE? 🤔](https://blog.vvauban.com/blog/fields-attributes-arguments-parameters-components-what-s-the)
-- [💥 Server-Side Spring Testing: What Should You Use?](https://blog.vvauban.com/blog/server-side-spring-testing-what-should-you-use)
-- [A long descriptive name is better than a short enigmatic name.](https://blog.vvauban.com/blog/a-long-descriptive-name-is-better-than-a-short-enigmatic-name)
-- [HEADS-UP FOR JDK 25: null-checks in inner class constructors 👇](https://blog.vvauban.com/blog/heads-up-for-jdk-25-null-checks-in-inner-class-constructors)
+- [[VV133] The Java Fullstack Newsletter](https://blog.vvauban.com/blog/vv133-the-java-fullstack-newsletter)
+- [🔸 RUST CODE INTERVIEW — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀](https://blog.vvauban.com/blog/rust-code-interview-test-yourself-3-questions-in-the-carousel)
+- [🦸‍♂️HEROING IN DEV TEAMS: WHY “LAST-MINUTE SAVIORS” HURT, AND WHAT TO DO INSTEAD](https://blog.vvauban.com/blog/heroing-in-dev-teams-why-last-minute-saviors-hurt-and-what-to-do-instead)
+- [🔸 QUARKUS VS SPRING BOOT: HTTP ENDPOINT ANNOTATIONS, SIDE-BY-SIDE 🧭](https://blog.vvauban.com/blog/quarkus-vs-spring-boot-http-endpoint-annotations-side-by-side)
+- [🎬 COUNTDOWNLATCH IN JAVA — A QUICK, PRACTICAL REMINDER](https://blog.vvauban.com/blog/countdownlatch-in-java-a-quick-practical-reminder)
 <!-- BLOG-POST-LIST:END -->
