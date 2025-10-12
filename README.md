@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[VV133] The Java Fullstack Newsletter](https://blog.vvauban.com/blog/vv133-the-java-fullstack-newsletter)
-- [🔸 RUST CODE INTERVIEW — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀](https://blog.vvauban.com/blog/rust-code-interview-test-yourself-3-questions-in-the-carousel)
-- [🦸‍♂️HEROING IN DEV TEAMS: WHY “LAST-MINUTE SAVIORS” HURT, AND WHAT TO DO INSTEAD](https://blog.vvauban.com/blog/heroing-in-dev-teams-why-last-minute-saviors-hurt-and-what-to-do-instead)
-- [🔸 QUARKUS VS SPRING BOOT: HTTP ENDPOINT ANNOTATIONS, SIDE-BY-SIDE 🧭](https://blog.vvauban.com/blog/quarkus-vs-spring-boot-http-endpoint-annotations-side-by-side)
-- [🎬 COUNTDOWNLATCH IN JAVA — A QUICK, PRACTICAL REMINDER](https://blog.vvauban.com/blog/countdownlatch-in-java-a-quick-practical-reminder)
+- [[2]🍃🎓 SPRING CERTIFICATION — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀](https://blog.vvauban.com/blog/2-spring-certification-test-yourself-3-questions-in-the-carousel)
+- [🚀🗄️ DOING JPA IN QUARKUS WITH PANACHE &lpar;REPOSITORY PATTERN&rpar;](https://blog.vvauban.com/blog/doing-jpa-in-quarkus-with-panache-repository-pattern)
+- [🌙💻 AT NIGHTCLAZZ LILLE: OPEN-SOURCE ENERGY IS BACK!](https://blog.vvauban.com/blog/at-nightclazz-lille-open-source-energy-is-back)
+- [🚦🧭 CQRS IN 60 SECONDS](https://blog.vvauban.com/blog/cqrs-in-60-seconds)
+- [⏰💼 996 Work Week: Performance… or Pretend?](https://blog.vvauban.com/blog/996-work-week-performance-or-pretend)
 <!-- BLOG-POST-LIST:END -->
