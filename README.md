@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[2]🍃🎓 SPRING CERTIFICATION — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀](https://blog.vvauban.com/blog/2-spring-certification-test-yourself-3-questions-in-the-carousel)
-- [🚀🗄️ DOING JPA IN QUARKUS WITH PANACHE &lpar;REPOSITORY PATTERN&rpar;](https://blog.vvauban.com/blog/doing-jpa-in-quarkus-with-panache-repository-pattern)
-- [🌙💻 AT NIGHTCLAZZ LILLE: OPEN-SOURCE ENERGY IS BACK!](https://blog.vvauban.com/blog/at-nightclazz-lille-open-source-energy-is-back)
-- [🚦🧭 CQRS IN 60 SECONDS](https://blog.vvauban.com/blog/cqrs-in-60-seconds)
-- [⏰💼 996 Work Week: Performance… or Pretend?](https://blog.vvauban.com/blog/996-work-week-performance-or-pretend)
+- [🧪🔍 CHARACTERIZATION TESTS: SAFELY CHANGING LEGACY CODE](https://blog.vvauban.com/blog/characterization-tests-safely-changing-legacy-code)
+- [✂️🧩 DIVERGENT CHANGE: WHEN ONE CLASS HAS TOO MANY REASONS TO CHANGE](https://blog.vvauban.com/blog/divergent-change-when-one-class-has-too-many-reasons-to-change)
+- [[VV134] The Java Fullstack Newsletter](https://blog.vvauban.com/blog/vv134-the-java-fullstack-newsletter)
+- [🦀 RUST CODE INTERVIEW — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀](https://blog.vvauban.com/blog/rust-code-interview-test-yourself-3-questions-in-the-carousel-a127dad1-e47a-4d65-9e6b-dfb9a68688f6)
+- [🧠💻 THREE ACTIONS FOR DEV MENTAL HEALTH — WORLD MENTAL HEALTH DAY &lpar;10 OCTOBER&rpar;](https://blog.vvauban.com/blog/three-actions-for-dev-mental-health-world-mental-health-day-10-october)
 <!-- BLOG-POST-LIST:END -->
