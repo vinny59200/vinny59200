@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧪🔍 CHARACTERIZATION TESTS: SAFELY CHANGING LEGACY CODE](https://blog.vvauban.com/blog/characterization-tests-safely-changing-legacy-code)
-- [✂️🧩 DIVERGENT CHANGE: WHEN ONE CLASS HAS TOO MANY REASONS TO CHANGE](https://blog.vvauban.com/blog/divergent-change-when-one-class-has-too-many-reasons-to-change)
-- [[VV134] The Java Fullstack Newsletter](https://blog.vvauban.com/blog/vv134-the-java-fullstack-newsletter)
-- [🦀 RUST CODE INTERVIEW — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀](https://blog.vvauban.com/blog/rust-code-interview-test-yourself-3-questions-in-the-carousel-a127dad1-e47a-4d65-9e6b-dfb9a68688f6)
-- [🧠💻 THREE ACTIONS FOR DEV MENTAL HEALTH — WORLD MENTAL HEALTH DAY &lpar;10 OCTOBER&rpar;](https://blog.vvauban.com/blog/three-actions-for-dev-mental-health-world-mental-health-day-10-october)
+- [☕🤝🐍 JAVA &amp; PYTHON in AI: NOT ENMITY, BUT FRATERNITY 🤖](https://blog.vvauban.com/blog/java-python-in-ai-not-enmity-but-fraternity)
+- [🤖🕶️ SHADOW AI: WHAT’S HAPPENING BEHIND YOUR FIREWALL](https://blog.vvauban.com/blog/shadow-ai-what-s-happening-behind-your-firewall)
+- [[VV135] The Java Fullstack Newsletter](https://blog.vvauban.com/blog/vv135-the-java-fullstack-newsletter)
+- [🧩🔒 #fridayGame SEALED CLASSES CROSSWORD FOR JAVA](https://blog.vvauban.com/blog/fridaygame-sealed-classes-crossword-for-java)
+- [⚡️🧪 REACTIVE PROGRAMMING IN QUARKUS VS SPRING &lpar;WHAT CHANGES, WHAT DOESN’T&rpar;](https://blog.vvauban.com/blog/reactive-programming-in-quarkus-vs-spring-what-changes-what-doesn-t)
 <!-- BLOG-POST-LIST:END -->
