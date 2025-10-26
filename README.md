@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [☕🤝🐍 JAVA &amp; PYTHON in AI: NOT ENMITY, BUT FRATERNITY 🤖](https://blog.vvauban.com/blog/java-python-in-ai-not-enmity-but-fraternity)
-- [🤖🕶️ SHADOW AI: WHAT’S HAPPENING BEHIND YOUR FIREWALL](https://blog.vvauban.com/blog/shadow-ai-what-s-happening-behind-your-firewall)
-- [[VV135] The Java Fullstack Newsletter](https://blog.vvauban.com/blog/vv135-the-java-fullstack-newsletter)
-- [🧩🔒 #fridayGame SEALED CLASSES CROSSWORD FOR JAVA](https://blog.vvauban.com/blog/fridaygame-sealed-classes-crossword-for-java)
-- [⚡️🧪 REACTIVE PROGRAMMING IN QUARKUS VS SPRING &lpar;WHAT CHANGES, WHAT DOESN’T&rpar;](https://blog.vvauban.com/blog/reactive-programming-in-quarkus-vs-spring-what-changes-what-doesn-t)
+- [✨☕ JAVA GENERICS — PRACTICAL RULES YOU’LL ACTUALLY USE](https://blog.vvauban.com/blog/java-generics-practical-rules-you-ll-actually-use)
+- [🚀 Crack coding interview: Word frequencies](https://blog.vvauban.com/blog/crack-coding-interview-word-frequencies)
+- [🍃🎓 SPRING CERTIFICATION — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀 episod4](https://blog.vvauban.com/blog/spring-certification-test-yourself-3-questions-in-the-carousel-episod4)
+- [💻📚 SIMPLICITY FIRST: WRITE CODE HUMANS CAN READ](https://blog.vvauban.com/blog/simplicity-first-write-code-humans-can-read)
+- [🚦📡 LEVELS OF RESTFUL API &lpar;RICHARDSON MATURITY MODEL&rpar;](https://blog.vvauban.com/blog/levels-of-restful-api-richardson-maturity-model)
 <!-- BLOG-POST-LIST:END -->
