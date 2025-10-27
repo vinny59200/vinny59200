@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JAVA GARBAGE COLLECTORS — THE OPTIONS, IN PLAIN ENGLISH](https://blog.vvauban.com/blog/java-garbage-collectors-the-options-in-plain-english)
+- [💡🧩 Know your Java classes about Handling Date, Time Values](https://blog.vvauban.com/blog/know-your-java-classes-about-handling-date-time-values)
+- [🧩📦 DATA CLUMPS: SPOT IT, FIX IT](https://blog.vvauban.com/blog/data-clumps-spot-it-fix-it)
 - [✨☕ JAVA GENERICS — PRACTICAL RULES YOU’LL ACTUALLY USE](https://blog.vvauban.com/blog/java-generics-practical-rules-you-ll-actually-use)
 - [🚀 Crack coding interview: Word frequencies](https://blog.vvauban.com/blog/crack-coding-interview-word-frequencies)
-- [🍃🎓 SPRING CERTIFICATION — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀 episod4](https://blog.vvauban.com/blog/spring-certification-test-yourself-3-questions-in-the-carousel-episod4)
-- [💻📚 SIMPLICITY FIRST: WRITE CODE HUMANS CAN READ](https://blog.vvauban.com/blog/simplicity-first-write-code-humans-can-read)
-- [🚦📡 LEVELS OF RESTFUL API &lpar;RICHARDSON MATURITY MODEL&rpar;](https://blog.vvauban.com/blog/levels-of-restful-api-richardson-maturity-model)
 <!-- BLOG-POST-LIST:END -->
