@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[POLL] What’s the main reason you contribute to Open Source? REP/ LEARN/ IMPACT/ DEPENDS](https://blog.vvauban.com/blog/poll-what-s-the-main-reason-you-contribute-to-open-source-rep-learn)
 - [JAVA GARBAGE COLLECTORS — THE OPTIONS, IN PLAIN ENGLISH](https://blog.vvauban.com/blog/java-garbage-collectors-the-options-in-plain-english)
 - [💡🧩 Know your Java classes about Handling Date, Time Values](https://blog.vvauban.com/blog/know-your-java-classes-about-handling-date-time-values)
 - [🧩📦 DATA CLUMPS: SPOT IT, FIX IT](https://blog.vvauban.com/blog/data-clumps-spot-it-fix-it)
 - [✨☕ JAVA GENERICS — PRACTICAL RULES YOU’LL ACTUALLY USE](https://blog.vvauban.com/blog/java-generics-practical-rules-you-ll-actually-use)
-- [🚀 Crack coding interview: Word frequencies](https://blog.vvauban.com/blog/crack-coding-interview-word-frequencies)
 <!-- BLOG-POST-LIST:END -->
