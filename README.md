@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[POLL] What’s the main reason you contribute to Open Source? REP/ LEARN/ IMPACT/ DEPENDS](https://blog.vvauban.com/blog/poll-what-s-the-main-reason-you-contribute-to-open-source-rep-learn)
-- [JAVA GARBAGE COLLECTORS — THE OPTIONS, IN PLAIN ENGLISH](https://blog.vvauban.com/blog/java-garbage-collectors-the-options-in-plain-english)
-- [💡🧩 Know your Java classes about Handling Date, Time Values](https://blog.vvauban.com/blog/know-your-java-classes-about-handling-date-time-values)
-- [🧩📦 DATA CLUMPS: SPOT IT, FIX IT](https://blog.vvauban.com/blog/data-clumps-spot-it-fix-it)
-- [✨☕ JAVA GENERICS — PRACTICAL RULES YOU’LL ACTUALLY USE](https://blog.vvauban.com/blog/java-generics-practical-rules-you-ll-actually-use)
+- [🛰️📡 HTTP STATUS CODES — THE MAP OF YOUR API RESPONSES](https://blog.vvauban.com/blog/http-status-codes-the-map-of-your-api-responses)
+- [🚀🩺 KUBERNETES STARTUP PROBE: BOOT SAFELY, AVOID CRASHLOOPS](https://blog.vvauban.com/blog/kubernetes-startup-probe-boot-safely-avoid-crashloops)
+- [🚀 New Book Release — Spring Certification &lpar;Theory-First Guide&rpar; + Launch Coupon](https://blog.vvauban.com/blog/new-book-release-spring-certification-theory-first-guide-launch-coupon)
+- [💡🧩 Know your Java classes about Exceptions](https://blog.vvauban.com/blog/know-your-java-classes-about-exceptions)
+- [🚀🧠 INTERVIEW PREP: TURN YOUR CV INTO REAL STORIES](https://blog.vvauban.com/blog/interview-prep-turn-your-cv-into-real-stories)
 <!-- BLOG-POST-LIST:END -->
