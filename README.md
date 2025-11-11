@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🛰️📡 HTTP STATUS CODES — THE MAP OF YOUR API RESPONSES](https://blog.vvauban.com/blog/http-status-codes-the-map-of-your-api-responses)
-- [🚀🩺 KUBERNETES STARTUP PROBE: BOOT SAFELY, AVOID CRASHLOOPS](https://blog.vvauban.com/blog/kubernetes-startup-probe-boot-safely-avoid-crashloops)
-- [🚀 New Book Release — Spring Certification &lpar;Theory-First Guide&rpar; + Launch Coupon](https://blog.vvauban.com/blog/new-book-release-spring-certification-theory-first-guide-launch-coupon)
-- [💡🧩 Know your Java classes about Exceptions](https://blog.vvauban.com/blog/know-your-java-classes-about-exceptions)
-- [🚀🧠 INTERVIEW PREP: TURN YOUR CV INTO REAL STORIES](https://blog.vvauban.com/blog/interview-prep-turn-your-cv-into-real-stories)
+- [Deliberate REPUTATION Manifesto](https://blog.vvauban.com/blog/deliberate-reputation-manifesto)
+- [🚀🧰 SPRING BOOT JSON SCHEMA VALIDATION — NETWORKNT IN ACTION](https://blog.vvauban.com/blog/spring-boot-json-schema-validation-networknt-in-action)
+- [🧭🧩 REFER TO OBJECTS BY THEIR INTERFACES](https://blog.vvauban.com/blog/refer-to-objects-by-their-interfaces)
+- [🚀 Crack coding interview: Invert a Binary Tree](https://blog.vvauban.com/blog/crack-coding-interview-invert-a-binary-tree)
+- [🍃🎓 SPRING CERTIFICATION — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀](https://blog.vvauban.com/blog/spring-certification-test-yourself-3-questions-in-the-carousel-11784608-1226-4645-97e9-aea18dc8aaa3)
 <!-- BLOG-POST-LIST:END -->
