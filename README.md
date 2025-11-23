@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Deliberate REPUTATION Manifesto](https://blog.vvauban.com/blog/deliberate-reputation-manifesto)
-- [🚀🧰 SPRING BOOT JSON SCHEMA VALIDATION — NETWORKNT IN ACTION](https://blog.vvauban.com/blog/spring-boot-json-schema-validation-networknt-in-action)
-- [🧭🧩 REFER TO OBJECTS BY THEIR INTERFACES](https://blog.vvauban.com/blog/refer-to-objects-by-their-interfaces)
-- [🚀 Crack coding interview: Invert a Binary Tree](https://blog.vvauban.com/blog/crack-coding-interview-invert-a-binary-tree)
-- [🍃🎓 SPRING CERTIFICATION — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀](https://blog.vvauban.com/blog/spring-certification-test-yourself-3-questions-in-the-carousel-11784608-1226-4645-97e9-aea18dc8aaa3)
+- [☕ JAVA MICROSERVICES IN 2025](https://blog.vvauban.com/blog/java-microservices-in-2025)
+- [🧩🚀 SPRING BOOT 4 MODULARIZATION EXPLAINED &lpar;WITHOUT CONFUSING JPMS&rpar;](https://blog.vvauban.com/blog/spring-boot-4-modularization-explained-without-confusing-jpms)
+- [🛰️📦 MESSAGE CONVERTERS &amp; @RESPONSEBODY IN SPRING MVC](https://blog.vvauban.com/blog/message-converters-responsebody-in-spring-mvc)
+- [☕🎓 JAVA 21 OCP — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀 episod8](https://blog.vvauban.com/blog/java-21-ocp-test-yourself-3-questions-in-the-carousel-episod8)
+- [AI can rapidly produce 70% of a solution, but that final 30% – edge cases, security, production integration – remains as challenging as ever.](https://blog.vvauban.com/blog/ai-can-rapidly-produce-70-of-a-solution-but-that-final-30-edge-cases)
 <!-- BLOG-POST-LIST:END -->
