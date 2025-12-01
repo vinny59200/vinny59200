@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Java is a blue-collar language. It’s for building real applications. — James Gosling](https://blog.vvauban.com/blog/java-is-a-blue-collar-language-it-s-for-building-real-applications-james)
+- [📊POLL: What’s the BEST perk of an online tech conference? NO_TRAVEL/ CHEAP/ REPLAY/ DEPENDS](https://blog.vvauban.com/blog/poll-what-s-the-best-perk-of-an-online-tech-conference-no_travel-cheap)
 - [☕ JAVA MICROSERVICES IN 2025](https://blog.vvauban.com/blog/java-microservices-in-2025)
 - [🧩🚀 SPRING BOOT 4 MODULARIZATION EXPLAINED &lpar;WITHOUT CONFUSING JPMS&rpar;](https://blog.vvauban.com/blog/spring-boot-4-modularization-explained-without-confusing-jpms)
 - [🛰️📦 MESSAGE CONVERTERS &amp; @RESPONSEBODY IN SPRING MVC](https://blog.vvauban.com/blog/message-converters-responsebody-in-spring-mvc)
-- [☕🎓 JAVA 21 OCP — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀 episod8](https://blog.vvauban.com/blog/java-21-ocp-test-yourself-3-questions-in-the-carousel-episod8)
-- [AI can rapidly produce 70% of a solution, but that final 30% – edge cases, security, production integration – remains as challenging as ever.](https://blog.vvauban.com/blog/ai-can-rapidly-produce-70-of-a-solution-but-that-final-30-edge-cases)
 <!-- BLOG-POST-LIST:END -->
