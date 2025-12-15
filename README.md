@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🍃🎓 SPRING CERTIFICATION — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀](https://blog.vvauban.com/blog/spring-certification-test-yourself-3-questions-in-the-carousel-f9340d46-a8fa-459e-bfc4-6dc2d8203784)
+- [🔌🔁 API EVOLUTION: BREAKING VS BACKWARD-COMPATIBLE CHANGES](https://blog.vvauban.com/blog/api-evolution-breaking-vs-backward-compatible-changes)
+- [🧓🧬 DEALING WITH LEGACY CODE WITHOUT LOSING YOUR MIND](https://blog.vvauban.com/blog/dealing-with-legacy-code-without-losing-your-mind)
 - [Java is a blue-collar language. It’s for building real applications. — James Gosling](https://blog.vvauban.com/blog/java-is-a-blue-collar-language-it-s-for-building-real-applications-james)
 - [📊POLL: What’s the BEST perk of an online tech conference? NO_TRAVEL/ CHEAP/ REPLAY/ DEPENDS](https://blog.vvauban.com/blog/poll-what-s-the-best-perk-of-an-online-tech-conference-no_travel-cheap)
-- [☕ JAVA MICROSERVICES IN 2025](https://blog.vvauban.com/blog/java-microservices-in-2025)
-- [🧩🚀 SPRING BOOT 4 MODULARIZATION EXPLAINED &lpar;WITHOUT CONFUSING JPMS&rpar;](https://blog.vvauban.com/blog/spring-boot-4-modularization-explained-without-confusing-jpms)
-- [🛰️📦 MESSAGE CONVERTERS &amp; @RESPONSEBODY IN SPRING MVC](https://blog.vvauban.com/blog/message-converters-responsebody-in-spring-mvc)
 <!-- BLOG-POST-LIST:END -->
