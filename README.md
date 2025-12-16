@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🍃🎓 SPRING CERTIFICATION — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀](https://blog.vvauban.com/blog/spring-certification-test-yourself-3-questions-in-the-carousel-f9340d46-a8fa-459e-bfc4-6dc2d8203784)
-- [🔌🔁 API EVOLUTION: BREAKING VS BACKWARD-COMPATIBLE CHANGES](https://blog.vvauban.com/blog/api-evolution-breaking-vs-backward-compatible-changes)
-- [🧓🧬 DEALING WITH LEGACY CODE WITHOUT LOSING YOUR MIND](https://blog.vvauban.com/blog/dealing-with-legacy-code-without-losing-your-mind)
-- [Java is a blue-collar language. It’s for building real applications. — James Gosling](https://blog.vvauban.com/blog/java-is-a-blue-collar-language-it-s-for-building-real-applications-james)
-- [📊POLL: What’s the BEST perk of an online tech conference? NO_TRAVEL/ CHEAP/ REPLAY/ DEPENDS](https://blog.vvauban.com/blog/poll-what-s-the-best-perk-of-an-online-tech-conference-no_travel-cheap)
+- [📊POLL: As a Java developer, what kind of manager do you feel helps you grow the most? TECH/ NON_TECH/ DEPENDS/ NO PREF](https://blog.vvauban.com/blog/poll-as-a-java-developer-what-kind-of-manager-do-you-feel-helps-you-grow)
+- [⚙️🛡️ BUILDING RESILIENT APIS: DESIGN PATTERNS YOU SHOULD MASTER](https://blog.vvauban.com/blog/building-resilient-apis-design-patterns-you-should-master)
+- [💾⚙️ SPRING @TRANSACTIONAL PROPAGATION — WHAT REALLY HAPPENS?](https://blog.vvauban.com/blog/spring-transactional-propagation-what-really-happens)
+- [🧑‍💻📏 HOW TO EVALUATE A DEVELOPER &lpar;WITHOUT COUNTING LINES OF CODE&rpar;](https://blog.vvauban.com/blog/how-to-evaluate-a-developer-without-counting-lines-of-code)
+- [🚦🧱 CHAIN OF RESPONSIBILITY PATTERN EXPLAINED](https://blog.vvauban.com/blog/chain-of-responsibility-pattern-explained)
 <!-- BLOG-POST-LIST:END -->
