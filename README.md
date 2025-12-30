@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📊POLL: As a Java developer, what kind of manager do you feel helps you grow the most? TECH/ NON_TECH/ DEPENDS/ NO PREF](https://blog.vvauban.com/blog/poll-as-a-java-developer-what-kind-of-manager-do-you-feel-helps-you-grow)
-- [⚙️🛡️ BUILDING RESILIENT APIS: DESIGN PATTERNS YOU SHOULD MASTER](https://blog.vvauban.com/blog/building-resilient-apis-design-patterns-you-should-master)
-- [💾⚙️ SPRING @TRANSACTIONAL PROPAGATION — WHAT REALLY HAPPENS?](https://blog.vvauban.com/blog/spring-transactional-propagation-what-really-happens)
-- [🧑‍💻📏 HOW TO EVALUATE A DEVELOPER &lpar;WITHOUT COUNTING LINES OF CODE&rpar;](https://blog.vvauban.com/blog/how-to-evaluate-a-developer-without-counting-lines-of-code)
-- [🚦🧱 CHAIN OF RESPONSIBILITY PATTERN EXPLAINED](https://blog.vvauban.com/blog/chain-of-responsibility-pattern-explained)
+- [🛠️🧠 REFACTORING: CLEANER CODE WITHOUT CHANGING BEHAVIOR](https://blog.vvauban.com/blog/refactoring-cleaner-code-without-changing-behavior)
+- [🪄🧠 JAVA “MAGIC” TYPES: THE ONES YOU CAN’T NAME](https://blog.vvauban.com/blog/java-magic-types-the-ones-you-can-t-name)
+- [🍃🎓 SPRING CERTIFICATION — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀 episod13](https://blog.vvauban.com/blog/spring-certification-test-yourself-3-questions-in-the-carousel-episod13)
+- [🧩🌐 JAKARTA FACES &lpar;JSF&rpar;: SERVER-SIDE UI FOR JAVA WEB APPS](https://blog.vvauban.com/blog/jakarta-faces-jsf-server-side-ui-for-java-web-apps)
+- [🧠💾 REACT: A PRACTICAL useLocalStorage HOOK](https://blog.vvauban.com/blog/react-a-practical-uselocalstorage-hook)
 <!-- BLOG-POST-LIST:END -->
