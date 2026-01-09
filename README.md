@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🛠️🧠 REFACTORING: CLEANER CODE WITHOUT CHANGING BEHAVIOR](https://blog.vvauban.com/blog/refactoring-cleaner-code-without-changing-behavior)
-- [🪄🧠 JAVA “MAGIC” TYPES: THE ONES YOU CAN’T NAME](https://blog.vvauban.com/blog/java-magic-types-the-ones-you-can-t-name)
-- [🍃🎓 SPRING CERTIFICATION — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀 episod13](https://blog.vvauban.com/blog/spring-certification-test-yourself-3-questions-in-the-carousel-episod13)
-- [🧩🌐 JAKARTA FACES &lpar;JSF&rpar;: SERVER-SIDE UI FOR JAVA WEB APPS](https://blog.vvauban.com/blog/jakarta-faces-jsf-server-side-ui-for-java-web-apps)
-- [🧠💾 REACT: A PRACTICAL useLocalStorage HOOK](https://blog.vvauban.com/blog/react-a-practical-uselocalstorage-hook)
+- [🔥⚙️ HOTSPOT JVM: HOW JAVA GETS FAST WITHOUT MAKING YOU WRITE C++](https://blog.vvauban.com/blog/hotspot-jvm-how-java-gets-fast-without-making-you-write-c)
+- [🧠🧑‍💻 PROGRAMMER CONSENSUS BIAS: when your team agrees… and users still struggle](https://blog.vvauban.com/blog/programmer-consensus-bias-when-your-team-agrees-and-users-still-struggle)
+- [🧱⏳ IS JAVA THE NEW COBOL? &lpar;AND WHY THAT’S NOT AN INSULT&rpar;](https://blog.vvauban.com/blog/is-java-the-new-cobol-and-why-that-s-not-an-insult)
+- [🍃🎓 SPRING CERTIFICATION — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀 episod14](https://blog.vvauban.com/blog/spring-certification-test-yourself-3-questions-in-the-carousel-episod14)
+- [⏱️📅 EJB TIMER QUIZ: CAN YOU READ THIS @SCHEDULE?](https://blog.vvauban.com/blog/ejb-timer-quiz-can-you-read-this-schedule)
 <!-- BLOG-POST-LIST:END -->
