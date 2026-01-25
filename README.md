@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔥⚙️ HOTSPOT JVM: HOW JAVA GETS FAST WITHOUT MAKING YOU WRITE C++](https://blog.vvauban.com/blog/hotspot-jvm-how-java-gets-fast-without-making-you-write-c)
-- [🧠🧑‍💻 PROGRAMMER CONSENSUS BIAS: when your team agrees… and users still struggle](https://blog.vvauban.com/blog/programmer-consensus-bias-when-your-team-agrees-and-users-still-struggle)
-- [🧱⏳ IS JAVA THE NEW COBOL? &lpar;AND WHY THAT’S NOT AN INSULT&rpar;](https://blog.vvauban.com/blog/is-java-the-new-cobol-and-why-that-s-not-an-insult)
-- [🍃🎓 SPRING CERTIFICATION — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀 episod14](https://blog.vvauban.com/blog/spring-certification-test-yourself-3-questions-in-the-carousel-episod14)
-- [⏱️📅 EJB TIMER QUIZ: CAN YOU READ THIS @SCHEDULE?](https://blog.vvauban.com/blog/ejb-timer-quiz-can-you-read-this-schedule)
+- [🛜🪝 USEONLINESTATUS HOOK &lpar;REACT&rpar;: DETECT ONLINE/OFFLINE &lpar;BROWSER EVENTS&rpar;](https://blog.vvauban.com/blog/useonlinestatus-hook-react-detect-online-offline-browser-events)
+- [🚀🎤 JAVA CHAMPION CONF — DAY 1 RECAP &lpar;Talks that hit hard!&rpar;](https://blog.vvauban.com/blog/java-champion-conf-day-1-recap-talks-that-hit-hard)
+- [🧩🧾 JSON-P &amp; JSON-B: READ/WRITE JSON IN JAVA](https://blog.vvauban.com/blog/json-p-json-b-read-write-json-in-java)
+- [🗺️⚡ HIBERNATE @ENTITYGRAPH: FETCH WHAT YOU NEED &lpar;WITHOUT N+1 SURPRISES&rpar;](https://blog.vvauban.com/blog/hibernate-entitygraph-fetch-what-you-need-without-n-1-surprises)
+- [🍃🎓 SPRING CERTIFICATION — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀 episod17](https://blog.vvauban.com/blog/spring-certification-test-yourself-3-questions-in-the-carousel-episod17)
 <!-- BLOG-POST-LIST:END -->
