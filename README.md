@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🛜🪝 USEONLINESTATUS HOOK &lpar;REACT&rpar;: DETECT ONLINE/OFFLINE &lpar;BROWSER EVENTS&rpar;](https://blog.vvauban.com/blog/useonlinestatus-hook-react-detect-online-offline-browser-events)
-- [🚀🎤 JAVA CHAMPION CONF — DAY 1 RECAP &lpar;Talks that hit hard!&rpar;](https://blog.vvauban.com/blog/java-champion-conf-day-1-recap-talks-that-hit-hard)
-- [🧩🧾 JSON-P &amp; JSON-B: READ/WRITE JSON IN JAVA](https://blog.vvauban.com/blog/json-p-json-b-read-write-json-in-java)
-- [🗺️⚡ HIBERNATE @ENTITYGRAPH: FETCH WHAT YOU NEED &lpar;WITHOUT N+1 SURPRISES&rpar;](https://blog.vvauban.com/blog/hibernate-entitygraph-fetch-what-you-need-without-n-1-surprises)
-- [🍃🎓 SPRING CERTIFICATION — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀 episod17](https://blog.vvauban.com/blog/spring-certification-test-yourself-3-questions-in-the-carousel-episod17)
+- [⚡🏆 JAVA CHAMPION CONF — DAY 3 RECAP &lpar;AI, ARCHI &amp; MODERNIZATION 🔥&rpar;](https://blog.vvauban.com/blog/java-champion-conf-day-3-recap-ai-archi-modernization)
+- [☕🎓 JAVA 21 OCP — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀 episod18](https://blog.vvauban.com/blog/java-21-ocp-test-yourself-3-questions-in-the-carousel-episod18)
+- [🧹🧭 THE BOY SCOUT RULE FOR CLEANER CODE &lpar;UNCLE BOB&rpar;](https://blog.vvauban.com/blog/the-boy-scout-rule-for-cleaner-code-uncle-bob)
+- [What’s your take on DDD &lpar;Domain-Driven Design&rpar;? MUST_HAVE/ PRICEY/ OVERKILL/ DEPENDS](https://blog.vvauban.com/blog/what-s-your-take-on-ddd-domain-driven-design-must_have-pricey-overkill)
+- [☕Java: to which programnming language generation does it belong?](https://blog.vvauban.com/blog/java-to-which-programnming-language-generation-does-it-belong)
 <!-- BLOG-POST-LIST:END -->
