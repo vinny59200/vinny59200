@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚡🏆 JAVA CHAMPION CONF — DAY 3 RECAP &lpar;AI, ARCHI &amp; MODERNIZATION 🔥&rpar;](https://blog.vvauban.com/blog/java-champion-conf-day-3-recap-ai-archi-modernization)
-- [☕🎓 JAVA 21 OCP — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀 episod18](https://blog.vvauban.com/blog/java-21-ocp-test-yourself-3-questions-in-the-carousel-episod18)
-- [🧹🧭 THE BOY SCOUT RULE FOR CLEANER CODE &lpar;UNCLE BOB&rpar;](https://blog.vvauban.com/blog/the-boy-scout-rule-for-cleaner-code-uncle-bob)
-- [What’s your take on DDD &lpar;Domain-Driven Design&rpar;? MUST_HAVE/ PRICEY/ OVERKILL/ DEPENDS](https://blog.vvauban.com/blog/what-s-your-take-on-ddd-domain-driven-design-must_have-pricey-overkill)
-- [☕Java: to which programnming language generation does it belong?](https://blog.vvauban.com/blog/java-to-which-programnming-language-generation-does-it-belong)
+- [📊 POLL: Do you use git blame? DAILY/ SOMETIMES/ NEVER/ DEPENDS](https://blog.vvauban.com/blog/poll-do-you-use-git-blame-daily-sometimes-never-depends)
+- [💾📚 JAVAALMANAC.IO: THE JAVA VERSION ALMANAC &lpar;YOUR “WHAT CHANGED?” COMPASS&rpar;](https://blog.vvauban.com/blog/javaalmanac-io-the-java-version-almanac-your-what-changed-compass)
+- [🧩🚨 Spring Boot API error handling with ProblemDetail &lpar;RFC 9457&rpar;](https://blog.vvauban.com/blog/spring-boot-api-error-handling-with-problemdetail-rfc-9457)
+- [🔌🕸️ JAKARTA EE WEBSOCKET: REAL-TIME SERVER + JAVA CLIENT &lpar;NO MAGIC, JUST API&rpar;](https://blog.vvauban.com/blog/jakarta-ee-websocket-real-time-server-java-client-no-magic-just-api)
+- [🚦🧪 RUN TESTS IN PARALLEL IN GITHUB ACTIONS WITH A MATRIX](https://blog.vvauban.com/blog/run-tests-in-parallel-in-github-actions-with-a-matrix)
 <!-- BLOG-POST-LIST:END -->
