@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📊 POLL: Do you use git blame? DAILY/ SOMETIMES/ NEVER/ DEPENDS](https://blog.vvauban.com/blog/poll-do-you-use-git-blame-daily-sometimes-never-depends)
-- [💾📚 JAVAALMANAC.IO: THE JAVA VERSION ALMANAC &lpar;YOUR “WHAT CHANGED?” COMPASS&rpar;](https://blog.vvauban.com/blog/javaalmanac-io-the-java-version-almanac-your-what-changed-compass)
-- [🧩🚨 Spring Boot API error handling with ProblemDetail &lpar;RFC 9457&rpar;](https://blog.vvauban.com/blog/spring-boot-api-error-handling-with-problemdetail-rfc-9457)
-- [🔌🕸️ JAKARTA EE WEBSOCKET: REAL-TIME SERVER + JAVA CLIENT &lpar;NO MAGIC, JUST API&rpar;](https://blog.vvauban.com/blog/jakarta-ee-websocket-real-time-server-java-client-no-magic-just-api)
-- [🚦🧪 RUN TESTS IN PARALLEL IN GITHUB ACTIONS WITH A MATRIX](https://blog.vvauban.com/blog/run-tests-in-parallel-in-github-actions-with-a-matrix)
+- [📩🧵 JAVA MESSAGING SERVICE &lpar;JMS&rpar; — QUEUES VS TOPICS](https://blog.vvauban.com/blog/java-messaging-service-jms-queues-vs-topics)
+- [💉⚙️ CDI ALTERNATIVES: WHICH IMPLEMENTATION GETS INJECTED?](https://blog.vvauban.com/blog/cdi-alternatives-which-implementation-gets-injected)
+- [🤖🚀 BUILD A SPRING AI CHATBOT API WITH ONE ENDPOINT &lpar;OPENROUTER&rpar;](https://blog.vvauban.com/blog/build-a-spring-ai-chatbot-api-with-one-endpoint-openrouter)
+- [🧠⚖️ OPTAPLANNER CONSTRAINT STREAMS: SCORING WITH PENALTIES](https://blog.vvauban.com/blog/optaplanner-constraint-streams-scoring-with-penalties)
+- [⚡🧵 WEBFLUX/NETTY VS VIRTUAL THREADS/TOMCAT IN SPRING BOOT &lpar;REAL-WORLD CHOICE&rpar;](https://blog.vvauban.com/blog/webflux-netty-vs-virtual-threads-tomcat-in-spring-boot-real-world-choice)
 <!-- BLOG-POST-LIST:END -->
