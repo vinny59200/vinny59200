@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📩🧵 JAVA MESSAGING SERVICE &lpar;JMS&rpar; — QUEUES VS TOPICS](https://blog.vvauban.com/blog/java-messaging-service-jms-queues-vs-topics)
-- [💉⚙️ CDI ALTERNATIVES: WHICH IMPLEMENTATION GETS INJECTED?](https://blog.vvauban.com/blog/cdi-alternatives-which-implementation-gets-injected)
-- [🤖🚀 BUILD A SPRING AI CHATBOT API WITH ONE ENDPOINT &lpar;OPENROUTER&rpar;](https://blog.vvauban.com/blog/build-a-spring-ai-chatbot-api-with-one-endpoint-openrouter)
-- [🧠⚖️ OPTAPLANNER CONSTRAINT STREAMS: SCORING WITH PENALTIES](https://blog.vvauban.com/blog/optaplanner-constraint-streams-scoring-with-penalties)
-- [⚡🧵 WEBFLUX/NETTY VS VIRTUAL THREADS/TOMCAT IN SPRING BOOT &lpar;REAL-WORLD CHOICE&rpar;](https://blog.vvauban.com/blog/webflux-netty-vs-virtual-threads-tomcat-in-spring-boot-real-world-choice)
+- [🌐🧩 RESTFUL WEB SERVICES WITH JAX-RS &lpar;JAKARTA REST&rpar;](https://blog.vvauban.com/blog/restful-web-services-with-jax-rs-jakarta-rest)
+- [🤖📈 AI REALITY CHECK FOR DEVELOPERS](https://blog.vvauban.com/blog/ai-reality-check-for-developers)
+- [📊POLL: What’s the elite developer language?RUST/ CLOJURE/ JAVA/ DEPENDS 👑](https://blog.vvauban.com/blog/poll-what-s-the-elite-developer-language-rust-clojure-java-depends)
+- [🕵️‍♂️📦 GUESS THE JAVA VERSION: STATIC IMPORT EDITION](https://blog.vvauban.com/blog/guess-the-java-version-static-import-edition)
+- [🚀🛠️ SPRING BOOT 3 ➜ 4 WITH OPENREWRITE &lpar;VIDEO DEMO&rpar;](https://blog.vvauban.com/blog/spring-boot-3-4-with-openrewrite-video-demo)
 <!-- BLOG-POST-LIST:END -->
