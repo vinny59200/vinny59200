@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌐🧩 RESTFUL WEB SERVICES WITH JAX-RS &lpar;JAKARTA REST&rpar;](https://blog.vvauban.com/blog/restful-web-services-with-jax-rs-jakarta-rest)
-- [🤖📈 AI REALITY CHECK FOR DEVELOPERS](https://blog.vvauban.com/blog/ai-reality-check-for-developers)
-- [📊POLL: What’s the elite developer language?RUST/ CLOJURE/ JAVA/ DEPENDS 👑](https://blog.vvauban.com/blog/poll-what-s-the-elite-developer-language-rust-clojure-java-depends)
-- [🕵️‍♂️📦 GUESS THE JAVA VERSION: STATIC IMPORT EDITION](https://blog.vvauban.com/blog/guess-the-java-version-static-import-edition)
-- [🚀🛠️ SPRING BOOT 3 ➜ 4 WITH OPENREWRITE &lpar;VIDEO DEMO&rpar;](https://blog.vvauban.com/blog/spring-boot-3-4-with-openrewrite-video-demo)
+- [📓🛠️ ENGINEERING DAY BOOK: YOUR DAILY DEV COMPASS](https://blog.vvauban.com/blog/engineering-day-book-your-daily-dev-compass)
+- [🎖️🌱 VEXPERT RENEWAL: A COMMUNITY AWARD, NOT A CERTIFICATION](https://blog.vvauban.com/blog/vexpert-renewal-a-community-award-not-a-certification)
+- [🛡️🧩 GUARDED PATTERNS WITH WHEN IN JAVA &lpar;JDK 21+&rpar;](https://blog.vvauban.com/blog/guarded-patterns-with-when-in-java-jdk-21)
+- [🔌🧩 WEBSOCKET HANDLERS: WHICH MESSAGE TYPES ARE VALID?](https://blog.vvauban.com/blog/websocket-handlers-which-message-types-are-valid)
+- [☁️🌱 SPRING CLOUD &lpar;WITHOUT THE HYPE&rpar;](https://blog.vvauban.com/blog/spring-cloud-without-the-hype)
 <!-- BLOG-POST-LIST:END -->
