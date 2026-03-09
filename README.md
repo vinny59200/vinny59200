@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📓🛠️ ENGINEERING DAY BOOK: YOUR DAILY DEV COMPASS](https://blog.vvauban.com/blog/engineering-day-book-your-daily-dev-compass)
-- [🎖️🌱 VEXPERT RENEWAL: A COMMUNITY AWARD, NOT A CERTIFICATION](https://blog.vvauban.com/blog/vexpert-renewal-a-community-award-not-a-certification)
-- [🛡️🧩 GUARDED PATTERNS WITH WHEN IN JAVA &lpar;JDK 21+&rpar;](https://blog.vvauban.com/blog/guarded-patterns-with-when-in-java-jdk-21)
-- [🔌🧩 WEBSOCKET HANDLERS: WHICH MESSAGE TYPES ARE VALID?](https://blog.vvauban.com/blog/websocket-handlers-which-message-types-are-valid)
-- [☁️🌱 SPRING CLOUD &lpar;WITHOUT THE HYPE&rpar;](https://blog.vvauban.com/blog/spring-cloud-without-the-hype)
+- [🧠🛰️ KAFKA STREAMS FEATURES QUIZ: WHAT’S REALLY BUILT-IN?](https://blog.vvauban.com/blog/kafka-streams-features-quiz-what-s-really-built-in)
+- [🧩🚀 MICROSERVICES WITH JAKARTA EE: CLIENT + CONTROLLER/SERVICE/DAO &lpar;WITH CODE&rpar;](https://blog.vvauban.com/blog/microservices-with-jakarta-ee-client-controller-service-dao-with-code)
+- [⚡⏱️ ALGORITHM SPEED: HOW FAST IS YOUR CODE, REALLY?](https://blog.vvauban.com/blog/algorithm-speed-how-fast-is-your-code-really)
+- [☕⚔️ JAVA VS SCALA: 10 JVM FEATURES IN CODE](https://blog.vvauban.com/blog/java-vs-scala-10-jvm-features-in-code)
+- [🧱✨ COMPACT CANONICAL CONSTRUCTORS IN JAVA RECORDS &lpar;JDK 16+&rpar;](https://blog.vvauban.com/blog/compact-canonical-constructors-in-java-records-jdk-16)
 <!-- BLOG-POST-LIST:END -->
