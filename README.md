@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧠🛰️ KAFKA STREAMS FEATURES QUIZ: WHAT’S REALLY BUILT-IN?](https://blog.vvauban.com/blog/kafka-streams-features-quiz-what-s-really-built-in)
-- [🧩🚀 MICROSERVICES WITH JAKARTA EE: CLIENT + CONTROLLER/SERVICE/DAO &lpar;WITH CODE&rpar;](https://blog.vvauban.com/blog/microservices-with-jakarta-ee-client-controller-service-dao-with-code)
-- [⚡⏱️ ALGORITHM SPEED: HOW FAST IS YOUR CODE, REALLY?](https://blog.vvauban.com/blog/algorithm-speed-how-fast-is-your-code-really)
-- [☕⚔️ JAVA VS SCALA: 10 JVM FEATURES IN CODE](https://blog.vvauban.com/blog/java-vs-scala-10-jvm-features-in-code)
-- [🧱✨ COMPACT CANONICAL CONSTRUCTORS IN JAVA RECORDS &lpar;JDK 16+&rpar;](https://blog.vvauban.com/blog/compact-canonical-constructors-in-java-records-jdk-16)
+- [🌐🔌 HTTP VS WEBSOCKETS: DO YOU KNOW HOW THEY REALLY CONNECT?](https://blog.vvauban.com/blog/http-vs-websockets-do-you-know-how-they-really-connect)
+- [🌐☕ SERVLET DEVELOPMENT: THE FOUNDATIONS OF JAVA WEB APPLICATIONS](https://blog.vvauban.com/blog/servlet-development-the-foundations-of-java-web-applications)
+- [💧🧩 DRY PRINCIPLE IN SOFTWARE DEVELOPMENT: AVOID DUPLICATION, WRITE BETTER CODE](https://blog.vvauban.com/blog/dry-principle-in-software-development-avoid-duplication-write-better-code)
+- [☕🎓 JAVA 21 OCP — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀](https://blog.vvauban.com/blog/java-21-ocp-test-yourself-3-questions-in-the-carousel-0de5c23d-25c9-4808-bcd2-2ebdcf65ad1b)
+- [🧩☕ DEFAULT METHODS IN JAVA INTERFACES &lpar;SINCE JAVA 8&rpar;](https://blog.vvauban.com/blog/default-methods-in-java-interfaces-since-java-8)
 <!-- BLOG-POST-LIST:END -->
