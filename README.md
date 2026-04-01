@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🌐🔌 HTTP VS WEBSOCKETS: DO YOU KNOW HOW THEY REALLY CONNECT?](https://blog.vvauban.com/blog/http-vs-websockets-do-you-know-how-they-really-connect)
-- [🌐☕ SERVLET DEVELOPMENT: THE FOUNDATIONS OF JAVA WEB APPLICATIONS](https://blog.vvauban.com/blog/servlet-development-the-foundations-of-java-web-applications)
-- [💧🧩 DRY PRINCIPLE IN SOFTWARE DEVELOPMENT: AVOID DUPLICATION, WRITE BETTER CODE](https://blog.vvauban.com/blog/dry-principle-in-software-development-avoid-duplication-write-better-code)
-- [☕🎓 JAVA 21 OCP — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀](https://blog.vvauban.com/blog/java-21-ocp-test-yourself-3-questions-in-the-carousel-0de5c23d-25c9-4808-bcd2-2ebdcf65ad1b)
-- [🧩☕ DEFAULT METHODS IN JAVA INTERFACES &lpar;SINCE JAVA 8&rpar;](https://blog.vvauban.com/blog/default-methods-in-java-interfaces-since-java-8)
+- [⚙️⏱️ SPRING BATCH VS @SCHEDULED: THEY DO NOT SOLVE THE SAME PROBLEM](https://blog.vvauban.com/blog/spring-batch-vs-scheduled-they-do-not-solve-the-same-problem)
+- [🧠☕ &quot;Guess the Java Version&quot; challenge? teeing](https://blog.vvauban.com/blog/guess-the-java-version-challenge-teeing)
+- [🤖☕ CLAWRUNR SHOWS WHAT A JAVA AI AGENT RUNTIME CAN LOOK LIKE](https://blog.vvauban.com/blog/clawrunr-shows-what-a-java-ai-agent-runtime-can-look-like)
+- [🤔OPINION: vibe code only what you can actually REVIEW](https://blog.vvauban.com/blog/opinion-vibe-code-only-what-you-can-actually-review)
+- [🟣📚 DEQUE: THE JAVA EXAM TRAP YOU SHOULD NOT UNDERESTIMATE](https://blog.vvauban.com/blog/deque-the-java-exam-trap-you-should-not-underestimate)
 <!-- BLOG-POST-LIST:END -->
