@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚙️⏱️ SPRING BATCH VS @SCHEDULED: THEY DO NOT SOLVE THE SAME PROBLEM](https://blog.vvauban.com/blog/spring-batch-vs-scheduled-they-do-not-solve-the-same-problem)
-- [🧠☕ &quot;Guess the Java Version&quot; challenge? teeing](https://blog.vvauban.com/blog/guess-the-java-version-challenge-teeing)
-- [🤖☕ CLAWRUNR SHOWS WHAT A JAVA AI AGENT RUNTIME CAN LOOK LIKE](https://blog.vvauban.com/blog/clawrunr-shows-what-a-java-ai-agent-runtime-can-look-like)
-- [🤔OPINION: vibe code only what you can actually REVIEW](https://blog.vvauban.com/blog/opinion-vibe-code-only-what-you-can-actually-review)
-- [🟣📚 DEQUE: THE JAVA EXAM TRAP YOU SHOULD NOT UNDERESTIMATE](https://blog.vvauban.com/blog/deque-the-java-exam-trap-you-should-not-underestimate)
+- [🚩☕ 10 JAVA RED FLAGS THAT REVEAL A BAD JAVA DEVELOPER](https://blog.vvauban.com/blog/10-java-red-flags-that-reveal-a-bad-java-developer)
+- [☕🎓 JAVA 21 OCP — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀 episod20](https://blog.vvauban.com/blog/java-21-ocp-test-yourself-3-questions-in-the-carousel-episod20)
+- [☕✨ LET’S TALK AGAIN ABOUT SPRING BOOT 4 NULL SAFETY](https://blog.vvauban.com/blog/let-s-talk-again-about-spring-boot-4-null-safety)
+- [🔍☕ GUESS THE JAVA VERSION: CAN YOU SPOT THE CLUE? &lpar;HASHMAP&rpar;](https://blog.vvauban.com/blog/guess-the-java-version-can-you-spot-the-clue-hashmap)
+- [☕📘 JCP ACRONYMS MADE SIMPLE](https://blog.vvauban.com/blog/jcp-acronyms-made-simple)
 <!-- BLOG-POST-LIST:END -->
