@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🚩☕ 10 JAVA RED FLAGS THAT REVEAL A BAD JAVA DEVELOPER](https://blog.vvauban.com/blog/10-java-red-flags-that-reveal-a-bad-java-developer)
-- [☕🎓 JAVA 21 OCP — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀 episod20](https://blog.vvauban.com/blog/java-21-ocp-test-yourself-3-questions-in-the-carousel-episod20)
-- [☕✨ LET’S TALK AGAIN ABOUT SPRING BOOT 4 NULL SAFETY](https://blog.vvauban.com/blog/let-s-talk-again-about-spring-boot-4-null-safety)
-- [🔍☕ GUESS THE JAVA VERSION: CAN YOU SPOT THE CLUE? &lpar;HASHMAP&rpar;](https://blog.vvauban.com/blog/guess-the-java-version-can-you-spot-the-clue-hashmap)
-- [☕📘 JCP ACRONYMS MADE SIMPLE](https://blog.vvauban.com/blog/jcp-acronyms-made-simple)
+- [☕ Java 27 — JEP 527: Post-quantum TLS 1.3 hybrid key exchange](https://blog.vvauban.com/blog/java-27-jep-527-post-quantum-tls-1-3-hybrid-key-exchange)
+- [☕ Java 26 — JEP 517: HTTP/3 for the HTTP Client API](https://blog.vvauban.com/blog/java-26-jep-517-http-3-for-the-http-client-api)
+- [🎉☕ 10,000 FOLLOWERS ON LINKEDIN: THANK YOU FOR GROWING THIS JAVA JOURNEY WITH ME](https://blog.vvauban.com/blog/10-000-followers-on-linkedin-thank-you-for-growing-this-java-journey-with-me)
+- [☕ Java 26 — JEP 504: Remove the Applet API](https://blog.vvauban.com/blog/java-26-jep-504-remove-the-applet-api)
+- [🚦🧊 JAVA IMMUTABILITY: THE WORDS MOST DEVS MIX UP: Unmodifiable, Immutable, Shallowly/ Deeply immutable, final](https://blog.vvauban.com/blog/java-immutability-the-words-most-devs-mix-up-unmodifiable-immutable)
 <!-- BLOG-POST-LIST:END -->
