@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [☕ Java 27 — JEP 527: Post-quantum TLS 1.3 hybrid key exchange](https://blog.vvauban.com/blog/java-27-jep-527-post-quantum-tls-1-3-hybrid-key-exchange)
-- [☕ Java 26 — JEP 517: HTTP/3 for the HTTP Client API](https://blog.vvauban.com/blog/java-26-jep-517-http-3-for-the-http-client-api)
-- [🎉☕ 10,000 FOLLOWERS ON LINKEDIN: THANK YOU FOR GROWING THIS JAVA JOURNEY WITH ME](https://blog.vvauban.com/blog/10-000-followers-on-linkedin-thank-you-for-growing-this-java-journey-with-me)
-- [☕ Java 26 — JEP 504: Remove the Applet API](https://blog.vvauban.com/blog/java-26-jep-504-remove-the-applet-api)
-- [🚦🧊 JAVA IMMUTABILITY: THE WORDS MOST DEVS MIX UP: Unmodifiable, Immutable, Shallowly/ Deeply immutable, final](https://blog.vvauban.com/blog/java-immutability-the-words-most-devs-mix-up-unmodifiable-immutable)
+- [☕🐘 PLUG JAVA INTO PGVECTOR](https://blog.vvauban.com/blog/plug-java-into-pgvector)
+- [☕ Java 26 — JEP 516: Ahead-of-time object caching with any GC](https://blog.vvauban.com/blog/java-26-jep-516-ahead-of-time-object-caching-with-any-gc)
+- [☕🎓 JAVA 21 OCP — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀](https://blog.vvauban.com/blog/java-21-ocp-test-yourself-3-questions-in-the-carousel-a5a8a44e-76a9-455c-84eb-98d151f085ef)
+- [☕ Java 26 — JEP 522: G1 throughput improvement by reducing synchronization](https://blog.vvauban.com/blog/java-26-jep-522-g1-throughput-improvement-by-reducing-synchronization)
+- [☕ Java 26 — JEP 500: Prepare to make final mean final](https://blog.vvauban.com/blog/java-26-jep-500-prepare-to-make-final-mean-final)
 <!-- BLOG-POST-LIST:END -->
