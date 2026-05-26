@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [☕🐘 PLUG JAVA INTO PGVECTOR](https://blog.vvauban.com/blog/plug-java-into-pgvector)
-- [☕ Java 26 — JEP 516: Ahead-of-time object caching with any GC](https://blog.vvauban.com/blog/java-26-jep-516-ahead-of-time-object-caching-with-any-gc)
-- [☕🎓 JAVA 21 OCP — TEST YOURSELF &lpar;3 QUESTIONS IN THE CAROUSEL&rpar; 🚀](https://blog.vvauban.com/blog/java-21-ocp-test-yourself-3-questions-in-the-carousel-a5a8a44e-76a9-455c-84eb-98d151f085ef)
-- [☕ Java 26 — JEP 522: G1 throughput improvement by reducing synchronization](https://blog.vvauban.com/blog/java-26-jep-522-g1-throughput-improvement-by-reducing-synchronization)
-- [☕ Java 26 — JEP 500: Prepare to make final mean final](https://blog.vvauban.com/blog/java-26-jep-500-prepare-to-make-final-mean-final)
+- [🧭☕ ASK VINCENT: HOW TO GROW AS A JAVA ENGINEER FOR INTERNATIONAL MARKETS](https://blog.vvauban.com/blog/ask-vincent-how-to-grow-as-a-java-engineer-for-international-markets)
+- [🖥️🌱 SPRING SHELL: WHEN YOUR SPRING BOOT APP NEEDS A TERMINAL](https://blog.vvauban.com/blog/spring-shell-when-your-spring-boot-app-needs-a-terminal)
+- [🧩🔄 EVENTUAL CONSISTENCY: WHEN YOUR SYSTEM IS NOT WRONG, JUST NOT SYNCHRONIZED YET](https://blog.vvauban.com/blog/eventual-consistency-when-your-system-is-not-wrong-just-not-synchronized)
+- [🧩⚙️ FLOWLOGIX EE COMPONENTS: JAKARTA EE HELPERS THAT REMOVE BORING BOILERPLATE](https://blog.vvauban.com/blog/flowlogix-ee-components-jakarta-ee-helpers-that-remove-boring-boilerplate)
+- [🧩🗄️ how do you fetch a multi-level object graph? JOIN/ MULTISET/ SPLIT/ DEPENDS](https://blog.vvauban.com/blog/how-do-you-fetch-a-multi-level-object-graph-join-multiset-split-depends)
 <!-- BLOG-POST-LIST:END -->
