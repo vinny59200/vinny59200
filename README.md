@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🧭☕ ASK VINCENT: HOW TO GROW AS A JAVA ENGINEER FOR INTERNATIONAL MARKETS](https://blog.vvauban.com/blog/ask-vincent-how-to-grow-as-a-java-engineer-for-international-markets)
-- [🖥️🌱 SPRING SHELL: WHEN YOUR SPRING BOOT APP NEEDS A TERMINAL](https://blog.vvauban.com/blog/spring-shell-when-your-spring-boot-app-needs-a-terminal)
-- [🧩🔄 EVENTUAL CONSISTENCY: WHEN YOUR SYSTEM IS NOT WRONG, JUST NOT SYNCHRONIZED YET](https://blog.vvauban.com/blog/eventual-consistency-when-your-system-is-not-wrong-just-not-synchronized)
-- [🧩⚙️ FLOWLOGIX EE COMPONENTS: JAKARTA EE HELPERS THAT REMOVE BORING BOILERPLATE](https://blog.vvauban.com/blog/flowlogix-ee-components-jakarta-ee-helpers-that-remove-boring-boilerplate)
-- [🧩🗄️ how do you fetch a multi-level object graph? JOIN/ MULTISET/ SPLIT/ DEPENDS](https://blog.vvauban.com/blog/how-do-you-fetch-a-multi-level-object-graph-join-multiset-split-depends)
+- [🔐🌐 MASTERING OAUTH2 AND OPENID CONNECT WITH SPRING BOOT](https://blog.vvauban.com/blog/mastering-oauth2-and-openid-connect-with-spring-boot)
+- [🧠☕ JAVA MEMORY IS NOT ALWAYS WASTE](https://blog.vvauban.com/blog/java-memory-is-not-always-waste)
+- [🤖👀 Mythos SEES, Mythos FOUND 👉 Mythos found 482 CVEs, Spring says: PATCH NOW](https://blog.vvauban.com/blog/mythos-sees-mythos-found-mythos-found-482-cves-spring-says-patch-now)
+- [🔍⚡ SQM: THE BETTER JPQL IN 3 KEY POINTS by Vlad Mihalcea](https://blog.vvauban.com/blog/sqm-the-better-jpql-in-3-key-points-by-vlad-mihalcea)
+- [Honored to continue my journey as an Oracle ACE Associate! 🚀](https://blog.vvauban.com/blog/honored-to-continue-my-journey-as-an-oracle-ace-associate)
 <!-- BLOG-POST-LIST:END -->
