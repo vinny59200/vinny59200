@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🔐🌐 MASTERING OAUTH2 AND OPENID CONNECT WITH SPRING BOOT](https://blog.vvauban.com/blog/mastering-oauth2-and-openid-connect-with-spring-boot)
-- [🧠☕ JAVA MEMORY IS NOT ALWAYS WASTE](https://blog.vvauban.com/blog/java-memory-is-not-always-waste)
-- [🤖👀 Mythos SEES, Mythos FOUND 👉 Mythos found 482 CVEs, Spring says: PATCH NOW](https://blog.vvauban.com/blog/mythos-sees-mythos-found-mythos-found-482-cves-spring-says-patch-now)
-- [🔍⚡ SQM: THE BETTER JPQL IN 3 KEY POINTS by Vlad Mihalcea](https://blog.vvauban.com/blog/sqm-the-better-jpql-in-3-key-points-by-vlad-mihalcea)
-- [Honored to continue my journey as an Oracle ACE Associate! 🚀](https://blog.vvauban.com/blog/honored-to-continue-my-journey-as-an-oracle-ace-associate)
+- [🍃⚡ SPRING BOOT 4.1.0: LAZY JDBC CONNECTIONS + GRPC](https://blog.vvauban.com/blog/spring-boot-4-1-0-lazy-jdbc-connections-grpc)
+- [Ask a Lille Dev: What Java Developers Really Think About Quality, Frameworks, Communities, and Careers](https://blog.vvauban.com/blog/ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks)
+- [🔐🌱 BUILDING A SPRING AUTHORIZATION SERVER: A PRACTICAL STARTING POINT](https://blog.vvauban.com/blog/building-a-spring-authorization-server-a-practical-starting-point)
+- [☕🧩 What is your FAVORITE JAVA framework? SPRING/ QUARKUS/ OTHER/ DEPENDS](https://blog.vvauban.com/blog/what-is-your-favorite-java-framework-spring-quarkus-other-depends)
+- [🛡️🤖 SOFTWARE SECURITY IS NOW A DEVELOPER SKILL](https://blog.vvauban.com/blog/software-security-is-now-a-developer-skill)
 <!-- BLOG-POST-LIST:END -->
