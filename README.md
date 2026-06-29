@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🍃⚡ SPRING BOOT 4.1.0: LAZY JDBC CONNECTIONS + GRPC](https://blog.vvauban.com/blog/spring-boot-4-1-0-lazy-jdbc-connections-grpc)
-- [Ask a Lille Dev: What Java Developers Really Think About Quality, Frameworks, Communities, and Careers](https://blog.vvauban.com/blog/ask-a-lille-dev-what-java-developers-really-think-about-quality-frameworks)
-- [🔐🌱 BUILDING A SPRING AUTHORIZATION SERVER: A PRACTICAL STARTING POINT](https://blog.vvauban.com/blog/building-a-spring-authorization-server-a-practical-starting-point)
-- [☕🧩 What is your FAVORITE JAVA framework? SPRING/ QUARKUS/ OTHER/ DEPENDS](https://blog.vvauban.com/blog/what-is-your-favorite-java-framework-spring-quarkus-other-depends)
-- [🛡️🤖 SOFTWARE SECURITY IS NOW A DEVELOPER SKILL](https://blog.vvauban.com/blog/software-security-is-now-a-developer-skill)
+- [📊[POLL] When is “Done” REALLY DONE?](https://blog.vvauban.com/blog/poll-when-is-done-really-done)
+- [Project Valhalla explained by Cay Horstmann ☕🏆 &lpar;Java Champion&rpar;](https://blog.vvauban.com/blog/project-valhalla-explained-by-cay-horstmann-java-champion)
+- [🛠️🔁 MODERNE OPENREWRITE: MIGRATE SPRING BOOT WITHOUT GUESSING](https://blog.vvauban.com/blog/moderne-openrewrite-migrate-spring-boot-without-guessing)
+- [How to Network at Online Tech Conferences💬🚀 by Java Champion Bruno Souza feat Vincent Vauban](https://blog.vvauban.com/blog/how-to-network-at-online-tech-conferences-by-java-champion-bruno-souza-feat)
+- [🪄🌱 SPRING BOOT AOP: CENTRALIZE CROSS-CUTTING CONCERNS WITHOUT POLLUTING BUSINESS CODE](https://blog.vvauban.com/blog/spring-boot-aop-centralize-cross-cutting-concerns-without-polluting)
 <!-- BLOG-POST-LIST:END -->
