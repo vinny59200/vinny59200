@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📊[POLL] When is “Done” REALLY DONE?](https://blog.vvauban.com/blog/poll-when-is-done-really-done)
-- [Project Valhalla explained by Cay Horstmann ☕🏆 &lpar;Java Champion&rpar;](https://blog.vvauban.com/blog/project-valhalla-explained-by-cay-horstmann-java-champion)
-- [🛠️🔁 MODERNE OPENREWRITE: MIGRATE SPRING BOOT WITHOUT GUESSING](https://blog.vvauban.com/blog/moderne-openrewrite-migrate-spring-boot-without-guessing)
-- [How to Network at Online Tech Conferences💬🚀 by Java Champion Bruno Souza feat Vincent Vauban](https://blog.vvauban.com/blog/how-to-network-at-online-tech-conferences-by-java-champion-bruno-souza-feat)
-- [🪄🌱 SPRING BOOT AOP: CENTRALIZE CROSS-CUTTING CONCERNS WITHOUT POLLUTING BUSINESS CODE](https://blog.vvauban.com/blog/spring-boot-aop-centralize-cross-cutting-concerns-without-polluting)
+- [🗄️☕ HOW HIBERNATE STORES SECOND-LEVEL CACHE ENTRIES inspired by Java Champion Vlad Mihalcea](https://blog.vvauban.com/blog/how-hibernate-stores-second-level-cache-entries-inspired-by-java-champion)
+- [🧊☕ IMMUTABLE DATA IN JAVA: NOT JUST final](https://blog.vvauban.com/blog/immutable-data-in-java-not-just-final)
+- [📊[POLL] Will clients REALLY REPLACE programmers with AI? MAINTENANCE/ EMERGENCY/ TRADEOFF_PICK/ CLEAR_NEED](https://blog.vvauban.com/blog/poll-will-clients-really-replace-programmers-with-ai-maintenance)
+- [☠️☕ NULLS ARE NOT DEAD… BUT THEY ARE FINALLY BEING TRACKED](https://blog.vvauban.com/blog/nulls-are-not-dead-but-they-are-finally-being-tracked)
+- [🔐☕ SECURE BY DESIGN: STOP PUTTING JAVA SECRETS IN YOUR CODE inspired by Java Champion Alex Soto](https://blog.vvauban.com/blog/secure-by-design-stop-putting-java-secrets-in-your-code-inspired-by-java)
 <!-- BLOG-POST-LIST:END -->
