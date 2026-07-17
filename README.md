@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🗄️☕ HOW HIBERNATE STORES SECOND-LEVEL CACHE ENTRIES inspired by Java Champion Vlad Mihalcea](https://blog.vvauban.com/blog/how-hibernate-stores-second-level-cache-entries-inspired-by-java-champion)
-- [🧊☕ IMMUTABLE DATA IN JAVA: NOT JUST final](https://blog.vvauban.com/blog/immutable-data-in-java-not-just-final)
-- [📊[POLL] Will clients REALLY REPLACE programmers with AI? MAINTENANCE/ EMERGENCY/ TRADEOFF_PICK/ CLEAR_NEED](https://blog.vvauban.com/blog/poll-will-clients-really-replace-programmers-with-ai-maintenance)
-- [☠️☕ NULLS ARE NOT DEAD… BUT THEY ARE FINALLY BEING TRACKED](https://blog.vvauban.com/blog/nulls-are-not-dead-but-they-are-finally-being-tracked)
-- [🔐☕ SECURE BY DESIGN: STOP PUTTING JAVA SECRETS IN YOUR CODE inspired by Java Champion Alex Soto](https://blog.vvauban.com/blog/secure-by-design-stop-putting-java-secrets-in-your-code-inspired-by-java)
+- [🍃 MockMVC: What does “Mock” ACTUALLY mean?](https://blog.vvauban.com/blog/mockmvc-what-does-mock-actually-mean)
+- [🌱🚀 Spring VS Spring Boot: 5 KEY DIFFERENCES without the confusion](https://blog.vvauban.com/blog/spring-vs-spring-boot-5-key-differences-without-the-confusion)
+- [🗄️⚠️ SPRING DATA findAll&lpar;&rpar;: CONVENIENT, BUT NOT ALWAYS SAFE Inspired by Java Champion Vlad Mihalcea.](https://blog.vvauban.com/blog/spring-data-findall-convenient-but-not-always-safe-inspired-by-java)
+- [🔐🍃 Advanced AUTHORIZATION in SPRING SECURITY: secure the method, NOT JUST the endpoint](https://blog.vvauban.com/blog/advanced-authorization-in-spring-security-secure-the-method-not-just-the)
+- [🛠️🍃 SPRING TOOLS 5.2.0: BETTER IDE support for Spring developers](https://blog.vvauban.com/blog/spring-tools-5-2-0-better-ide-support-for-spring-developers)
 <!-- BLOG-POST-LIST:END -->
