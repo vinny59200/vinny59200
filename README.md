@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🍃 MockMVC: What does “Mock” ACTUALLY mean?](https://blog.vvauban.com/blog/mockmvc-what-does-mock-actually-mean)
-- [🌱🚀 Spring VS Spring Boot: 5 KEY DIFFERENCES without the confusion](https://blog.vvauban.com/blog/spring-vs-spring-boot-5-key-differences-without-the-confusion)
-- [🗄️⚠️ SPRING DATA findAll&lpar;&rpar;: CONVENIENT, BUT NOT ALWAYS SAFE Inspired by Java Champion Vlad Mihalcea.](https://blog.vvauban.com/blog/spring-data-findall-convenient-but-not-always-safe-inspired-by-java)
-- [🔐🍃 Advanced AUTHORIZATION in SPRING SECURITY: secure the method, NOT JUST the endpoint](https://blog.vvauban.com/blog/advanced-authorization-in-spring-security-secure-the-method-not-just-the)
-- [🛠️🍃 SPRING TOOLS 5.2.0: BETTER IDE support for Spring developers](https://blog.vvauban.com/blog/spring-tools-5-2-0-better-ide-support-for-spring-developers)
+- [🤖💼 HOW DO YOU GET A DEVELOPER JOB IN 2026? Inspired by Trisha Gee](https://blog.vvauban.com/blog/how-do-you-get-a-developer-job-in-2026-inspired-by-trisha-gee)
+- [🔐🌱 IMPLEMENTING A SPRING OAUTH2 CLIENT FOR API CALLS](https://blog.vvauban.com/blog/implementing-a-spring-oauth2-client-for-api-calls)
+- [🍃 MockMVC: What does “Mock” ACTUALLY mean? inspired by Daniel Garnier-Moiroux](https://blog.vvauban.com/blog/mockmvc-what-does-mock-actually-mean-inspired-by-daniel-garnier-moiroux)
+- [🌱🚀 Spring VS Spring Boot: 5 KEY DIFFERENCES without the confusion](https://blog.vvauban.com/blog/spring-vs-spring-boot-5-key-differences-without-the-confusion-94e4b61b-61cb-454d-8782-4b9ec9455908)
+- [☕💡 JEP 401: VALUE CLASSES bring identity-FREE objects to Java &lpar;preview&rpar;](https://blog.vvauban.com/blog/jep-401-value-classes-bring-identity-free-objects-to-java-preview)
 <!-- BLOG-POST-LIST:END -->
