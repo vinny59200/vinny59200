@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🤖💼 HOW DO YOU GET A DEVELOPER JOB IN 2026? Inspired by Trisha Gee](https://blog.vvauban.com/blog/how-do-you-get-a-developer-job-in-2026-inspired-by-trisha-gee)
-- [🔐🌱 IMPLEMENTING A SPRING OAUTH2 CLIENT FOR API CALLS](https://blog.vvauban.com/blog/implementing-a-spring-oauth2-client-for-api-calls)
-- [🍃 MockMVC: What does “Mock” ACTUALLY mean? inspired by Daniel Garnier-Moiroux](https://blog.vvauban.com/blog/mockmvc-what-does-mock-actually-mean-inspired-by-daniel-garnier-moiroux)
-- [🌱🚀 Spring VS Spring Boot: 5 KEY DIFFERENCES without the confusion](https://blog.vvauban.com/blog/spring-vs-spring-boot-5-key-differences-without-the-confusion-94e4b61b-61cb-454d-8782-4b9ec9455908)
-- [☕💡 JEP 401: VALUE CLASSES bring identity-FREE objects to Java &lpar;preview&rpar;](https://blog.vvauban.com/blog/jep-401-value-classes-bring-identity-free-objects-to-java-preview)
+- [🤖☕ COULD JAVA BECOME A LEADING PLATFORM FOR AI APPLICATIONS?](https://blog.vvauban.com/blog/could-java-become-a-leading-platform-for-ai-applications)
+- [🧭🚀 AFTER JAVA FULLSTACK: from building features to engineering systems](https://blog.vvauban.com/blog/after-java-fullstack-from-building-features-to-engineering-systems)
+- [⚡☕ JAKARTA EE CAN have LIVE RELOAD BUT tooling matters](https://blog.vvauban.com/blog/jakarta-ee-can-have-live-reload-but-tooling-matters)
+- [🗄️🌱 How to integrate JAKARTA DATA with SPRING and HIBERNATE --Inspired by Vlad Mihalcea](https://blog.vvauban.com/blog/how-to-integrate-jakarta-data-with-spring-and-hibernate-inspired-by)
+- [🤖☕ EMBABEL 1.0.0 GA: 5 STEPS TO YOUR FIRST JAVA AGENT APP](https://blog.vvauban.com/blog/embabel-1-0-0-ga-5-steps-to-your-first-java-agent-app)
 <!-- BLOG-POST-LIST:END -->
