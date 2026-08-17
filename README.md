@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🤖☕ COULD JAVA BECOME A LEADING PLATFORM FOR AI APPLICATIONS?](https://blog.vvauban.com/blog/could-java-become-a-leading-platform-for-ai-applications)
-- [🧭🚀 AFTER JAVA FULLSTACK: from building features to engineering systems](https://blog.vvauban.com/blog/after-java-fullstack-from-building-features-to-engineering-systems)
-- [⚡☕ JAKARTA EE CAN have LIVE RELOAD BUT tooling matters](https://blog.vvauban.com/blog/jakarta-ee-can-have-live-reload-but-tooling-matters)
-- [🗄️🌱 How to integrate JAKARTA DATA with SPRING and HIBERNATE --Inspired by Vlad Mihalcea](https://blog.vvauban.com/blog/how-to-integrate-jakarta-data-with-spring-and-hibernate-inspired-by)
-- [🤖☕ EMBABEL 1.0.0 GA: 5 STEPS TO YOUR FIRST JAVA AGENT APP](https://blog.vvauban.com/blog/embabel-1-0-0-ga-5-steps-to-your-first-java-agent-app)
+- [🤖☕ JAKARTA AGENTIC AI M1 with 3 code snippets](https://blog.vvauban.com/blog/jakarta-agentic-ai-m1-with-3-code-snippets)
+- [🎙️ Java Interview Questions Podcast | Ace Your Next Java Developer Interview 💡](https://blog.vvauban.com/blog/java-interview-questions-podcast-ace-your-next-java-developer-interview)
+- [🧭🤖 SPEC-DRIVEN Development: How VIDOCQ puts it into practice](https://blog.vvauban.com/blog/spec-driven-development-how-vidocq-puts-it-into-practice)
+- [☕🗑️ JDK 27 is NEARING RELEASE: G1 becomes the DEFAULT GC EVERYWHERE](https://blog.vvauban.com/blog/jdk-27-is-nearing-release-g1-becomes-the-default-gc-everywhere)
+- [🧪⚡ Are your TESTS SLOWING you DOWN or SAVING you TIME?](https://blog.vvauban.com/blog/are-your-tests-slowing-you-down-or-saving-you-time)
 <!-- BLOG-POST-LIST:END -->
