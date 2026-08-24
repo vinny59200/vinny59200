@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🤖☕ AI coding agents are RESHAPING &lpar;NOT replacing&rpar; Java workflows](https://blog.vvauban.com/blog/ai-coding-agents-are-reshaping-not-replacing-java-workflows)
+- [🍃🚀 FLYWAY with SPRING BOOT in 5 practical STEPSAdd a Blog Post Title](https://blog.vvauban.com/blog/flyway-with-spring-boot-in-5-practical-stepsadd-a-blog-post-title)
+- [🎓🚀 What is the BEST TRAINING PATH after SENIOR DEVeloper?](https://blog.vvauban.com/blog/what-is-the-best-training-path-after-senior-developer)
 - [🤖☕ JAKARTA AGENTIC AI M1 with 3 code snippets](https://blog.vvauban.com/blog/jakarta-agentic-ai-m1-with-3-code-snippets)
 - [🎙️ Java Interview Questions Podcast | Ace Your Next Java Developer Interview 💡](https://blog.vvauban.com/blog/java-interview-questions-podcast-ace-your-next-java-developer-interview)
-- [🧭🤖 SPEC-DRIVEN Development: How VIDOCQ puts it into practice](https://blog.vvauban.com/blog/spec-driven-development-how-vidocq-puts-it-into-practice)
-- [☕🗑️ JDK 27 is NEARING RELEASE: G1 becomes the DEFAULT GC EVERYWHERE](https://blog.vvauban.com/blog/jdk-27-is-nearing-release-g1-becomes-the-default-gc-everywhere)
-- [🧪⚡ Are your TESTS SLOWING you DOWN or SAVING you TIME?](https://blog.vvauban.com/blog/are-your-tests-slowing-you-down-or-saving-you-time)
 <!-- BLOG-POST-LIST:END -->
