@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🤖☕ AI coding agents are RESHAPING &lpar;NOT replacing&rpar; Java workflows](https://blog.vvauban.com/blog/ai-coding-agents-are-reshaping-not-replacing-java-workflows)
-- [🍃🚀 FLYWAY with SPRING BOOT in 5 practical STEPSAdd a Blog Post Title](https://blog.vvauban.com/blog/flyway-with-spring-boot-in-5-practical-stepsadd-a-blog-post-title)
-- [🎓🚀 What is the BEST TRAINING PATH after SENIOR DEVeloper?](https://blog.vvauban.com/blog/what-is-the-best-training-path-after-senior-developer)
-- [🤖☕ JAKARTA AGENTIC AI M1 with 3 code snippets](https://blog.vvauban.com/blog/jakarta-agentic-ai-m1-with-3-code-snippets)
-- [🎙️ Java Interview Questions Podcast | Ace Your Next Java Developer Interview 💡](https://blog.vvauban.com/blog/java-interview-questions-podcast-ace-your-next-java-developer-interview)
+- [⚙️📊 CUSTOM Spring Boot ACTUATOR Endpoints: Expose your Own Diagnostics](https://blog.vvauban.com/blog/custom-spring-boot-actuator-endpoints-expose-your-own-diagnostics)
+- [🍬💊 Java 8 was CANDY; Java 9 was MEDICINE](https://blog.vvauban.com/blog/java-8-was-candy-java-9-was-medicine)
+- [🪵☕ HARDWOOD: A Modern Java Engine For APACHE PARQUET](https://blog.vvauban.com/blog/hardwood-a-modern-java-engine-for-apache-parquet)
+- [💻🧭 The 10 GOLDEN RULES of PROGRAMMING &lpar;with Java examples&rpar;](https://blog.vvauban.com/blog/the-10-golden-rules-of-programming-with-java-examples)
+- [🌐🛑 REST GET is for Fetching, NOT Editing](https://blog.vvauban.com/blog/rest-get-is-for-fetching-not-editing)
 <!-- BLOG-POST-LIST:END -->
