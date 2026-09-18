@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [⚙️📊 CUSTOM Spring Boot ACTUATOR Endpoints: Expose your Own Diagnostics](https://blog.vvauban.com/blog/custom-spring-boot-actuator-endpoints-expose-your-own-diagnostics)
-- [🍬💊 Java 8 was CANDY; Java 9 was MEDICINE](https://blog.vvauban.com/blog/java-8-was-candy-java-9-was-medicine)
-- [🪵☕ HARDWOOD: A Modern Java Engine For APACHE PARQUET](https://blog.vvauban.com/blog/hardwood-a-modern-java-engine-for-apache-parquet)
-- [💻🧭 The 10 GOLDEN RULES of PROGRAMMING &lpar;with Java examples&rpar;](https://blog.vvauban.com/blog/the-10-golden-rules-of-programming-with-java-examples)
-- [🌐🛑 REST GET is for Fetching, NOT Editing](https://blog.vvauban.com/blog/rest-get-is-for-fetching-not-editing)
+- [🧭🤝 Communication skills and LEADERSHIP are not only for MANAGERS](https://blog.vvauban.com/blog/communication-skills-and-leadership-are-not-only-for-managers)
+- [🧪🗄️ The BEST Way to TEST your DATA Access Layer](https://blog.vvauban.com/blog/the-best-way-to-test-your-data-access-layer)
+- [🕸️☕ LangGraph4J in 5 PRACTICAL STEPS](https://blog.vvauban.com/blog/langgraph4j-in-5-practical-steps)
+- [🤖🌱 10 THINGS From The SPRING ADVOCATES PODCAST: Spring AI 2.0 Edition](https://blog.vvauban.com/blog/10-things-from-the-spring-advocates-podcast-spring-ai-2-0-edition)
+- [✈️🔬 JDK FLIGHT RECORDER: LOW-OVERHEAD Java Observability In Production](https://blog.vvauban.com/blog/jdk-flight-recorder-low-overhead-java-observability-in-production)
 <!-- BLOG-POST-LIST:END -->
