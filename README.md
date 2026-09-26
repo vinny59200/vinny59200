@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [📊[POLL] Should CONSULTING be paid for TIME or RESULTS?](https://blog.vvauban.com/blog/poll-should-consulting-be-paid-for-time-or-results)
 - [🧭🤝 Communication skills and LEADERSHIP are not only for MANAGERS](https://blog.vvauban.com/blog/communication-skills-and-leadership-are-not-only-for-managers)
 - [🧪🗄️ The BEST Way to TEST your DATA Access Layer](https://blog.vvauban.com/blog/the-best-way-to-test-your-data-access-layer)
 - [🕸️☕ LangGraph4J in 5 PRACTICAL STEPS](https://blog.vvauban.com/blog/langgraph4j-in-5-practical-steps)
 - [🤖🌱 10 THINGS From The SPRING ADVOCATES PODCAST: Spring AI 2.0 Edition](https://blog.vvauban.com/blog/10-things-from-the-spring-advocates-podcast-spring-ai-2-0-edition)
-- [✈️🔬 JDK FLIGHT RECORDER: LOW-OVERHEAD Java Observability In Production](https://blog.vvauban.com/blog/jdk-flight-recorder-low-overhead-java-observability-in-production)
 <!-- BLOG-POST-LIST:END -->
