@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [📊[POLL] Should CONSULTING be paid for TIME or RESULTS?](https://blog.vvauban.com/blog/poll-should-consulting-be-paid-for-time-or-results)
-- [🧭🤝 Communication skills and LEADERSHIP are not only for MANAGERS](https://blog.vvauban.com/blog/communication-skills-and-leadership-are-not-only-for-managers)
-- [🧪🗄️ The BEST Way to TEST your DATA Access Layer](https://blog.vvauban.com/blog/the-best-way-to-test-your-data-access-layer)
-- [🕸️☕ LangGraph4J in 5 PRACTICAL STEPS](https://blog.vvauban.com/blog/langgraph4j-in-5-practical-steps)
-- [🤖🌱 10 THINGS From The SPRING ADVOCATES PODCAST: Spring AI 2.0 Edition](https://blog.vvauban.com/blog/10-things-from-the-spring-advocates-podcast-spring-ai-2-0-edition)
+- [☕🤖 JAVA’S AGE is its AI SUPERPOWER](https://blog.vvauban.com/blog/java-s-age-is-its-ai-superpower)
+- [☕➿ JAVA CERTIFICATION LOOP: can you find the OUTPUT in 20 seconds?](https://blog.vvauban.com/blog/java-certification-loop-can-you-find-the-output-in-20-seconds)
+- [☕🔮 If you’re only learning what’s stable in Java TODAY, you may already be LATE.](https://blog.vvauban.com/blog/if-you-re-only-learning-what-s-stable-in-java-today-you-may-already-be-late)
+- [☕🐢 PERFORMANCE PITFALLS in JPA and Friends](https://blog.vvauban.com/blog/performance-pitfalls-in-jpa-and-friends)
+- [☕🧠 Does JAVA use TOO MUCH MEMORY?](https://blog.vvauban.com/blog/does-java-use-too-much-memory)
 <!-- BLOG-POST-LIST:END -->
