@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [☕🤖 JAVA’S AGE is its AI SUPERPOWER](https://blog.vvauban.com/blog/java-s-age-is-its-ai-superpower)
-- [☕➿ JAVA CERTIFICATION LOOP: can you find the OUTPUT in 20 seconds?](https://blog.vvauban.com/blog/java-certification-loop-can-you-find-the-output-in-20-seconds)
-- [☕🔮 If you’re only learning what’s stable in Java TODAY, you may already be LATE.](https://blog.vvauban.com/blog/if-you-re-only-learning-what-s-stable-in-java-today-you-may-already-be-late)
-- [☕🐢 PERFORMANCE PITFALLS in JPA and Friends](https://blog.vvauban.com/blog/performance-pitfalls-in-jpa-and-friends)
-- [☕🧠 Does JAVA use TOO MUCH MEMORY?](https://blog.vvauban.com/blog/does-java-use-too-much-memory)
+- [🤖⚖️ “The AI coded that MILLION-DOLLAR BUG!”: WRONG answer → you GO to JAIL! 😆](https://blog.vvauban.com/blog/the-ai-coded-that-million-dollar-bug-wrong-answer-you-go-to-jail)
+- [☕⚡ Why is the FIRST API CALL so SLOW? COLD START &amp; WARM-UP costs](https://blog.vvauban.com/blog/why-is-the-first-api-call-so-slow-cold-start-warm-up-costs)
+- [☕⏱️ In JAVA DateTime, is the YOUNGEST the MAX or the MIN?](https://blog.vvauban.com/blog/in-java-datetime-is-the-youngest-the-max-or-the-min)
+- [☕🔐 How to ENCRYPT and DECRYPT DATA with HIBERNATE](https://blog.vvauban.com/blog/how-to-encrypt-and-decrypt-data-with-hibernate)
+- [☕♠️ Want to become an ORACLE ACE? Start with ACE APPRENTICE](https://blog.vvauban.com/blog/want-to-become-an-oracle-ace-start-with-ace-apprentice)
 <!-- BLOG-POST-LIST:END -->
