@@ -47,9 +47,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [🤖⚖️ “The AI coded that MILLION-DOLLAR BUG!”: WRONG answer → you GO to JAIL! 😆](https://blog.vvauban.com/blog/the-ai-coded-that-million-dollar-bug-wrong-answer-you-go-to-jail)
-- [☕⚡ Why is the FIRST API CALL so SLOW? COLD START &amp; WARM-UP costs](https://blog.vvauban.com/blog/why-is-the-first-api-call-so-slow-cold-start-warm-up-costs)
-- [☕⏱️ In JAVA DateTime, is the YOUNGEST the MAX or the MIN?](https://blog.vvauban.com/blog/in-java-datetime-is-the-youngest-the-max-or-the-min)
-- [☕🔐 How to ENCRYPT and DECRYPT DATA with HIBERNATE](https://blog.vvauban.com/blog/how-to-encrypt-and-decrypt-data-with-hibernate)
-- [☕♠️ Want to become an ORACLE ACE? Start with ACE APPRENTICE](https://blog.vvauban.com/blog/want-to-become-an-oracle-ace-start-with-ace-apprentice)
+- [🍃🛡️ SPRING RELEASE changed: from SCATTERED PROJECT RELEASES to ONE-DAY ALL-IN-ONE](https://blog.vvauban.com/blog/spring-release-changed-from-scattered-project-releases-to-one-day)
+- [☕⚡ JAVA vs GROOVY: 7️⃣ DIFFERENCES + what GROOVY 6.0 brings](https://blog.vvauban.com/blog/java-vs-groovy-7-differences-what-groovy-6-0-brings)
+- [☕🍃 MERN is FAMOUS. But companies still NEED the JAVA STACK.](https://blog.vvauban.com/blog/mern-is-famous-but-companies-still-need-the-java-stack)
+- [☕✈️🍃✡️ HELIDON 27 vs SPRING BOOT vs QUARKUS: what REALLY changes?](https://blog.vvauban.com/blog/helidon-27-vs-spring-boot-vs-quarkus-what-really-changes)
+- [☕🔥 If the only JAVA you learn is the Java you use at WORK, you’re falling behind.](https://blog.vvauban.com/blog/if-the-only-java-you-learn-is-the-java-you-use-at-work-you-re-falling)
 <!-- BLOG-POST-LIST:END -->
